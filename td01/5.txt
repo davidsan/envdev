@@ -1,0 +1,26 @@
+1) perl -ple ''
+
+2) perl -ple 'print $., " " '
+
+perl -nel 'print $., " ", $_, "\n"'
+
+3) perl -nlae 'print @F+0'
+
+4) perl -nle "END { print $. }'
+
+5) perl -nle 'BEGIN{my $i=0;} if (length($_)>80){$i+=1} END {print $i}'
+
+6) perl -nle 'BEGIN {my $i=0} if {$_=~/([^:]+):([^:]*:){3}$1:/){$i+=1; print $_} END{print $i}'
+
+6bis) perl -F':' -nale '$n++ if ($F[0]==$F[3]); END { print $n }'
+
+7) 
+Un entier par ligne :
+perl -nle ' BEGIN{my $res=0;} $res=$res+$_; END{print $res;}' 
+
+Plusieurs entiers par ligne : 
+perl -nle ' BEGIN{my $res=0;} foreach my $i (split){ $res=$res+$i }; END{print $res;}' 
+
+v2:
+perl -nale '$somme+=$_ foreach @F; END{print $somme}'
+

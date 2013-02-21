@@ -1,0 +1,11 @@
+1)
+ls -d /etc/*.d
+ls /etc/ | egrep '^.*\.d$'
+
+2) pas d'évaluation RE
+
+3) yep
+
+4) ls *.d
+
+5) ls /etc/ | egrep '^.*\.[^d]*$'
