@@ -1,0 +1,17 @@
+400 /error/HTTP_BAD_REQUEST.html.var
+401 /error/HTTP_UNAUTHORIZED.html.var
+403 /error/HTTP_FORBIDDEN.html.var
+404 /error/HTTP_NOT_FOUND.html.var
+405 /error/HTTP_METHOD_NOT_ALLOWED.html.var
+408 /error/HTTP_REQUEST_TIME_OUT.html.var
+410 /error/HTTP_GONE.html.var
+411 /error/HTTP_LENGTH_REQUIRED.html.var
+412 /error/HTTP_PRECONDITION_FAILED.html.var
+413 /error/HTTP_REQUEST_ENTITY_TOO_LARGE.html.var
+414 /error/HTTP_REQUEST_URI_TOO_LARGE.html.var
+415 /error/HTTP_UNSUPPORTED_MEDIA_TYPE.html.var
+500 /error/HTTP_INTERNAL_SERVER_ERROR.html.var
+501 /error/HTTP_NOT_IMPLEMENTED.html.var
+502 /error/HTTP_BAD_GATEWAY.html.var
+503 /error/HTTP_SERVICE_UNAVAILABLE.html.var
+506 /error/HTTP_VARIANT_ALSO_VARIES.html.var

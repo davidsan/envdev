@@ -1,0 +1,10 @@
+Errata
+
+1)
+foreach  / for
+	for (1..12){ print }
+
+
+2)
+hashmap
+deréférencement $hash{expr}

@@ -1,0 +1,20 @@
+#! /usr/bin/perl -l
+my %w3c;
+$w3c{400}="/error/HTTP_BAD_REQUEST.html.var";
+$w3c{401}="/error/HTTP_UNAUTHORIZED.html.var";
+$w3c{403}="/error/HTTP_FORBIDDEN.html.var";
+$w3c{404}="/error/HTTP_NOT_FOUND.html.var";
+$w3c{405}="/error/HTTP_METHOD_NOT_ALLOWED.html.var";
+$w3c{408}="/error/HTTP_REQUEST_TIME_OUT.html.var";
+$w3c{410}="/error/HTTP_GONE.html.var";
+$w3c{411}="/error/HTTP_LENGTH_REQUIRED.html.var";
+$w3c{412}="/error/HTTP_PRECONDITION_FAILED.html.var";
+$w3c{413}="/error/HTTP_REQUEST_ENTITY_TOO_LARGE.html.var";
+$w3c{414}="/error/HTTP_REQUEST_URI_TOO_LARGE.html.var";
+$w3c{415}="/error/HTTP_UNSUPPORTED_MEDIA_TYPE.html.var";
+$w3c{500}="/error/HTTP_INTERNAL_SERVER_ERROR.html.var";
+$w3c{501}="/error/HTTP_NOT_IMPLEMENTED.html.var";
+$w3c{502}="/error/HTTP_BAD_GATEWAY.html.var";
+$w3c{503}="/error/HTTP_SERVICE_UNAVAILABLE.html.var";
+$w3c{506}="/error/HTTP_VARIANT_ALSO_VARIES.html.var";
+print $w3c{$ARGV[0]};

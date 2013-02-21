@@ -1,0 +1,31 @@
+Exercice 1 :
+doc perl 
+$ perldoc split
+
+1)
+perl -nle '$,=" ";print split(//, $_)' ../td01/toto
+
+2) TME
+
+3)
+perl -nl -0777 -e 'split /<[^>/][^>]*>/'
+
+Exercice 2 :
+1)
+perl -le 'for 1..10 {print};'
+
+2)
+perl -le 'print join "\n", @ARGV'
+
+3) TME
+perl -le 'while ($ARGV[0] < $ARGV[1]){ print $ARGV[0]; $ARGV[0]++;}' 
+
+Exercice 3 :
+
+2) TME
+./3q1.pl notes | sort -n -t';' -k3
+
+
+Exercice 4 :
+
+1) TME
