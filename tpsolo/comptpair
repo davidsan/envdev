@@ -1,0 +1,8 @@
+#! /usr/bin/perl
+my $a=0;
+while (<>){
+  for $w (split){
+  	++$a if length($w)%2==0;
+  }
+}
+print $a;

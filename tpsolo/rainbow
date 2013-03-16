@@ -1,0 +1,9 @@
+#! /usr/bin/perl
+while (<>){
+  for $w (split){
+ 	$rand=int(rand(10));
+  	$str=`tput setaf $rand`;
+
+    print "$str $w";
+  }
+}

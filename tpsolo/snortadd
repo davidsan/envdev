@@ -1,0 +1,35 @@
+#! /usr/bin/perl
+$dir=$ARGV[0];
+
+my @files = glob "$dir/*.rules";
+foreach (@files){
+	open F, "<", $_;
+	while(<F>){
+		++$array[$1] if /^alert.*; sid:(\d+);/;
+	}
+}
+
+print "proto? ";
+my $proto=<>;
+chomp();
+print "message? ";
+my $message=<>;
+
+print "content? ";
+my $content=<>;
+
+print "classtype? ";
+my $classtype=<>;
+
+print "ref? ";
+my $ref1=<>;
+
+print "ref? ";
+my $ref2=<>;
+
+print "ref? ";
+my $ref3=<>;
+
+print "alert tcp ... ... -> ... ... (msg:\"$message\";flow:[to|from]_server, established; content:\"$content\";reference=\"$ref1\";reference=\"$ref2\";reference=\"$ref3\";classtype=\"$classtype\";sid=\"$sid\";rev=\"$rev\";)";
+
+
