@@ -1,7 +1,7 @@
-envdev
+LI362
 ======
 
-Environnement de développement (LI362)
+Environnement de développement
 
 
 ## Licence
