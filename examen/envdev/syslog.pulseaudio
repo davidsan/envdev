@@ -1,0 +1,12 @@
+May 15 21:21:41 vespa pulseaudio[5525]: [pulseaudio] pid.c: Daemon already running.
+May 16 09:15:05 ank-morpork pulseaudio[10108]: [pulseaudio] pid.c: Daemon already running.
+May 16 09:14:08 cats pulseaudio[9804]: [pulseaudio] pid.c: Daemon already running.
+May 16 09:14:08 vespa pulseaudio[9802]: [pulseaudio] pid.c: Daemon already running.
+May 16 09:14:08 ank-morpork pulseaudio[9793]: [pulseaudio] main.c: User-configured server at {c23f80060e53213501ee3c7e4fe387ae}unix:/tmp/pulse-UIGt2WYuo6yE/native, which appears to be local. Probing deeper.
+May 16 09:14:08 cats pulseaudio[9792]: [pulseaudio] main.c: User-configured server at {c23f80060e53213501ee3c7e4fe387ae}unix:/tmp/pulse-UIGt2WYuo6yE/native, which appears to be local. Probing deeper.
+May 16 09:14:08 vespa pulseaudio[9797]: [pulseaudio] pid.c: Stale PID file, overwriting.
+May 16 09:14:08 ank-morpork pulseaudio[9794]: [pulseaudio] main.c: User-configured server at {c23f80060e53213501ee3c7e4fe387ae}unix:/tmp/pulse-UIGt2WYuo6yE/native, which appears to be local. Probing deeper.
+May 16 09:11:55 alien pulseaudio[5471]: [pulseaudio] module.c: Failed to load module "module-x11-xsmp" (argument: "display=:3 session_manager=local/alien:@/tmp/.ICE-unix/9588,unix/alien:/tmp/.ICE-unix/9588"): initialization failed.
+May 16 09:11:55 vespa pulseaudio[5471]: [pulseaudio] module-x11-xsmp.c: module-x11-xsmp may not be loaded twice.
+May 16 09:11:54 alien pulseaudio[9675]: [pulseaudio] pid.c: Daemon already running.
+May 20 17:36:53 ank-morpork pulseaudio[9797]: [pulseaudio] module-console-kit.c: GetUnixUser() call failed: org.freedesktop.DBus.Error.UnknownMethod: Method "GetUnixUser" with signature "" on interface "org.freedesktop.ConsoleKit.Session" doesn't exist

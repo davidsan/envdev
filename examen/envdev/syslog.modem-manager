@@ -1,0 +1,20 @@
+May 15 21:21:06 cats modem-manager[4026]: <info>  Loaded plugin Huawei
+May 15 21:21:06 ank-morpork modem-manager[4026]: <info>  Loaded plugin SimTech
+May 15 21:21:06 vespa modem-manager[4026]: <info>  Loaded plugin Option
+May 15 21:21:06 ank-morpork modem-manager[4026]: <info>  Loaded plugin Sierra
+May 15 21:21:06 vespa modem-manager[4026]: <info>  Loaded plugin Option High-Speed
+May 15 21:21:06 alien modem-manager[4026]: <info>  Loaded plugin Ericsson MBM
+May 15 21:21:05 cats modem-manager[4026]: <info>  Loaded plugin Gobi
+May 15 21:21:05 vespa modem-manager[4026]: <info>  Loaded plugin Generic
+May 15 21:21:05 vespa modem-manager[4026]: <info>  Loaded plugin MotoC
+May 15 21:21:05 cats modem-manager[4026]: <info>  Loaded plugin Wavecom
+May 15 21:21:05 ank-morpork modem-manager[4026]: <info>  Loaded plugin Samsung
+May 15 21:21:05 cats modem-manager[4026]: <info>  Loaded plugin X22X
+May 15 21:21:05 vespa modem-manager[4026]: <info>  Loaded plugin Nokia
+May 15 21:21:05 vespa modem-manager[4026]: <info>  Loaded plugin Linktop
+May 15 21:21:05 cats modem-manager[4026]: <info>  Loaded plugin ZTE
+May 15 21:21:05 cats modem-manager[4026]: <info>  Loaded plugin AnyData
+May 15 21:21:05 ank-morpork modem-manager[4026]: <info>  Loaded plugin Longcheer
+May 15 21:21:05 vespa modem-manager[4026]: <info>  Loaded plugin Novatel
+May 15 21:21:05 vespa modem-manager[4026]: <info>  ModemManager (version 0.5.2.0) starting...
+May 15 21:20:20 ank-morpork modem-manager[4055]: <info>  Caught signal 15, shutting down...

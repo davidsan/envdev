@@ -1,0 +1,199 @@
+May 14 22:43:37 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 14 22:35:31 ank-morpork nagios3: Warning: A system time change of 0d 1h 0m 1s (backwards in time) has been detected.  Compensating...
+May 14 23:35:31 vespa nagios3: Warning: A system time change of 0d 1h 0m 9s (backwards in time) has been detected.  Compensating...
+May 15 06:43:37 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 15 05:43:37 vespa nagios3: Auto-save of retention data completed successfully.
+May 15 04:43:37 cats nagios3: Auto-save of retention data completed successfully.
+May 15 03:43:37 cats nagios3: Auto-save of retention data completed successfully.
+May 15 02:43:37 vespa nagios3: Auto-save of retention data completed successfully.
+May 15 01:43:37 vespa nagios3: Auto-save of retention data completed successfully.
+May 15 00:43:37 vespa nagios3: Auto-save of retention data completed successfully.
+May 15 00:13:12 vespa nagios3: SERVICE NOTIFICATION: root;localhost;Current Load;OK;notify-service-by-email;OK - load average: 0.24, 2.03, 2.23
+May 15 00:13:12 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;OK;HARD;4;OK - load average: 0.24, 2.03, 2.23
+May 15 00:08:12 cats nagios3: SERVICE NOTIFICATION: root;localhost;Current Load;WARNING;notify-service-by-email;WARNING - load average: 3.67, 4.18, 2.72
+May 15 00:08:12 vespa nagios3: SERVICE ALERT: localhost;Current Load;WARNING;HARD;4;WARNING - load average: 3.67, 4.18, 2.72
+May 15 00:07:12 alien nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;3;WARNING - load average: 3.69, 4.36, 2.68
+May 15 00:06:12 vespa nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 333 processes
+May 15 00:06:12 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 333 processes
+May 15 00:06:12 cats nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;2;WARNING - load average: 3.52, 4.44, 2.58
+May 15 00:05:12 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;1;WARNING - load average: 4.30, 4.74, 2.55
+May 15 00:04:12 cats nagios3: SERVICE NOTIFICATION: root;localhost;Current Users;WARNING;notify-service-by-email;USERS WARNING - 25 users currently logged in
+May 15 00:04:12 ank-morpork nagios3: SERVICE ALERT: localhost;Current Users;WARNING;HARD;4;USERS WARNING - 25 users currently logged in
+May 15 00:03:12 alien nagios3: SERVICE ALERT: localhost;Current Users;WARNING;SOFT;3;USERS WARNING - 25 users currently logged in
+May 15 00:02:12 cats nagios3: SERVICE ALERT: localhost;Current Users;WARNING;SOFT;2;USERS WARNING - 25 users currently logged in
+May 15 00:01:22 ank-morpork nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;CRITICAL;notify-service-by-email;PROCS CRITICAL: 416 processes
+May 15 00:01:22 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;CRITICAL;HARD;4;PROCS CRITICAL: 416 processes
+May 15 00:01:12 ank-morpork nagios3: SERVICE ALERT: localhost;Current Users;WARNING;SOFT;1;USERS WARNING - 24 users currently logged in
+May 15 00:00:00 alien nagios3: CURRENT SERVICE STATE: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 291 processes
+May 15 00:00:00 ank-morpork nagios3: CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_6.0p1 Debian-4 (protocol 2.0)
+May 15 00:00:00 vespa nagios3: CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 454 bytes in 0.001 second response time
+May 15 00:00:00 cats nagios3: CURRENT SERVICE STATE: localhost;Disk Space;OK;HARD;1;DISK OK
+May 15 00:00:00 cats nagios3: CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 20 users currently logged in
+May 15 00:00:00 cats nagios3: CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.11, 0.24, 0.33
+May 15 00:00:00 alien nagios3: CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+May 15 00:00:00 cats nagios3: LOG VERSION: 2.0
+May 15 00:00:00 cats nagios3: LOG ROTATION: DAILY
+May 14 23:43:37 alien nagios3: Auto-save of retention data completed successfully.
+May 16 06:21:06 vespa nagios3: Auto-save of retention data completed successfully.
+May 16 05:21:06 cats nagios3: Auto-save of retention data completed successfully.
+May 16 04:21:06 vespa nagios3: Auto-save of retention data completed successfully.
+May 16 03:21:06 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 16 02:21:06 vespa nagios3: Auto-save of retention data completed successfully.
+May 16 01:21:06 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 16 00:21:06 alien nagios3: Auto-save of retention data completed successfully.
+May 16 00:05:36 ank-morpork nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+May 16 00:05:36 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 255 processes
+May 16 00:04:36 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 254 processes
+May 16 00:03:36 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 254 processes
+May 16 00:02:36 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 251 processes
+May 16 00:00:00 ank-morpork nagios3: CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 250 processes
+May 16 00:00:00 vespa nagios3: CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_6.0p1 Debian-4 (protocol 2.0)
+May 16 00:00:00 cats nagios3: CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 454 bytes in 0.001 second response time
+May 16 00:00:00 vespa nagios3: CURRENT SERVICE STATE: localhost;Disk Space;OK;HARD;1;DISK OK
+May 16 00:00:00 alien nagios3: CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 15 users currently logged in
+May 16 00:00:00 ank-morpork nagios3: CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.85, 1.15, 1.32
+May 16 00:00:00 cats nagios3: CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.03 ms
+May 16 00:00:00 vespa nagios3: LOG VERSION: 2.0
+May 16 00:00:00 cats nagios3: LOG ROTATION: DAILY
+May 15 23:57:36 vespa nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 250 processes
+May 15 23:57:36 cats nagios3: SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 250 processes
+May 15 23:47:36 alien nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+May 15 23:47:36 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 254 processes
+May 15 23:46:36 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 252 processes
+May 15 23:45:36 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 258 processes
+May 15 23:45:06 ank-morpork nagios3: SERVICE NOTIFICATION: root;localhost;Disk Space;OK;notify-service-by-email;DISK OK
+May 15 23:45:06 cats nagios3: SERVICE ALERT: localhost;Disk Space;OK;HARD;4;DISK OK
+May 15 23:44:36 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 306 processes
+May 15 23:21:06 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 15 23:20:06 cats nagios3: SERVICE NOTIFICATION: root;localhost;Disk Space;CRITICAL;notify-service-by-email;DISK CRITICAL - /home/croute/ens/etgl/irs/m2/p16/coursrappel/coursrappel is not accessible: Permission denied
+May 15 23:20:06 alien nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;HARD;4;DISK CRITICAL - /home/croute/ens/etgl/irs/m2/p16/coursrappel/coursrappel is not accessible: Permission denied
+May 15 23:19:06 cats nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;SOFT;3;DISK CRITICAL - /home/croute/ens/etgl/irs/m2/p16/coursrappel/coursrappel is not accessible: Permission denied
+May 15 23:18:06 vespa nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;SOFT;2;DISK CRITICAL - /home/croute/ens/etgl/irs/m2/p16/coursrappel/coursrappel is not accessible: Permission denied
+May 15 23:17:06 vespa nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;SOFT;1;DISK CRITICAL - /home/croute/ens/etgl/irs/m2/p16/coursrappel/coursrappel is not accessible: Permission denied
+May 15 22:21:06 alien nagios3: Auto-save of retention data completed successfully.
+May 15 21:24:36 ank-morpork nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 238 processes
+May 15 21:24:36 cats nagios3: SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 238 processes
+May 15 21:21:46 vespa nagios3: SERVICE NOTIFICATION: root;localhost;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+May 15 21:21:46 vespa nagios3: SERVICE ALERT: localhost;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+May 15 21:21:06 vespa nagios3: Finished daemonizing... (New PID=4050)
+May 15 21:21:05 cats nagios3: LOG VERSION: 2.0
+May 15 21:21:05 ank-morpork nagios3: Local time is Wed May 15 21:21:05 CEST 2013
+May 15 21:21:05 vespa nagios3: Nagios 3.4.1 starting... (PID=4047)
+May 15 21:20:02 ank-morpork nagios3: Successfully shutdown... (PID=4077)
+May 15 21:20:00 cats nagios3: Caught SIGTERM, shutting down...
+May 15 21:14:35 ank-morpork nagios3: Warning: A system time change of 0d 3h 9m 40s (forwards in time) has been detected.  Compensating...
+May 15 18:01:31 alien nagios3: Auto-save of retention data completed successfully.
+May 15 17:13:54 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;OK;SOFT;4;OK - load average: 1.56, 3.46, 2.53
+May 15 17:12:54 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;3;WARNING - load average: 3.23, 4.07, 2.65
+May 15 17:11:54 cats nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;2;WARNING - load average: 6.77, 4.70, 2.74
+May 15 17:10:54 vespa nagios3: SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 11.70, 4.83, 2.64
+May 15 17:07:20 cats nagios3: Warning: A system time change of 0d 0h 43m 7s (forwards in time) has been detected.  Compensating...
+May 15 16:18:24 alien nagios3: Auto-save of retention data completed successfully.
+May 15 15:18:24 alien nagios3: Auto-save of retention data completed successfully.
+May 15 14:47:34 cats nagios3: Warning: A system time change of 0d 5h 2m 8s (forwards in time) has been detected.  Compensating...
+May 15 09:16:16 vespa nagios3: Auto-save of retention data completed successfully.
+May 15 09:03:51 cats nagios3: SERVICE NOTIFICATION: root;localhost;Current Load;OK;notify-service-by-email;OK - load average: 0.76, 2.11, 2.29
+May 15 09:03:51 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;OK;HARD;4;OK - load average: 0.76, 2.11, 2.29
+May 15 08:58:51 vespa nagios3: SERVICE NOTIFICATION: root;localhost;Current Load;WARNING;notify-service-by-email;WARNING - load average: 1.79, 4.26, 2.83
+May 15 08:58:51 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;WARNING;HARD;4;WARNING - load average: 1.79, 4.26, 2.83
+May 15 08:57:51 vespa nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;3;WARNING - load average: 3.23, 5.01, 2.96
+May 15 08:56:51 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;2;WARNING - load average: 5.67, 5.76, 3.05
+May 15 08:55:51 alien nagios3: SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 13.22, 6.71, 3.15
+May 15 08:54:33 cats nagios3: Warning: A system time change of 0d 0h 32m 39s (forwards in time) has been detected.  Compensating...
+May 15 07:43:37 cats nagios3: Auto-save of retention data completed successfully.
+May 17 08:51:13 cats nagios3: SERVICE ALERT: localhost;Current Load;OK;SOFT;3;OK - load average: 2.70, 3.64, 1.93
+May 17 08:50:13 cats nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;2;WARNING - load average: 7.24, 4.44, 2.06
+May 17 08:49:13 cats nagios3: SERVICE ALERT: localhost;Current Load;CRITICAL;SOFT;1;CRITICAL - load average: 16.60, 4.93, 2.04
+May 17 08:48:42 vespa nagios3: Warning: A system time change of 0d 1h 58m 11s (forwards in time) has been detected.  Compensating...
+May 17 06:05:13 cats nagios3: Auto-save of retention data completed successfully.
+May 17 05:05:13 alien nagios3: Auto-save of retention data completed successfully.
+May 17 04:05:13 cats nagios3: Auto-save of retention data completed successfully.
+May 17 03:05:13 vespa nagios3: Auto-save of retention data completed successfully.
+May 17 02:05:13 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 17 01:05:13 vespa nagios3: Auto-save of retention data completed successfully.
+May 17 00:05:13 alien nagios3: Auto-save of retention data completed successfully.
+May 17 00:00:00 vespa nagios3: CURRENT SERVICE STATE: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 254 processes
+May 17 00:00:00 ank-morpork nagios3: CURRENT SERVICE STATE: localhost;SSH;OK;HARD;1;SSH OK - OpenSSH_6.0p1 Debian-4 (protocol 2.0)
+May 17 00:00:00 cats nagios3: CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 454 bytes in 0.009 second response time
+May 17 00:00:00 vespa nagios3: CURRENT SERVICE STATE: localhost;Disk Space;OK;HARD;1;DISK OK
+May 17 00:00:00 cats nagios3: CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 13 users currently logged in
+May 17 00:00:00 ank-morpork nagios3: CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 2.11, 1.35, 1.27
+May 17 00:00:00 alien nagios3: CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+May 17 00:00:00 cats nagios3: LOG VERSION: 2.0
+May 17 00:00:00 ank-morpork nagios3: LOG ROTATION: DAILY
+May 16 23:05:13 vespa nagios3: Auto-save of retention data completed successfully.
+May 16 22:05:13 vespa nagios3: Auto-save of retention data completed successfully.
+May 16 21:20:10 vespa nagios3: Warning: A system time change of 0d 4h 16m 8s (forwards in time) has been detected.  Compensating...
+May 16 16:49:05 vespa nagios3: Auto-save of retention data completed successfully.
+May 16 16:48:54 ank-morpork nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+May 16 16:48:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 256 processes
+May 16 16:47:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 252 processes
+May 16 16:46:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 252 processes
+May 16 16:45:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 253 processes
+May 16 16:40:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;4;PROCS OK: 250 processes
+May 16 16:39:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 251 processes
+May 16 16:38:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 253 processes
+May 16 16:37:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 251 processes
+May 16 16:32:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;4;PROCS OK: 249 processes
+May 16 16:31:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 251 processes
+May 16 16:30:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 251 processes
+May 16 16:29:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 252 processes
+May 16 16:14:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 249 processes
+May 16 16:13:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 253 processes
+May 16 16:08:54 cats nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 249 processes
+May 16 16:08:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 249 processes
+May 16 15:49:05 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 16 15:13:54 alien nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+May 16 15:13:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 253 processes
+May 16 15:12:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 252 processes
+May 16 15:11:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 252 processes
+May 16 15:10:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 253 processes
+May 16 14:49:05 alien nagios3: Auto-save of retention data completed successfully.
+May 16 14:40:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 250 processes
+May 16 14:39:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 251 processes
+May 16 14:29:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;4;PROCS OK: 250 processes
+May 16 14:28:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 254 processes
+May 16 14:27:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 251 processes
+May 16 14:26:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 254 processes
+May 16 13:56:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 250 processes
+May 16 13:55:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 251 processes
+May 16 13:54:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 251 processes
+May 16 13:49:05 alien nagios3: Auto-save of retention data completed successfully.
+May 16 13:44:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;3;PROCS OK: 248 processes
+May 16 13:43:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 258 processes
+May 16 13:42:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 251 processes
+May 16 13:32:54 vespa nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 250 processes
+May 16 13:32:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 250 processes
+May 16 13:17:54 cats nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 251 processes
+May 16 13:17:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;HARD;4;PROCS WARNING: 251 processes
+May 16 13:16:54 cats nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;3;PROCS WARNING: 252 processes
+May 16 13:15:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;2;PROCS WARNING: 252 processes
+May 16 13:14:54 vespa nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 253 processes
+May 16 13:09:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;OK;SOFT;2;PROCS OK: 250 processes
+May 16 13:08:54 ank-morpork nagios3: SERVICE ALERT: localhost;Total Processes;WARNING;SOFT;1;PROCS WARNING: 252 processes
+May 16 12:49:05 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 16 11:49:05 cats nagios3: Auto-save of retention data completed successfully.
+May 16 10:49:05 cats nagios3: Auto-save of retention data completed successfully.
+May 16 09:49:05 cats nagios3: Auto-save of retention data completed successfully.
+May 16 09:18:54 cats nagios3: SERVICE NOTIFICATION: root;localhost;Total Processes;OK;notify-service-by-email;PROCS OK: 241 processes
+May 16 09:18:54 alien nagios3: SERVICE ALERT: localhost;Total Processes;OK;HARD;4;PROCS OK: 241 processes
+May 16 09:09:54 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;OK;SOFT;3;OK - load average: 3.37, 2.53, 1.25
+May 16 09:08:54 ank-morpork nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;2;WARNING - load average: 7.56, 2.83, 1.25
+May 16 09:01:25 alien nagios3: SERVICE ALERT: localhost;Current Load;WARNING;SOFT;1;WARNING - load average: 8.48, 2.65, 1.16
+May 16 09:01:07 cats nagios3: Warning: A system time change of 0d 2h 27m 59s (forwards in time) has been detected.  Compensating...
+May 19 18:41:38 vespa nagios3: Warning: A system time change of 1d 18h 52m 33s (forwards in time) has been detected.  Compensating...
+May 17 23:25:49 vespa nagios3: Auto-save of retention data completed successfully.
+May 17 22:25:49 alien nagios3: Auto-save of retention data completed successfully.
+May 17 22:21:18 vespa nagios3: Warning: A system time change of 0d 10h 22m 25s (forwards in time) has been detected.  Compensating...
+May 17 11:03:24 vespa nagios3: Auto-save of retention data completed successfully.
+May 17 10:03:24 alien nagios3: Auto-save of retention data completed successfully.
+May 17 09:03:24 ank-morpork nagios3: Auto-save of retention data completed successfully.
+May 20 17:36:39 cats nagios3: Warning: A system time change of 0d 19h 28m 46s (forwards in time) has been detected.  Compensating...
+May 19 21:18:22 vespa nagios3: Auto-save of retention data completed successfully.
+May 19 20:41:11 alien nagios3: SERVICE NOTIFICATION: root;localhost;Disk Space;CRITICAL;notify-service-by-email;DISK CRITICAL - free space: /media/cdrom0 0 MB (0% inode=0%):
+May 19 20:41:11 ank-morpork nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;HARD;4;DISK CRITICAL - free space: /media/cdrom0 0 MB (0% inode=0%):
+May 19 20:40:11 cats nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;SOFT;3;DISK CRITICAL - free space: /media/cdrom0 0 MB (0% inode=0%):
+May 19 20:39:11 ank-morpork nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;SOFT;2;DISK CRITICAL - free space: /media/cdrom0 0 MB (0% inode=0%):
+May 19 20:38:11 vespa nagios3: SERVICE ALERT: localhost;Disk Space;CRITICAL;SOFT;1;DISK CRITICAL - free space: /media/cdrom0 0 MB (0% inode=0%):
+May 19 20:18:22 vespa nagios3: Auto-save of retention data completed successfully.
+May 19 19:18:22 cats nagios3: Auto-save of retention data completed successfully.

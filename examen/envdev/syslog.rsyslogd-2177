@@ -1,0 +1,6 @@
+May 15 21:21:33 vespa rsyslogd-2177: imuxsock lost 52 messages from pid 5130 due to rate-limiting
+May 15 21:21:28 cats rsyslogd-2177: imuxsock begins to drop messages from pid 5130 due to rate-limiting
+May 16 09:15:01 ank-morpork rsyslogd-2177: imuxsock lost 50 messages from pid 9913 due to rate-limiting
+May 16 09:14:57 cats rsyslogd-2177: imuxsock begins to drop messages from pid 9913 due to rate-limiting
+May 19 20:48:34 ank-morpork rsyslogd-2177: imuxsock lost 52 messages from pid 3929 due to rate-limiting
+May 19 19:22:58 vespa rsyslogd-2177: imuxsock begins to drop messages from pid 3929 due to rate-limiting

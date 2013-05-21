@@ -1,0 +1,9 @@
+May 15 22:59:53 cats dovecot: pop3-login: Disconnected (no auth attempts in 0 secs): user=<>, rip=127.0.0.1, lip=127.0.0.1, TLS handshaking: SSL_accept() syscall failed: Connection reset by peer, session=<sCQHCMjcNgB/AAAB>
+May 15 22:59:53 ank-morpork dovecot: pop3-login: Disconnected (no auth attempts in 0 secs): user=<>, rip=127.0.0.1, lip=127.0.0.1, secured, session=<liQHCMjcpgB/AAAB>
+May 15 22:59:53 vespa dovecot: imap-login: Disconnected (disconnected before greeting, waited 0 secs): user=<>, rip=127.0.0.1, lip=127.0.0.1, TLS handshaking: SSL_accept() syscall failed: Connection reset by peer, session=<w7gGCMjcEQB/AAAB>
+May 15 22:59:53 alien dovecot: imap-login: Disconnected (disconnected before greeting, waited 0 secs): user=<>, rip=127.0.0.1, lip=127.0.0.1, secured, session=<M6EGCMjcMwB/AAAB>
+May 15 21:21:18 cats dovecot: master: Warning: /mnt is no longer mounted. If this is intentional, remove it with doveadm mount
+May 15 21:21:18 vespa dovecot: master: Dovecot v2.1.7 starting up (core dumps disabled)
+May 15 21:20:04 alien dovecot: master: Warning: Killed with signal 15 (by pid=23288 uid=0 code=kill)
+May 20 17:36:56 vespa dovecot: ssl-params: SSL parameters regeneration completed
+May 20 17:36:41 vespa dovecot: ssl-params: Generating SSL parameters

@@ -1,0 +1,4 @@
+#!/usr/bin/perl -wl
+$ARGV[0]=~m/^(.)(.*)$/;
+
+print $2,$1;

@@ -1,0 +1,29 @@
+#!/usr/bin/perl -wln
+
+use Time::Local;
+BEGIN{
+my $d1=shift or die "arg missing";
+my $d2=shift or die "argggggggrh";
+
+my @da1=split /\//, $d1;
+my @da2=split /\//, $d2;
+
+our $tl1=timelocal 0,0,0,$da1[0],$da1[1], $da1[2];
+
+our $tl2=timelocal 0,0,0,$da2[0],$da2[1], $da2[2];
+}
+
+$l=$_;
+
+$_=~m/^(\S+\s+\S+\s+\S+)(\s+.+)/;
+
+$d=`date --date="$1" +%d/%m/%Y`;
+
+
+
+my @dal=split /\//, $d;
+my $tll=timelocal 0,0,0,$dal[0],$dal[1], $dal[2];
+
+if ($tl1 <= $tll && $tl2 > $tll){
+	print $l;
+}

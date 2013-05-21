@@ -1,0 +1,14 @@
+#!/usr/bin/perl -l
+
+
+my $n=$ARGV[0];
+my $res="";
+for (my $i = 0; $i < $n; $i++) {
+	$res.="1";
+}
+
+if($res=~/^(.+)\1$/){
+	print "pair";
+}else{
+	print "impair";
+}

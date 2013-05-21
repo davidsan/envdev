@@ -1,0 +1,70 @@
+May 14 22:50:09 alien anacron[24200]: Updated timestamp for job `cron.daily' to 2013-05-14
+May 14 22:50:09 cats anacron[24012]: Job `cron.daily' started
+May 14 22:45:09 vespa anacron[24012]: Jobs will be executed sequentially
+May 14 22:45:09 cats anacron[24012]: Will run job `cron.daily' in 5 min.
+May 14 22:45:09 vespa anacron[24012]: Anacron 2.3 started on 2013-05-14
+May 15 07:35:01 vespa anacron[9891]: Updated timestamp for job `cron.daily' to 2013-05-15
+May 15 07:35:01 vespa anacron[9846]: Job `cron.daily' started
+May 15 07:30:01 vespa anacron[9846]: Jobs will be executed sequentially
+May 15 07:30:01 alien anacron[9846]: Will run job `cron.daily' in 5 min.
+May 15 07:30:01 ank-morpork anacron[9846]: Anacron 2.3 started on 2013-05-15
+May 14 23:53:20 cats anacron[25535]: Normal exit (0 jobs run)
+May 14 23:53:20 ank-morpork anacron[25535]: Anacron 2.3 started on 2013-05-14
+May 14 22:51:14 vespa anacron[24012]: Normal exit (1 job run)
+May 14 22:51:14 alien anacron[24012]: Job `cron.daily' terminated (exit status: 1) (mailing output)
+May 16 06:27:11 ank-morpork anacron[7651]: Updated timestamp for job `cron.daily' to 2013-05-16
+May 16 06:27:11 alien anacron[7451]: Job `cron.daily' started
+May 16 06:22:11 cats anacron[7451]: Jobs will be executed sequentially
+May 16 06:22:11 alien anacron[7451]: Will run job `cron.daily' in 5 min.
+May 16 06:22:11 cats anacron[7451]: Anacron 2.3 started on 2013-05-16
+May 15 23:45:26 alien anacron[3183]: Normal exit (0 jobs run)
+May 15 23:45:26 alien anacron[3183]: Anacron 2.3 started on 2013-05-15
+May 15 21:21:25 ank-morpork anacron[5240]: Normal exit (0 jobs run)
+May 15 21:21:25 alien anacron[5240]: Anacron 2.3 started on 2013-05-15
+May 15 21:20:58 cats anacron[3203]: Normal exit (0 jobs run)
+May 15 21:20:58 ank-morpork anacron[3203]: Anacron 2.3 started on 2013-05-15
+May 15 21:14:48 alien anacron[22418]: Normal exit (0 jobs run)
+May 15 21:14:48 ank-morpork anacron[22418]: Anacron 2.3 started on 2013-05-15
+May 15 14:47:47 vespa anacron[14871]: Normal exit (0 jobs run)
+May 15 14:47:47 ank-morpork anacron[14871]: Anacron 2.3 started on 2013-05-15
+May 15 07:35:23 cats anacron[9846]: Normal exit (1 job run)
+May 15 07:35:23 vespa anacron[9846]: Job `cron.daily' terminated (exit status: 1) (mailing output)
+May 17 08:54:12 cats anacron[32703]: Updated timestamp for job `cron.daily' to 2013-05-17
+May 17 08:54:11 vespa anacron[32472]: Job `cron.daily' started
+May 17 08:49:11 alien anacron[32472]: Jobs will be executed sequentially
+May 17 08:49:11 ank-morpork anacron[32472]: Will run job `cron.daily' in 5 min.
+May 17 08:49:11 vespa anacron[32472]: Anacron 2.3 started on 2013-05-17
+May 16 22:50:29 vespa anacron[27582]: Normal exit (0 jobs run)
+May 16 22:50:29 alien anacron[27582]: Anacron 2.3 started on 2013-05-16
+May 16 13:16:49 alien anacron[15171]: Normal exit (0 jobs run)
+May 16 13:16:49 cats anacron[15171]: Anacron 2.3 started on 2013-05-16
+May 16 09:08:48 cats anacron[9430]: Normal exit (0 jobs run)
+May 16 09:08:48 alien anacron[9430]: Anacron 2.3 started on 2013-05-16
+May 16 09:08:45 cats anacron[9300]: Normal exit (0 jobs run)
+May 16 09:08:45 alien anacron[9300]: Anacron 2.3 started on 2013-05-16
+May 16 09:08:45 vespa anacron[9193]: Normal exit (0 jobs run)
+May 16 09:08:45 cats anacron[9193]: Anacron 2.3 started on 2013-05-16
+May 16 09:01:35 alien anacron[8745]: Normal exit (0 jobs run)
+May 16 09:01:35 vespa anacron[8745]: Anacron 2.3 started on 2013-05-16
+May 16 06:27:44 cats anacron[7451]: Normal exit (1 job run)
+May 16 06:27:44 alien anacron[7451]: Job `cron.daily' terminated (exit status: 1) (mailing output)
+May 19 18:46:45 cats anacron[7625]: Updated timestamp for job `cron.daily' to 2013-05-19
+May 19 18:46:45 ank-morpork anacron[6982]: Job `cron.daily' started
+May 19 18:41:45 cats anacron[6982]: Jobs will be executed sequentially
+May 19 18:41:45 ank-morpork anacron[6982]: Will run job `cron.monthly' in 15 min.
+May 19 18:41:45 ank-morpork anacron[6982]: Will run job `cron.daily' in 5 min.
+May 19 18:41:45 alien anacron[6982]: Anacron 2.3 started on 2013-05-19
+May 17 08:57:57 ank-morpork anacron[32472]: Normal exit (1 job run)
+May 17 08:57:32 vespa anacron[32472]: Job `cron.daily' terminated (exit status: 1) (mailing output)
+May 20 17:41:49 ank-morpork anacron[13434]: Updated timestamp for job `cron.daily' to 2013-05-20
+May 20 17:41:49 cats anacron[13153]: Job `cron.daily' started
+May 20 17:36:50 ank-morpork anacron[13153]: Jobs will be executed sequentially
+May 20 17:36:50 ank-morpork anacron[13153]: Will run job `cron.daily' in 5 min.
+May 20 17:36:49 ank-morpork anacron[13153]: Anacron 2.3 started on 2013-05-20
+May 19 20:48:35 vespa anacron[10469]: Normal exit (0 jobs run)
+May 19 20:48:35 alien anacron[10469]: Anacron 2.3 started on 2013-05-19
+May 19 18:56:46 ank-morpork anacron[8017]: Updated timestamp for job `cron.monthly' to 2013-05-19
+May 19 18:56:45 cats anacron[6982]: Normal exit (2 jobs run)
+May 19 18:56:45 cats anacron[6982]: Job `cron.monthly' terminated
+May 19 18:56:45 ank-morpork anacron[6982]: Job `cron.monthly' started
+May 19 18:49:52 ank-morpork anacron[6982]: Job `cron.daily' terminated (exit status: 1) (mailing output)

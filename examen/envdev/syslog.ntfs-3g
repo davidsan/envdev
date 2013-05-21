@@ -1,0 +1,18 @@
+May 16 15:58:07 ank-morpork ntfs-3g[22624]: Unmounting /dev/sdd1 (INRIA)
+May 16 15:57:42 vespa ntfs-3g[22624]: Global ownership and permissions enforced, configuration type 7
+May 16 15:57:42 alien ntfs-3g[22624]: Mount options: rw,nosuid,nodev,uhelper=udisks,allow_other,nonempty,relatime,default_permissions,fsname=/dev/sdd1,blkdev,blksize=4096
+May 16 15:57:42 cats ntfs-3g[22624]: Cmdline options: rw,nosuid,nodev,uhelper=udisks,uid=1000,gid=1000,dmask=0077,fmask=0177
+May 16 15:57:42 alien ntfs-3g[22624]: Mounted /dev/sdd1 (Read-Write, label "INRIA", NTFS 3.1)
+May 16 15:57:42 cats ntfs-3g[22624]: Version 2013.1.13AR.1 external FUSE 29
+May 16 14:26:46 ank-morpork ntfs-3g[21574]: Unmounting /dev/sdd1 (INRIA)
+May 16 14:25:46 ank-morpork ntfs-3g[21574]: Global ownership and permissions enforced, configuration type 7
+May 16 14:25:46 ank-morpork ntfs-3g[21574]: Mount options: rw,nosuid,nodev,uhelper=udisks,allow_other,nonempty,relatime,default_permissions,fsname=/dev/sdd1,blkdev,blksize=4096
+May 16 14:25:46 vespa ntfs-3g[21574]: Cmdline options: rw,nosuid,nodev,uhelper=udisks,uid=1000,gid=1000,dmask=0077,fmask=0177
+May 16 14:25:46 cats ntfs-3g[21574]: Mounted /dev/sdd1 (Read-Write, label "INRIA", NTFS 3.1)
+May 16 14:25:46 alien ntfs-3g[21574]: Version 2013.1.13AR.1 external FUSE 29
+May 17 10:52:09 vespa ntfs-3g[2498]: Unmounting /dev/sdd1 (INRIA)
+May 17 10:50:32 cats ntfs-3g[2498]: Global ownership and permissions enforced, configuration type 7
+May 17 10:50:32 cats ntfs-3g[2498]: Mount options: rw,nosuid,nodev,uhelper=udisks,allow_other,nonempty,relatime,default_permissions,fsname=/dev/sdd1,blkdev,blksize=4096
+May 17 10:50:32 cats ntfs-3g[2498]: Cmdline options: rw,nosuid,nodev,uhelper=udisks,uid=1000,gid=1000,dmask=0077,fmask=0177
+May 17 10:50:32 ank-morpork ntfs-3g[2498]: Mounted /dev/sdd1 (Read-Write, label "INRIA", NTFS 3.1)
+May 17 10:50:32 cats ntfs-3g[2498]: Version 2013.1.13AR.1 external FUSE 29

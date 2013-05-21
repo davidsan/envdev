@@ -1,0 +1,6 @@
+May 16 15:57:40 alien mtp-probe: bus: 1, device: 4 was not an MTP device
+May 16 15:57:40 vespa mtp-probe: checking bus 1, device 4: "/sys/devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.2"
+May 16 14:25:44 ank-morpork mtp-probe: bus: 3, device: 5 was not an MTP device
+May 16 14:25:44 ank-morpork mtp-probe: checking bus 3, device 5: "/sys/devices/pci0000:00/0000:00:14.0/usb3/3-1"
+May 17 10:50:22 alien mtp-probe: bus: 1, device: 5 was not an MTP device
+May 17 10:50:22 vespa mtp-probe: checking bus 1, device 5: "/sys/devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.2"

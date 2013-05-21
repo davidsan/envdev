@@ -1,0 +1,149 @@
+May 15 23:53:41 alien avahi-daemon[3788]: Withdrawing workstation service for interf.
+May 15 21:21:09 alien avahi-daemon[3788]: Registering new address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.*.
+May 15 21:21:09 cats avahi-daemon[3788]: New relevant interface wlan0.IPv6 for mDNS.
+May 15 21:21:09 alien avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 15 21:21:08 cats avahi-daemon[3788]: Registering new address record for 192.168.1.9 on wlan0.IPv4.
+May 15 21:21:08 alien avahi-daemon[3788]: New relevant interface wlan0.IPv4 for mDNS.
+May 15 21:21:08 vespa avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 15 21:21:03 alien avahi-daemon[3788]: Service "alien" (/services/udisks.service) successfully established.
+May 15 21:21:03 cats avahi-daemon[3788]: Server startup complete. Host name is alien.local. Local service cookie is 3230832186.
+May 15 21:21:03 ank-morpork avahi-daemon[3788]: Registering HINFO record with values 'X86_64'/'LINUX'.
+May 15 21:21:03 cats avahi-daemon[3788]: Network interface enumeration completed.
+May 15 21:21:02 ank-morpork avahi-daemon[3788]: Loading service file /services/udisks.service.
+May 15 21:21:02 ank-morpork avahi-daemon[3788]: Successfully dropped remaining capabilities.
+May 15 21:21:02 cats avahi-daemon[3788]: Successfully called chroot().
+May 15 21:21:02 vespa avahi-daemon[3788]: avahi-daemon 0.6.31 starting up.
+May 15 21:21:02 ank-morpork avahi-daemon[3788]: Successfully dropped root privileges.
+May 15 21:21:02 alien avahi-daemon[3788]: Found user 'avahi' (UID 107) and group 'avahi' (GID 116).
+May 15 21:20:18 alien avahi-daemon[3889]: avahi-daemon 0.6.31 exiting.
+May 15 21:20:18 alien avahi-daemon[3889]: Got SIGTERM, quitting.
+May 15 21:20:16 cats avahi-daemon[3889]: Withdrawing address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.
+May 15 21:20:16 alien avahi-daemon[3889]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 15 21:20:16 vespa avahi-daemon[3889]: Interface wlan0.IPv6 no longer relevant for mDNS.
+May 15 21:20:16 alien avahi-daemon[3889]: Interface wlan0.IPv4 no longer relevant for mDNS.
+May 15 21:20:16 cats avahi-daemon[3889]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 15 21:20:16 vespa avahi-daemon[3889]: Withdrawing address record for 192.168.1.9 on wlan0.
+May 15 21:14:45 ank-morpork avahi-daemon[3889]: Registering new address record for 192.168.1.9 on wlan0.IPv4.
+May 15 21:14:45 cats avahi-daemon[3889]: New relevant interface wlan0.IPv4 for mDNS.
+May 15 21:14:45 vespa avahi-daemon[3889]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 15 21:14:45 ank-morpork avahi-daemon[3889]: Registering new address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.*.
+May 15 21:14:45 ank-morpork avahi-daemon[3889]: New relevant interface wlan0.IPv6 for mDNS.
+May 15 21:14:45 ank-morpork avahi-daemon[3889]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 15 17:08:09 ank-morpork avahi-daemon[3889]: Withdrawing address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.
+May 15 17:08:09 cats avahi-daemon[3889]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 15 17:08:09 ank-morpork avahi-daemon[3889]: Interface wlan0.IPv6 no longer relevant for mDNS.
+May 15 17:08:09 vespa avahi-daemon[3889]: Withdrawing address record for fe80::d6be:d9ff:fe2f:1433 on eth0.
+May 15 17:08:09 vespa avahi-daemon[3889]: Leaving mDNS multicast group on interface eth0.IPv6 with address fe80::d6be:d9ff:fe2f:1433.
+May 15 17:08:09 cats avahi-daemon[3889]: Interface eth0.IPv6 no longer relevant for mDNS.
+May 15 17:07:42 cats avahi-daemon[3889]: Interface wlan0.IPv4 no longer relevant for mDNS.
+May 15 17:07:42 alien avahi-daemon[3889]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 132.227.100.85.
+May 15 17:07:42 alien avahi-daemon[3889]: Withdrawing address record for 132.227.100.85 on wlan0.
+May 15 17:07:30 alien avahi-daemon[3889]: Registering new address record for fe80::d6be:d9ff:fe2f:1433 on eth0.*.
+May 15 17:07:30 vespa avahi-daemon[3889]: Joining mDNS multicast group on interface eth0.IPv6 with address fe80::d6be:d9ff:fe2f:1433.
+May 15 17:07:30 ank-morpork avahi-daemon[3889]: Leaving mDNS multicast group on interface eth0.IPv6 with address 2001:660:3302:2826:d6be:d9ff:fe2f:1433.
+May 15 17:07:30 ank-morpork avahi-daemon[3889]: Withdrawing address record for 2001:660:3302:2826:d6be:d9ff:fe2f:1433 on eth0.
+May 15 17:07:30 vespa avahi-daemon[3889]: Interface eth0.IPv4 no longer relevant for mDNS.
+May 15 17:07:30 vespa avahi-daemon[3889]: Leaving mDNS multicast group on interface eth0.IPv4 with address 132.227.85.34.
+May 15 17:07:30 vespa avahi-daemon[3889]: Withdrawing address record for 132.227.85.34 on eth0.
+May 15 14:48:44 vespa avahi-daemon[3889]: Registering new address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.*.
+May 15 14:48:44 vespa avahi-daemon[3889]: New relevant interface wlan0.IPv6 for mDNS.
+May 15 14:48:44 cats avahi-daemon[3889]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 15 14:48:43 cats avahi-daemon[3889]: Registering new address record for 132.227.100.85 on wlan0.IPv4.
+May 15 14:48:43 vespa avahi-daemon[3889]: New relevant interface wlan0.IPv4 for mDNS.
+May 15 14:48:43 ank-morpork avahi-daemon[3889]: Joining mDNS multicast group on interface wlan0.IPv4 with address 132.227.100.85.
+May 15 14:48:42 ank-morpork avahi-daemon[3889]: Interface wlan0.IPv6 no longer relevant for mDNS.
+May 15 14:48:42 cats avahi-daemon[3889]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 15 14:48:42 vespa avahi-daemon[3889]: Withdrawing address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.
+May 15 14:47:44 ank-morpork avahi-daemon[3889]: Withdrawing address record for fe80::d6be:d9ff:fe2f:1433 on eth0.
+May 15 14:47:44 ank-morpork avahi-daemon[3889]: Registering new address record for 2001:660:3302:2826:d6be:d9ff:fe2f:1433 on eth0.*.
+May 15 14:47:44 alien avahi-daemon[3889]: Joining mDNS multicast group on interface eth0.IPv6 with address 2001:660:3302:2826:d6be:d9ff:fe2f:1433.
+May 15 14:47:44 vespa avahi-daemon[3889]: Leaving mDNS multicast group on interface eth0.IPv6 with address fe80::d6be:d9ff:fe2f:1433.
+May 15 14:47:44 ank-morpork avahi-daemon[3889]: Registering new address record for 132.227.85.34 on eth0.IPv4.
+May 15 14:47:44 alien avahi-daemon[3889]: New relevant interface eth0.IPv4 for mDNS.
+May 15 14:47:44 vespa avahi-daemon[3889]: Joining mDNS multicast group on interface eth0.IPv4 with address 132.227.85.34.
+May 15 14:47:42 alien avahi-daemon[3889]: Registering new address record for fe80::d6be:d9ff:fe2f:1433 on eth0.*.
+May 15 14:47:42 alien avahi-daemon[3889]: New relevant interface eth0.IPv6 for mDNS.
+May 15 14:47:42 alien avahi-daemon[3889]: Joining mDNS multicast group on interface eth0.IPv6 with address fe80::d6be:d9ff:fe2f:1433.
+May 15 14:47:41 vespa avahi-daemon[3889]: Interface eth0.IPv6 no longer relevant for mDNS.
+May 15 14:47:41 cats avahi-daemon[3889]: Leaving mDNS multicast group on interface eth0.IPv6 with address fe80::d6be:d9ff:fe2f:1433.
+May 15 14:47:41 vespa avahi-daemon[3889]: Withdrawing address record for fe80::d6be:d9ff:fe2f:1433 on eth0.
+May 15 08:54:58 vespa avahi-daemon[3889]: Interface wlan0.IPv4 no longer relevant for mDNS.
+May 15 08:54:58 alien avahi-daemon[3889]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 15 08:54:58 vespa avahi-daemon[3889]: Withdrawing address record for 192.168.1.9 on wlan0.
+May 16 21:20:16 ank-morpork avahi-daemon[3788]: Registering new address record for 192.168.1.9 on wlan0.IPv4.
+May 16 21:20:16 vespa avahi-daemon[3788]: New relevant interface wlan0.IPv4 for mDNS.
+May 16 21:20:16 ank-morpork avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 16 21:20:15 ank-morpork avahi-daemon[3788]: Registering new address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.*.
+May 16 21:20:15 ank-morpork avahi-daemon[3788]: New relevant interface wlan0.IPv6 for mDNS.
+May 16 21:20:15 ank-morpork avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 16 13:14:40 ank-morpork avahi-daemon[3788]: Withdrawing workstation service for usb0.
+May 16 13:14:40 alien avahi-daemon[3788]: Withdrawing address record for 192.168.42.101 on usb0.
+May 16 13:14:40 vespa avahi-daemon[3788]: Withdrawing address record for fe80::66:31ff:fe38:6d01 on usb0.
+May 16 13:14:40 cats avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 16 13:14:40 alien avahi-daemon[3788]: Interface usb0.IPv4 no longer relevant for mDNS.
+May 16 13:14:40 ank-morpork avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv6 with address fe80::66:31ff:fe38:6d01.
+May 16 13:14:40 alien avahi-daemon[3788]: Interface usb0.IPv6 no longer relevant for mDNS.
+May 16 13:06:07 ank-morpork avahi-daemon[3788]: Registering new address record for 192.168.42.101 on usb0.IPv4.
+May 16 13:06:07 ank-morpork avahi-daemon[3788]: New relevant interface usb0.IPv4 for mDNS.
+May 16 13:06:07 ank-morpork avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 16 13:06:05 alien avahi-daemon[3788]: Registering new address record for fe80::66:31ff:fe38:6d01 on usb0.*.
+May 16 13:06:05 vespa avahi-daemon[3788]: New relevant interface usb0.IPv6 for mDNS.
+May 16 13:06:05 ank-morpork avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv6 with address fe80::66:31ff:fe38:6d01.
+May 16 09:01:30 alien avahi-daemon[3788]: Withdrawing address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.
+May 16 09:01:30 vespa avahi-daemon[3788]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 16 09:01:30 cats avahi-daemon[3788]: Interface wlan0.IPv6 no longer relevant for mDNS.
+May 16 09:01:24 cats avahi-daemon[3788]: Interface wlan0.IPv4 no longer relevant for mDNS.
+May 16 09:01:24 ank-morpork avahi-daemon[3788]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 16 09:01:24 alien avahi-daemon[3788]: Withdrawing address record for 192.168.1.9 on wlan0.
+May 19 18:42:09 cats avahi-daemon[3788]: Registering new address record for 192.168.42.101 on usb0.IPv4.
+May 19 18:42:09 ank-morpork avahi-daemon[3788]: New relevant interface usb0.IPv4 for mDNS.
+May 19 18:42:09 ank-morpork avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 19 18:42:08 vespa avahi-daemon[3788]: Registering new address record for fe80::66:31ff:fe38:6d01 on usb0.*.
+May 19 18:42:08 cats avahi-daemon[3788]: New relevant interface usb0.IPv6 for mDNS.
+May 19 18:42:08 vespa avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv6 with address fe80::66:31ff:fe38:6d01.
+May 17 23:48:59 vespa avahi-daemon[3788]: Withdrawing address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.
+May 17 23:48:59 vespa avahi-daemon[3788]: Leaving mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 17 23:48:59 ank-morpork avahi-daemon[3788]: Interface wlan0.IPv6 no longer relevant for mDNS.
+May 17 23:48:58 vespa avahi-daemon[3788]: Interface wlan0.IPv4 no longer relevant for mDNS.
+May 17 23:48:58 alien avahi-daemon[3788]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.25.
+May 17 23:48:58 alien avahi-daemon[3788]: Withdrawing address record for 192.168.1.25 on wlan0.
+May 17 22:21:33 vespa avahi-daemon[3788]: Registering new address record for 192.168.1.25 on wlan0.IPv4.
+May 17 22:21:33 ank-morpork avahi-daemon[3788]: New relevant interface wlan0.IPv4 for mDNS.
+May 17 22:21:33 vespa avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.25.
+May 17 22:21:33 cats avahi-daemon[3788]: Interface wlan0.IPv4 no longer relevant for mDNS.
+May 17 22:21:33 vespa avahi-daemon[3788]: Leaving mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.9.
+May 17 22:21:33 cats avahi-daemon[3788]: Withdrawing address record for 192.168.1.9 on wlan0.
+May 20 17:36:48 cats avahi-daemon[3788]: Registering new address record for 192.168.1.25 on wlan0.IPv4.
+May 20 17:36:48 ank-morpork avahi-daemon[3788]: New relevant interface wlan0.IPv4 for mDNS.
+May 20 17:36:48 alien avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv4 with address 192.168.1.25.
+May 20 17:36:46 vespa avahi-daemon[3788]: Registering new address record for fe80::6a5d:43ff:fe5f:4691 on wlan0.*.
+May 20 17:36:46 cats avahi-daemon[3788]: New relevant interface wlan0.IPv6 for mDNS.
+May 20 17:36:46 vespa avahi-daemon[3788]: Joining mDNS multicast group on interface wlan0.IPv6 with address fe80::6a5d:43ff:fe5f:4691.
+May 19 22:04:18 vespa avahi-daemon[3788]: Withdrawing workstation service for usb0.
+May 19 22:04:18 vespa avahi-daemon[3788]: Withdrawing address record for 192.168.42.101 on usb0.
+May 19 22:04:18 alien avahi-daemon[3788]: Withdrawing address record for fe80::66:31ff:fe38:6d01 on usb0.
+May 19 22:04:18 alien avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 19 22:04:18 ank-morpork avahi-daemon[3788]: Interface usb0.IPv4 no longer relevant for mDNS.
+May 19 22:04:18 cats avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv6 with address fe80::66:31ff:fe38:6d01.
+May 19 22:04:18 ank-morpork avahi-daemon[3788]: Interface usb0.IPv6 no longer relevant for mDNS.
+May 19 21:53:13 alien avahi-daemon[3788]: Registering new address record for 192.168.42.101 on usb0.IPv4.
+May 19 21:53:13 ank-morpork avahi-daemon[3788]: New relevant interface usb0.IPv4 for mDNS.
+May 19 21:53:13 ank-morpork avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 19 21:53:12 cats avahi-daemon[3788]: Registering new address record for fe80::66:31ff:fe38:6d01 on usb0.*.
+May 19 21:53:12 vespa avahi-daemon[3788]: New relevant interface usb0.IPv6 for mDNS.
+May 19 21:53:12 cats avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv6 with address fe80::66:31ff:fe38:6d01.
+May 19 19:22:58 vespa avahi-daemon[3788]: Withdrawing workstation service for usb0.
+May 19 19:22:58 vespa avahi-daemon[3788]: Withdrawing workstation service for usb0.
+May 19 19:22:58 cats avahi-daemon[3788]: Withdrawing address record for 192.168.42.101 on usb0.
+May 19 19:22:58 vespa avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 19 19:22:58 ank-morpork avahi-daemon[3788]: Interface usb0.IPv4 no longer relevant for mDNS.
+May 19 19:22:56 ank-morpork avahi-daemon[3788]: Registering new address record for 192.168.42.101 on usb0.IPv4.
+May 19 19:22:56 alien avahi-daemon[3788]: New relevant interface usb0.IPv4 for mDNS.
+May 19 19:22:56 cats avahi-daemon[3788]: Joining mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 19 19:22:55 cats avahi-daemon[3788]: Withdrawing workstation service for usb0.
+May 19 19:22:55 alien avahi-daemon[3788]: Withdrawing address record for 192.168.42.101 on usb0.
+May 19 19:22:55 cats avahi-daemon[3788]: Withdrawing address record for fe80::66:31ff:fe38:6d01 on usb0.
+May 19 19:22:55 vespa avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv4 with address 192.168.42.101.
+May 19 19:22:55 cats avahi-daemon[3788]: Interface usb0.IPv4 no longer relevant for mDNS.
+May 19 19:22:55 vespa avahi-daemon[3788]: Leaving mDNS multicast group on interface usb0.IPv6 with address fe80::66:31ff:fe38:6d01.
+May 19 19:22:55 ank-morpork avahi-daemon[3788]: Interface usb0.IPv6 no longer relevant for mDNS.

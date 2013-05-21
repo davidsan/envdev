@@ -1,0 +1,6 @@
+May 15 21:21:06 vespa snmptt-sys[0]: Changing to UID: snmptt (123)
+May 15 21:21:06 vespa snmptt-sys[0]: Finished loading 64 lines from /etc/snmp/snmptt.conf
+May 15 21:21:06 cats snmptt-sys[0]: Loading /etc/snmp/snmptt.conf
+May 15 21:21:06 ank-morpork snmptt-sys[0]: SNMPTT v1.3 started
+May 15 21:20:05 alien snmptt-sys[123]: Total traps received=0,Total traps translated=0,Total traps ignored=0,Total unknown traps=0
+May 15 21:20:05 cats snmptt-sys[123]: SNMPTT v1.3 shutdown

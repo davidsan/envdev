@@ -1,0 +1,214 @@
+May 15 21:21:03 ank-morpork bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 15 21:21:03 ank-morpork bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 15 21:21:03 cats bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 15 21:21:03 vespa bluetoothd[3602]: HCI dev 0 up
+May 15 21:21:02 alien bluetoothd[3602]: Listening for HCI events on hci0
+May 15 21:21:02 alien bluetoothd[3602]: Failed to init gatt_example plugin
+May 15 21:21:02 vespa bluetoothd[3602]: Failed to init time plugin
+May 15 21:21:02 vespa bluetoothd[3602]: Failed to init alert plugin
+May 15 21:21:02 cats bluetoothd[3602]: Starting SDP server
+May 15 21:21:02 cats bluetoothd[3602]: Bluetooth daemon 4.99
+May 15 21:20:02 vespa bluetoothd[3583]: Exit
+May 15 21:20:02 alien bluetoothd[3583]: Stopping SDP server
+May 15 21:20:02 ank-morpork bluetoothd[3583]: Stopping hci0 event socket
+May 15 21:20:01 cats bluetoothd[3583]: Terminating
+May 15 21:14:39 vespa bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been enabled
+May 15 21:14:39 cats bluetoothd[3583]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 15 21:14:39 cats bluetoothd[3583]: sap-server: Operation not permitted (1)
+May 15 21:14:39 cats bluetoothd[3583]: Sap driver initialization failed.
+May 15 21:14:39 alien bluetoothd[3583]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 15 21:14:39 alien bluetoothd[3583]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 15 21:14:38 ank-morpork bluetoothd[3583]: HCI dev 0 up
+May 15 21:14:37 ank-morpork bluetoothd[3583]: HCI dev 0 down
+May 15 21:14:37 cats bluetoothd[3583]: HCI dev 0 up
+May 15 21:14:37 vespa bluetoothd[3583]: Listening for HCI events on hci0
+May 15 21:14:37 ank-morpork bluetoothd[3583]: HCI dev 0 registered
+May 15 21:14:37 cats bluetoothd[3583]: Unregister path: /org/bluez/3583/hci0
+May 15 21:14:37 ank-morpork bluetoothd[3583]: Stopping hci0 event socket
+May 15 21:14:37 vespa bluetoothd[3583]: HCI dev 0 unregistered
+May 15 21:14:37 cats bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been disabled
+May 15 21:14:37 cats bluetoothd[3583]: HCI dev 0 down
+May 15 17:10:44 ank-morpork bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been enabled
+May 15 17:10:44 alien bluetoothd[3583]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 15 17:10:44 ank-morpork bluetoothd[3583]: sap-server: Operation not permitted (1)
+May 15 17:10:44 ank-morpork bluetoothd[3583]: Sap driver initialization failed.
+May 15 17:10:44 cats bluetoothd[3583]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 15 17:10:44 cats bluetoothd[3583]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 15 17:10:44 vespa bluetoothd[3583]: HCI dev 0 up
+May 15 17:10:44 cats bluetoothd[3583]: Listening for HCI events on hci0
+May 15 17:10:44 vespa bluetoothd[3583]: HCI dev 0 registered
+May 15 17:10:44 alien bluetoothd[3583]: Unregister path: /org/bluez/3583/hci0
+May 15 17:10:44 ank-morpork bluetoothd[3583]: Stopping hci0 event socket
+May 15 17:10:44 cats bluetoothd[3583]: HCI dev 0 unregistered
+May 15 17:10:44 cats bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been disabled
+May 15 17:10:44 ank-morpork bluetoothd[3583]: HCI dev 0 down
+May 15 17:07:24 alien bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been enabled
+May 15 17:07:24 vespa bluetoothd[3583]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 15 17:07:24 alien bluetoothd[3583]: sap-server: Operation not permitted (1)
+May 15 17:07:24 ank-morpork bluetoothd[3583]: Sap driver initialization failed.
+May 15 17:07:24 vespa bluetoothd[3583]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 15 17:07:23 alien bluetoothd[3583]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 15 17:07:23 vespa bluetoothd[3583]: HCI dev 0 up
+May 15 17:07:22 alien bluetoothd[3583]: HCI dev 0 down
+May 15 17:07:22 cats bluetoothd[3583]: HCI dev 0 up
+May 15 17:07:22 alien bluetoothd[3583]: Listening for HCI events on hci0
+May 15 17:07:22 vespa bluetoothd[3583]: HCI dev 0 registered
+May 15 17:07:20 vespa bluetoothd[3583]: Unregister path: /org/bluez/3583/hci0
+May 15 17:07:20 vespa bluetoothd[3583]: Stopping hci0 event socket
+May 15 17:07:20 cats bluetoothd[3583]: HCI dev 0 unregistered
+May 15 17:07:20 vespa bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been disabled
+May 15 17:07:19 alien bluetoothd[3583]: HCI dev 0 down
+May 15 14:47:42 ank-morpork bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been enabled
+May 15 14:47:42 cats bluetoothd[3583]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 15 14:47:40 vespa bluetoothd[3583]: sap-server: Operation not permitted (1)
+May 15 14:47:40 cats bluetoothd[3583]: Sap driver initialization failed.
+May 15 14:47:40 alien bluetoothd[3583]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 15 14:47:40 vespa bluetoothd[3583]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 15 14:47:40 alien bluetoothd[3583]: HCI dev 0 up
+May 15 14:47:38 cats bluetoothd[3583]: HCI dev 0 down
+May 15 14:47:38 vespa bluetoothd[3583]: HCI dev 0 up
+May 15 14:47:38 vespa bluetoothd[3583]: Listening for HCI events on hci0
+May 15 14:47:38 vespa bluetoothd[3583]: HCI dev 0 registered
+May 15 14:47:35 vespa bluetoothd[3583]: Unregister path: /org/bluez/3583/hci0
+May 15 14:47:35 ank-morpork bluetoothd[3583]: Stopping hci0 event socket
+May 15 14:47:35 cats bluetoothd[3583]: HCI dev 0 unregistered
+May 15 14:47:35 cats bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been disabled
+May 15 14:47:34 alien bluetoothd[3583]: HCI dev 0 down
+May 15 08:54:39 ank-morpork bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been enabled
+May 15 08:54:39 vespa bluetoothd[3583]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 15 08:54:39 vespa bluetoothd[3583]: sap-server: Operation not permitted (1)
+May 15 08:54:39 ank-morpork bluetoothd[3583]: Sap driver initialization failed.
+May 15 08:54:39 vespa bluetoothd[3583]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 15 08:54:38 alien bluetoothd[3583]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 15 08:54:38 cats bluetoothd[3583]: HCI dev 0 up
+May 15 08:54:38 vespa bluetoothd[3583]: HCI dev 0 down
+May 15 08:54:38 ank-morpork bluetoothd[3583]: HCI dev 0 up
+May 15 08:54:38 vespa bluetoothd[3583]: Listening for HCI events on hci0
+May 15 08:54:38 cats bluetoothd[3583]: HCI dev 0 registered
+May 15 08:54:33 vespa bluetoothd[3583]: Unregister path: /org/bluez/3583/hci0
+May 15 08:54:33 ank-morpork bluetoothd[3583]: Stopping hci0 event socket
+May 15 08:54:33 cats bluetoothd[3583]: HCI dev 0 unregistered
+May 15 08:54:33 cats bluetoothd[3583]: Adapter /org/bluez/3583/hci0 has been disabled
+May 15 08:54:32 cats bluetoothd[3583]: HCI dev 0 down
+May 17 08:48:45 alien bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 17 08:48:45 ank-morpork bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 17 08:48:44 alien bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 17 08:48:44 ank-morpork bluetoothd[3602]: Sap driver initialization failed.
+May 17 08:48:44 vespa bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 17 08:48:43 cats bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 17 08:48:43 vespa bluetoothd[3602]: HCI dev 0 up
+May 17 08:48:43 alien bluetoothd[3602]: HCI dev 0 down
+May 17 08:48:43 ank-morpork bluetoothd[3602]: HCI dev 0 up
+May 17 08:48:43 ank-morpork bluetoothd[3602]: Listening for HCI events on hci0
+May 17 08:48:43 vespa bluetoothd[3602]: HCI dev 0 registered
+May 17 08:48:42 vespa bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 17 08:48:42 ank-morpork bluetoothd[3602]: Stopping hci0 event socket
+May 17 08:48:42 vespa bluetoothd[3602]: HCI dev 0 unregistered
+May 17 08:48:42 vespa bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 17 08:48:42 ank-morpork bluetoothd[3602]: HCI dev 0 down
+May 16 21:20:11 vespa bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 16 21:20:11 vespa bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 16 21:20:10 vespa bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 16 21:20:10 ank-morpork bluetoothd[3602]: Sap driver initialization failed.
+May 16 21:20:10 cats bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 16 21:20:10 alien bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 16 21:20:10 ank-morpork bluetoothd[3602]: HCI dev 0 up
+May 16 21:20:10 vespa bluetoothd[3602]: Listening for HCI events on hci0
+May 16 21:20:10 vespa bluetoothd[3602]: HCI dev 0 registered
+May 16 21:20:10 alien bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 16 21:20:10 ank-morpork bluetoothd[3602]: Stopping hci0 event socket
+May 16 21:20:10 cats bluetoothd[3602]: HCI dev 0 unregistered
+May 16 21:20:10 vespa bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 16 21:20:10 alien bluetoothd[3602]: HCI dev 0 down
+May 16 09:08:44 vespa bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 16 09:08:44 vespa bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 16 09:08:44 cats bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 16 09:08:44 alien bluetoothd[3602]: Sap driver initialization failed.
+May 16 09:08:44 vespa bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 16 09:08:44 ank-morpork bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 16 09:08:44 ank-morpork bluetoothd[3602]: HCI dev 0 up
+May 16 09:08:44 alien bluetoothd[3602]: Listening for HCI events on hci0
+May 16 09:08:44 vespa bluetoothd[3602]: HCI dev 0 registered
+May 16 09:08:44 alien bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 16 09:08:44 cats bluetoothd[3602]: Stopping hci0 event socket
+May 16 09:08:44 alien bluetoothd[3602]: HCI dev 0 unregistered
+May 16 09:08:44 cats bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 16 09:08:44 alien bluetoothd[3602]: HCI dev 0 down
+May 16 09:01:10 cats bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 16 09:01:10 vespa bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 16 09:01:09 cats bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 16 09:01:09 vespa bluetoothd[3602]: Sap driver initialization failed.
+May 16 09:01:09 vespa bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 16 09:01:08 cats bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 16 09:01:08 cats bluetoothd[3602]: HCI dev 0 up
+May 16 09:01:08 vespa bluetoothd[3602]: HCI dev 0 down
+May 16 09:01:08 alien bluetoothd[3602]: HCI dev 0 up
+May 16 09:01:08 alien bluetoothd[3602]: Listening for HCI events on hci0
+May 16 09:01:08 alien bluetoothd[3602]: HCI dev 0 registered
+May 16 09:01:07 vespa bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 16 09:01:07 vespa bluetoothd[3602]: Stopping hci0 event socket
+May 16 09:01:07 ank-morpork bluetoothd[3602]: HCI dev 0 unregistered
+May 16 09:01:07 alien bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 16 09:01:07 ank-morpork bluetoothd[3602]: HCI dev 0 down
+May 19 18:41:41 ank-morpork bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 19 18:41:41 ank-morpork bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 19 18:41:41 cats bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 19 18:41:41 vespa bluetoothd[3602]: Sap driver initialization failed.
+May 19 18:41:41 ank-morpork bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 19 18:41:41 ank-morpork bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 19 18:41:41 ank-morpork bluetoothd[3602]: HCI dev 0 up
+May 19 18:41:40 alien bluetoothd[3602]: HCI dev 0 down
+May 19 18:41:40 vespa bluetoothd[3602]: HCI dev 0 up
+May 19 18:41:40 ank-morpork bluetoothd[3602]: Listening for HCI events on hci0
+May 19 18:41:40 vespa bluetoothd[3602]: HCI dev 0 registered
+May 19 18:41:37 cats bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 19 18:41:37 vespa bluetoothd[3602]: Stopping hci0 event socket
+May 19 18:41:37 cats bluetoothd[3602]: HCI dev 0 unregistered
+May 19 18:41:37 alien bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 19 18:41:37 vespa bluetoothd[3602]: HCI dev 0 down
+May 17 22:21:25 ank-morpork bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 17 22:21:25 cats bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 17 22:21:23 cats bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 17 22:21:23 ank-morpork bluetoothd[3602]: Sap driver initialization failed.
+May 17 22:21:23 alien bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 17 22:21:22 vespa bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 17 22:21:22 cats bluetoothd[3602]: HCI dev 0 up
+May 17 22:21:22 ank-morpork bluetoothd[3602]: HCI dev 0 down
+May 17 22:21:22 cats bluetoothd[3602]: HCI dev 0 up
+May 17 22:21:22 ank-morpork bluetoothd[3602]: Listening for HCI events on hci0
+May 17 22:21:22 cats bluetoothd[3602]: HCI dev 0 registered
+May 17 22:21:18 ank-morpork bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 17 22:21:18 vespa bluetoothd[3602]: Stopping hci0 event socket
+May 17 22:21:18 cats bluetoothd[3602]: HCI dev 0 unregistered
+May 17 22:21:18 vespa bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 17 22:21:18 ank-morpork bluetoothd[3602]: HCI dev 0 down
+May 20 17:36:43 alien bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 20 17:36:43 alien bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 20 17:36:42 vespa bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 20 17:36:42 vespa bluetoothd[3602]: Sap driver initialization failed.
+May 20 17:36:42 alien bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 20 17:36:42 alien bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 20 17:36:42 alien bluetoothd[3602]: HCI dev 0 up
+May 20 17:36:41 ank-morpork bluetoothd[3602]: HCI dev 0 down
+May 20 17:36:41 cats bluetoothd[3602]: HCI dev 0 up
+May 20 17:36:41 ank-morpork bluetoothd[3602]: Listening for HCI events on hci0
+May 20 17:36:41 vespa bluetoothd[3602]: HCI dev 0 registered
+May 20 17:36:40 vespa bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 20 17:36:40 vespa bluetoothd[3602]: Stopping hci0 event socket
+May 20 17:36:40 vespa bluetoothd[3602]: HCI dev 0 unregistered
+May 20 17:36:40 ank-morpork bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 20 17:36:40 cats bluetoothd[3602]: HCI dev 0 down
+May 19 20:53:32 cats bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been enabled
+May 19 20:53:32 alien bluetoothd[3602]: Unable to load keys to adapter_ops: Function not implemented (38)
+May 19 20:53:32 vespa bluetoothd[3602]: sap-server: Operation not permitted (1)
+May 19 20:53:32 vespa bluetoothd[3602]: Sap driver initialization failed.
+May 19 20:53:32 ank-morpork bluetoothd[3602]: sap-dummy interface org.bluez.SimAccessTest init failed on path /org/bluez/test
+May 19 20:53:32 ank-morpork bluetoothd[3602]: Proximity GATT Reporter Driver: Operation not permitted (1)
+May 19 20:53:32 alien bluetoothd[3602]: HCI dev 0 up
+May 19 20:53:32 alien bluetoothd[3602]: Listening for HCI events on hci0
+May 19 20:53:32 cats bluetoothd[3602]: HCI dev 0 registered
+May 19 20:53:32 vespa bluetoothd[3602]: Unregister path: /org/bluez/3602/hci0
+May 19 20:53:32 cats bluetoothd[3602]: Stopping hci0 event socket
+May 19 20:53:32 vespa bluetoothd[3602]: HCI dev 0 unregistered
+May 19 20:53:32 cats bluetoothd[3602]: Adapter /org/bluez/3602/hci0 has been disabled
+May 19 20:53:32 ank-morpork bluetoothd[3602]: HCI dev 0 down

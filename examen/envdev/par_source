@@ -1,0 +1,22 @@
+#!/usr/bin/perl -w
+# ok
+
+BEGIN{
+	our %hash=();
+	our @log=();
+}
+my $filename=shift;
+open my $fh, $filename or die "erreur";
+
+while (my $l=<$fh>){
+	push @log, $l;
+	$l=~m/^\w+ \d+ [^ ]* [-\w]+ ([-\w]*)/;
+	$hash{$1}=0;
+}
+close $fh;
+
+foreach my $k (keys %hash){
+	open my $fh, "> $filename.$k" or die "erreur";
+
+	print $fh grep { $_=~m/^\w+ \d+ [^ ]* [-\w]+ ($k)/ } @log;
+}

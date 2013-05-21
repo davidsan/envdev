@@ -1,0 +1,88 @@
+May 15 00:35:31 ank-morpork dbus[3408]: [system] Successfully activated service 'org.gnome.SettingsDaemon.DateTimeMechanism'
+May 15 00:35:31 alien dbus[3408]: [system] Activating service name='org.gnome.SettingsDaemon.DateTimeMechanism' (using servicehelper)
+May 16 06:27:11 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 06:27:11 vespa dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 05:26:39 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 05:26:39 cats dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 04:26:39 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 04:26:39 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 03:26:39 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 03:26:39 vespa dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 02:26:39 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 02:26:39 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 01:26:39 alien dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 01:26:39 vespa dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 00:43:22 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 00:43:22 alien dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 00:26:39 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 00:26:39 cats dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 15 23:50:26 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 15 23:50:26 cats dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 15 23:26:39 alien dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 15 23:26:39 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 15 22:26:39 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 15 22:26:39 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 15 21:21:40 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 15 21:21:39 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 15 21:21:39 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.UDisks'
+May 15 21:21:39 cats dbus[3378]: [system] Activating service name='org.freedesktop.UDisks' (using servicehelper)
+May 15 21:21:26 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+May 15 21:21:26 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.RealtimeKit1' (using servicehelper)
+May 15 21:21:24 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.UPower'
+May 15 21:21:24 alien dbus[3378]: [system] Activating service name='org.freedesktop.UPower' (using servicehelper)
+May 15 21:21:22 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.ConsoleKit'
+May 15 21:21:22 vespa dbus[3378]: [system] Activating service name='org.freedesktop.ConsoleKit' (using servicehelper)
+May 15 21:21:22 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.Accounts'
+May 15 21:21:22 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.Accounts' (using servicehelper)
+May 15 21:21:15 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+May 15 21:21:14 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.ColorManager' (using servicehelper)
+May 15 21:21:09 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 21:21:09 alien dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 21:21:05 cats dbus[3378]: [system] Successfully activated service 'fi.w1.wpa_supplicant1'
+May 15 21:21:05 alien dbus[3378]: [system] Activating service name='fi.w1.wpa_supplicant1' (using servicehelper)
+May 15 21:21:05 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.ModemManager'
+May 15 21:21:05 vespa dbus[3378]: [system] Activating service name='org.freedesktop.ModemManager' (using servicehelper)
+May 15 21:21:04 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+May 15 21:21:04 vespa dbus[3378]: [system] Activating service name='org.freedesktop.PolicyKit1' (using servicehelper)
+May 15 21:20:16 alien dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 21:20:16 vespa dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 21:14:50 alien dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 21:14:48 ank-morpork dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 17:07:34 ank-morpork dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 17:07:32 cats dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 15:41:14 vespa dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 15:41:14 alien dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 15:14:01 ank-morpork dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 15:14:01 ank-morpork dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 14:48:44 ank-morpork dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 14:48:44 vespa dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 14:47:48 ank-morpork dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 14:47:47 cats dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 15 08:55:00 cats dbus[3408]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 15 08:55:00 ank-morpork dbus[3408]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 16 21:20:19 alien dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 16 21:20:18 alien dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 16 13:14:40 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 16 13:14:40 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 16 13:06:08 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 16 13:06:08 alien dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 16 09:11:54 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+May 16 09:11:53 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.PackageKit' (using servicehelper)
+May 16 09:01:29 cats dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 16 09:01:28 vespa dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 19 18:42:12 alien dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 19 18:42:11 alien dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 17 23:48:59 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 17 23:48:59 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 17 22:21:35 vespa dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 17 22:21:34 cats dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 20 17:36:51 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 20 17:36:50 cats dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 19 22:04:18 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 19 22:04:18 cats dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 19 21:53:14 alien dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 19 21:53:14 ank-morpork dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 19 19:22:55 alien dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 19 19:22:55 alien dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)
+May 19 19:09:14 ank-morpork dbus[3378]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+May 19 19:09:14 cats dbus[3378]: [system] Activating service name='org.freedesktop.nm_dispatcher' (using servicehelper)

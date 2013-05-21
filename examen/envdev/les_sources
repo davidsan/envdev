@@ -1,0 +1,21 @@
+#!/usr/bin/perl -wln
+
+BEGIN{
+	our %hash=();
+}
+
+$_=~m/^\w+ \d+ [^ ]* [-\w]+ ([-\w]*)/;
+
+$hash{$1}=0;
+#print $1;
+
+END{
+	$,=" ";
+	sub fc{
+		$_=shift;
+		$_=~tr/A-Z/a-z/;
+		return $_;
+	}
+	print sort {fc($a) cmp fc($b)} keys %hash;
+
+}

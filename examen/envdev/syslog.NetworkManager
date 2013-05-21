@@ -1,0 +1,1057 @@
+May 15 23:54:44 alien NetworkManager[3929]: <warn> /sys/devices/virtual/net/tap0: couldn't determine device driver; ignoring...
+May 15 23:54:44 cats NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/virtual/net/tap0, iface: tap0): no ifupdown configuration found.
+May 15 23:54:44 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/virtual/net/tap0, iface: tap0)
+May 15 23:53:41 cats NetworkManager[3929]:    SCPlugin-Ifupdown: devices removed (path: /sys/devices/virtual/net/interf, iface: interf)
+May 15 23:53:41 cats NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/virtual/net/interf, iface: interf): no ifupdown configuration found.
+May 15 23:53:41 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/virtual/net/interf, iface: interf)
+May 15 21:21:27 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 15 21:21:27 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 15 21:21:27 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 15 21:21:27 ank-morpork NetworkManager[3929]: <info> (wlan0): IP6 addrconf timed out or failed.
+May 15 21:21:09 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+May 15 21:21:09 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) successful, device activated.
+May 15 21:21:09 cats NetworkManager[3929]: <info> Policy set 'Auto Bbox-E532D6' (wlan0) as default for IPv4 routing and DNS.
+May 15 21:21:09 vespa NetworkManager[3929]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 15 21:21:09 ank-morpork NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 15 21:21:08 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+May 15 21:21:08 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 15 21:21:08 alien NetworkManager[3929]: <info>   domain name 'lan'
+May 15 21:21:08 alien NetworkManager[3929]: <info>   nameserver '192.168.1.254'
+May 15 21:21:08 ank-morpork NetworkManager[3929]: <info>   gateway 192.168.1.254
+May 15 21:21:08 cats NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 15 21:21:08 cats NetworkManager[3929]: <info>   address 192.168.1.9
+May 15 21:21:08 cats NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed preinit -> reboot
+May 15 21:21:08 ank-morpork NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+May 15 21:21:07 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+May 15 21:21:07 vespa NetworkManager[3929]: <info> Activation (wlan0) Beginning IP6 addrconf.
+May 15 21:21:07 ank-morpork NetworkManager[3929]: <info> dhclient started with pid 4087
+May 15 21:21:07 vespa NetworkManager[3929]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 15 21:21:07 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 15 21:21:07 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+May 15 21:21:07 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 15 21:21:07 ank-morpork NetworkManager[3929]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'Bbox-E532D6'.
+May 15 21:21:07 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+May 15 21:21:06 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: associating -> associated
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 21:21:06 cats NetworkManager[3929]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: inactive -> scanning
+May 15 21:21:06 cats NetworkManager[3929]: <info> Config: set interface ap_scan to 1
+May 15 21:21:06 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 15 21:21:06 cats NetworkManager[3929]: <info> Config: added 'psk' value '<omitted>'
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Config: added 'auth_alg' value 'OPEN'
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+May 15 21:21:06 ank-morpork NetworkManager[3929]: <info> Config: added 'scan_ssid' value '1'
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Config: added 'ssid' value 'Bbox-E532D6'
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Activation (wlan0/wireless): connection 'Auto Bbox-E532D6' has security, and secrets exist.  No new secrets needed.
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 15 21:21:06 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 15 21:21:06 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 15 21:21:06 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 15 21:21:06 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) starting connection 'Auto Bbox-E532D6'
+May 15 21:21:06 vespa NetworkManager[3929]: <info> Auto-activating connection 'Auto Bbox-E532D6'.
+May 15 21:21:06 alien NetworkManager[3929]: <warn> Trying to remove a non-existant call id.
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: ready -> inactive
+May 15 21:21:06 alien NetworkManager[3929]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+May 15 21:21:06 ank-morpork NetworkManager[3929]: <info> (wlan0): supplicant interface state: starting -> ready
+May 15 21:21:05 ank-morpork NetworkManager[3929]: <info> wpa_supplicant started
+May 15 21:21:05 alien NetworkManager[3929]: <info> modem-manager is now available
+May 15 21:21:05 ank-morpork NetworkManager[3929]: <info> (wlan0): deactivating device (reason 'managed') [2]
+May 15 21:21:05 vespa NetworkManager[3929]: <info> (wlan0): preparing device.
+May 15 21:21:05 alien NetworkManager[3929]: <info> (wlan0): bringing up device.
+May 15 21:21:05 alien NetworkManager[3929]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 15 21:21:05 vespa NetworkManager[3929]: <info> (wlan0): now managed
+May 15 21:21:05 alien NetworkManager[3929]: <info> (wlan0): exported as /org/freedesktop/NetworkManager/Devices/1
+May 15 21:21:05 alien NetworkManager[3929]: <info> (wlan0): new 802.11 WiFi device (driver: 'iwlwifi' ifindex: 3)
+May 15 21:21:05 alien NetworkManager[3929]: <warn> (wlan0): driver supports Access Point (AP) mode
+May 15 21:21:05 vespa NetworkManager[3929]: <info> (wlan0): using nl80211 for WiFi device control
+May 15 21:21:05 vespa NetworkManager[3929]: <info> Added default wired connection 'Wired connection 1' for /sys/devices/pci0000:00/0000:00:1c.0/0000:08:00.0/net/eth0
+May 15 21:21:05 cats NetworkManager[3929]: <info> (eth0): deactivating device (reason 'managed') [2]
+May 15 21:21:05 alien NetworkManager[3929]: <info> (eth0): preparing device.
+May 15 21:21:05 cats NetworkManager[3929]: <info> (eth0): bringing up device.
+May 15 21:21:05 cats NetworkManager[3929]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 15 21:21:05 vespa NetworkManager[3929]: <info> (eth0): now managed
+May 15 21:21:05 ank-morpork NetworkManager[3929]: <info> (eth0): exported as /org/freedesktop/NetworkManager/Devices/0
+May 15 21:21:05 vespa NetworkManager[3929]: <info> (eth0): new Ethernet device (driver: 'atl1c' ifindex: 2)
+May 15 21:21:05 vespa NetworkManager[3929]: <info> (eth0): carrier is OFF
+May 15 21:21:05 cats NetworkManager[3929]: <warn> failed to allocate link cache: (-10) Operation not supported
+May 15 21:21:05 cats NetworkManager[3929]: <info> Networking is enabled by state file
+May 15 21:21:05 vespa NetworkManager[3929]: <info> WiMAX enabled by radio killswitch; enabled by state file
+May 15 21:21:05 alien NetworkManager[3929]: <info> WWAN enabled by radio killswitch; enabled by state file
+May 15 21:21:05 alien NetworkManager[3929]: <info> WiFi enabled by radio killswitch; enabled by state file
+May 15 21:21:05 cats NetworkManager[3929]: <info> found WiFi radio killswitch rfkill1 (at /sys/devices/pci0000:00/0000:00:1c.2/0000:09:00.0/ieee80211/phy0/rfkill1) (driver (unknown))
+May 15 21:21:05 cats NetworkManager[3929]: <info> monitoring ifupdown state file '/run/network/ifstate'.
+May 15 21:21:05 alien NetworkManager[3929]: <info> monitoring kernel firmware directory '/lib/firmware'.
+May 15 21:21:05 vespa NetworkManager[3929]: <info> trying to start the modem manager...
+May 15 21:21:05 cats NetworkManager[3929]:    Ifupdown: get unmanaged devices count: 0
+May 15 21:21:05 vespa NetworkManager[3929]:    keyfile:     read connection 'Auto wifi-campus'
+May 15 21:21:05 alien NetworkManager[3929]:    keyfile: parsing Auto wifi-campus ...
+May 15 21:21:05 vespa NetworkManager[3929]:    keyfile:     read connection 'Auto LIP6-guest'
+May 15 21:21:05 cats NetworkManager[3929]:    keyfile: parsing Auto LIP6-guest ...
+May 15 21:21:05 ank-morpork NetworkManager[3929]:    keyfile:     read connection 'Auto Livebox-70d0'
+May 15 21:21:05 vespa NetworkManager[3929]:    keyfile: parsing Auto Livebox-70d0-ad53420a-25c2-4b25-9b75-d87f40fc6d15 ...
+May 15 21:21:05 ank-morpork NetworkManager[3929]:    keyfile:     read connection 'Auto prout'
+May 15 21:21:04 cats NetworkManager[3929]:    keyfile: parsing Auto prout ...
+May 15 21:21:04 vespa NetworkManager[3929]:    keyfile:     read connection 'Auto Bbox-E532D6'
+May 15 21:21:04 vespa NetworkManager[3929]:    keyfile: parsing Auto Bbox-E532D6 ...
+May 15 21:21:04 alien NetworkManager[3929]:    keyfile:     read connection 'Auto fpoinas'
+May 15 21:21:04 alien NetworkManager[3929]:    keyfile: parsing Auto fpoinas ...
+May 15 21:21:04 vespa NetworkManager[3929]:    keyfile:     read connection 'Auto croute's'
+May 15 21:21:04 cats NetworkManager[3929]:    keyfile: parsing Auto croute's ...
+May 15 21:21:04 cats NetworkManager[3929]:    keyfile:     read connection 'Auto Livebox-70d0'
+May 15 21:21:04 cats NetworkManager[3929]:    keyfile: parsing Auto Livebox-70d0 ...
+May 15 21:21:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: (36232000) ... get_connections (managed=false): return empty list.
+May 15 21:21:04 cats NetworkManager[3929]:    SCPlugin-Ifupdown: (36232000) ... get_connections.
+May 15 21:21:04 vespa NetworkManager[3929]:    Ifupdown: get unmanaged devices count: 0
+May 15 21:21:04 alien NetworkManager[3929]: <info> Loaded plugin keyfile: (c) 2007 - 2010 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+May 15 21:21:04 cats NetworkManager[3929]: <info> Loaded plugin ifupdown: (C) 2008 Canonical Ltd.  To report bugs please use the NetworkManager mailing list.
+May 15 21:21:04 ank-morpork NetworkManager[3929]:    SCPlugin-Ifupdown: end _init.
+May 15 21:21:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/virtual/net/lo, iface: lo): no ifupdown configuration found.
+May 15 21:21:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/virtual/net/lo, iface: lo)
+May 15 21:21:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:1c.2/0000:09:00.0/net/wlan0, iface: wlan0): no ifupdown configuration found.
+May 15 21:21:04 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:1c.2/0000:09:00.0/net/wlan0, iface: wlan0)
+May 15 21:21:04 alien NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:1c.0/0000:08:00.0/net/eth0, iface: eth0): no ifupdown configuration found.
+May 15 21:21:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:1c.0/0000:08:00.0/net/eth0, iface: eth0)
+May 15 21:21:04 alien NetworkManager[3929]:    SCPluginIfupdown: management mode: unmanaged
+May 15 21:21:04 alien NetworkManager[3929]:    SCPlugin-Ifupdown: update_system_hostname
+May 15 21:21:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: init!
+May 15 21:21:03 vespa NetworkManager[3929]: <info> Read config file /etc/NetworkManager/NetworkManager.conf
+May 15 21:21:03 alien NetworkManager[3929]: <info> NetworkManager (version 0.9.4.0) is starting...
+May 15 21:20:16 ank-morpork NetworkManager[24225]: <info> exiting (success)
+May 15 21:20:16 ank-morpork NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 21:20:16 vespa NetworkManager[24225]: <info> (wlan0): taking down device.
+May 15 21:20:16 cats NetworkManager[24225]: <info> (wlan0): cleaning up...
+May 15 21:20:16 cats NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 21:20:15 cats NetworkManager[24225]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 22304
+May 15 21:20:15 cats NetworkManager[24225]: <info> (wlan0): deactivating device (reason 'removed') [36]
+May 15 21:20:15 alien NetworkManager[24225]: <info> (wlan0): device state change: activated -> unmanaged (reason 'removed') [100 10 36]
+May 15 21:20:15 cats NetworkManager[24225]: <info> (wlan0): now unmanaged
+May 15 21:20:15 ank-morpork NetworkManager[24225]: <info> (eth0): taking down device.
+May 15 21:20:15 alien NetworkManager[24225]: <info> (eth0): cleaning up...
+May 15 21:20:15 ank-morpork NetworkManager[24225]: <info> (eth0): device state change: unavailable -> unmanaged (reason 'removed') [20 10 36]
+May 15 21:20:15 cats NetworkManager[24225]: <info> (eth0): now unmanaged
+May 15 21:20:15 alien NetworkManager[24225]: <warn> quit request received, terminating...
+May 15 21:20:15 alien NetworkManager[24225]: <info> caught signal 15, shutting down normally.
+May 15 21:15:03 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 15 21:15:03 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 15 21:15:03 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 15 21:15:03 alien NetworkManager[24225]: <info> (wlan0): IP6 addrconf timed out or failed.
+May 15 21:14:48 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+May 15 21:14:48 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) successful, device activated.
+May 15 21:14:48 vespa NetworkManager[24225]: <info> Policy set 'Auto Bbox-E532D6' (wlan0) as default for IPv4 routing and DNS.
+May 15 21:14:47 ank-morpork NetworkManager[24225]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 15 21:14:46 cats NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 21:14:45 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+May 15 21:14:45 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 15 21:14:45 ank-morpork NetworkManager[24225]: <info>   domain name 'lan'
+May 15 21:14:45 alien NetworkManager[24225]: <info>   nameserver '192.168.1.254'
+May 15 21:14:45 cats NetworkManager[24225]: <info>   gateway 192.168.1.254
+May 15 21:14:45 vespa NetworkManager[24225]: <info>   prefix 24 (255.255.255.0)
+May 15 21:14:45 cats NetworkManager[24225]: <info>   address 192.168.1.9
+May 15 21:14:45 ank-morpork NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed preinit -> reboot
+May 15 21:14:45 cats NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+May 15 21:14:43 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+May 15 21:14:43 alien NetworkManager[24225]: <info> Activation (wlan0) Beginning IP6 addrconf.
+May 15 21:14:43 ank-morpork NetworkManager[24225]: <info> dhclient started with pid 22304
+May 15 21:14:42 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 15 21:14:42 vespa NetworkManager[24225]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 15 21:14:42 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+May 15 21:14:42 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 15 21:14:42 cats NetworkManager[24225]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'Bbox-E532D6'.
+May 15 21:14:42 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+May 15 21:14:42 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+May 15 21:14:42 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> associated
+May 15 21:14:41 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 21:14:41 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 21:14:41 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: inactive -> scanning
+May 15 21:14:40 alien NetworkManager[24225]: <info> Config: set interface ap_scan to 1
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Config: added 'psk' value '<omitted>'
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Config: added 'auth_alg' value 'OPEN'
+May 15 21:14:40 alien NetworkManager[24225]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Config: added 'scan_ssid' value '1'
+May 15 21:14:40 cats NetworkManager[24225]: <info> Config: added 'ssid' value 'Bbox-E532D6'
+May 15 21:14:40 cats NetworkManager[24225]: <info> Activation (wlan0/wireless): connection 'Auto Bbox-E532D6' has security, and secrets exist.  No new secrets needed.
+May 15 21:14:40 alien NetworkManager[24225]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 15 21:14:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 15 21:14:40 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 15 21:14:40 cats NetworkManager[24225]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+May 15 21:14:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 15 21:14:40 alien NetworkManager[24225]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+May 15 21:14:40 cats NetworkManager[24225]: <info> Activation (wlan0/wireless): access point 'Auto Bbox-E532D6' has security, but secrets are required.
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 15 21:14:40 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 15 21:14:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 15 21:14:40 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 15 21:14:40 cats NetworkManager[24225]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 15 21:14:40 cats NetworkManager[24225]: <info> Activation (wlan0) starting connection 'Auto Bbox-E532D6'
+May 15 21:14:40 vespa NetworkManager[24225]: <info> Auto-activating connection 'Auto Bbox-E532D6'.
+May 15 17:10:46 ank-morpork NetworkManager[24225]: <warn> Trying to remove a non-existant call id.
+May 15 17:10:46 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: ready -> inactive
+May 15 17:10:46 vespa NetworkManager[24225]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+May 15 17:10:46 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: starting -> ready
+May 15 17:10:45 alien NetworkManager[24225]: <info> (wlan0): deactivating device (reason 'managed') [2]
+May 15 17:10:45 vespa NetworkManager[24225]: <info> (wlan0): preparing device.
+May 15 17:10:45 vespa NetworkManager[24225]: <info> (wlan0): bringing up device.
+May 15 17:10:45 alien NetworkManager[24225]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 15 17:10:45 vespa NetworkManager[24225]: <info> (wlan0): now managed
+May 15 17:10:45 cats NetworkManager[24225]: <info> (eth0): deactivating device (reason 'managed') [2]
+May 15 17:10:45 vespa NetworkManager[24225]: <info> (eth0): preparing device.
+May 15 17:10:45 alien NetworkManager[24225]: <info> (eth0): bringing up device.
+May 15 17:10:45 alien NetworkManager[24225]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 15 17:10:45 cats NetworkManager[24225]: <info> (eth0): now managed
+May 15 17:10:45 cats NetworkManager[24225]: <info> WWAN now enabled by management service
+May 15 17:10:45 vespa NetworkManager[24225]: <info> waking up and re-enabling...
+May 15 17:10:45 vespa NetworkManager[24225]: <info> wake requested (sleeping: yes  enabled: yes)
+May 15 17:08:09 vespa NetworkManager[24225]: <info> (wlan0): taking down device.
+May 15 17:08:09 alien NetworkManager[24225]: <info> (wlan0): cleaning up...
+May 15 17:08:09 ank-morpork NetworkManager[24225]: <info> (wlan0): device state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+May 15 17:08:09 alien NetworkManager[24225]: <info> (wlan0): now unmanaged
+May 15 17:08:09 ank-morpork NetworkManager[24225]: <info> (eth0): taking down device.
+May 15 17:08:09 vespa NetworkManager[24225]: <info> (eth0): cleaning up...
+May 15 17:08:09 ank-morpork NetworkManager[24225]: <info> (eth0): device state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+May 15 17:08:09 ank-morpork NetworkManager[24225]: <info> (eth0): now unmanaged
+May 15 17:08:09 ank-morpork NetworkManager[24225]: <info> sleeping or disabling...
+May 15 17:08:09 vespa NetworkManager[24225]: <info> sleep requested (sleeping: no  enabled: yes)
+May 15 17:07:42 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> disconnected
+May 15 17:07:42 ank-morpork NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 17:07:42 cats NetworkManager[24225]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 15072
+May 15 17:07:41 vespa NetworkManager[24225]: <info> (wlan0): deactivating device (reason 'supplicant-timeout') [11]
+May 15 17:07:41 ank-morpork NetworkManager[24225]: <info> (wlan0): device state change: activated -> disconnected (reason 'supplicant-timeout') [100 30 11]
+May 15 17:07:41 vespa NetworkManager[24225]: <warn> (wlan0): link timed out.
+May 15 17:07:32 ank-morpork NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed expire -> preinit
+May 15 17:07:32 cats NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed renew -> expire
+May 15 17:07:31 cats NetworkManager[24225]: <info> Policy set 'Auto LIP6-guest' (wlan0) as default for IPv4 routing and DNS.
+May 15 17:07:31 vespa NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 17:07:31 cats NetworkManager[24225]: <info> Policy set 'Auto LIP6-guest' (wlan0) as default for IPv4 routing and DNS.
+May 15 17:07:31 vespa NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 17:07:30 alien NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 17:07:29 vespa NetworkManager[24225]: <info> (eth0): canceled DHCP transaction, DHCP client pid 14766
+May 15 17:07:29 ank-morpork NetworkManager[24225]: <info> (eth0): deactivating device (reason 'carrier-changed') [40]
+May 15 17:07:26 alien NetworkManager[24225]: <info> (eth0): device state change: activated -> unavailable (reason 'carrier-changed') [100 20 40]
+May 15 17:07:26 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 17:07:26 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> disconnected
+May 15 17:07:23 alien NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:67:E3 (LIP6-guest) to (none) ((none))
+May 15 17:07:22 vespa NetworkManager[24225]: <info> (eth0): carrier now OFF (device state 100, deferring action for 4 seconds)
+May 15 16:23:25 alien NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:A9:23 (LIP6-guest) to 00:19:A9:57:67:E3 (LIP6-guest)
+May 15 16:23:22 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 16:23:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 16:23:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 16:21:25 vespa NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:67:E3 (LIP6-guest) to 00:19:A9:57:A9:23 (LIP6-guest)
+May 15 16:21:22 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 16:21:21 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 16:21:21 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 16:02:55 cats NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:FE:09:A3 (LIP6-guest) to 00:19:A9:57:67:E3 (LIP6-guest)
+May 15 16:02:54 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 16:02:54 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 16:02:54 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 16:02:54 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 16:02:54 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> disconnected
+May 15 16:02:53 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 16:02:53 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 16:02:53 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 16:02:53 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> disconnected
+May 15 15:49:24 cats NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:67:E3 (LIP6-guest) to 00:19:A9:FE:09:A3 (LIP6-guest)
+May 15 15:49:22 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 15:49:22 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 15:49:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 15:47:24 ank-morpork NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:7E:E3 (LIP6-guest) to 00:19:A9:57:67:E3 (LIP6-guest)
+May 15 15:47:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 15:47:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 15:47:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 15:45:24 ank-morpork NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:FE:09:A3 (LIP6-guest) to 00:19:A9:57:7E:E3 (LIP6-guest)
+May 15 15:45:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 15:45:21 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 15:45:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 15:41:14 cats NetworkManager[24225]: <info>   domain name 'lip6.fr'
+May 15 15:41:14 cats NetworkManager[24225]: <info>   nameserver '132.227.60.2'
+May 15 15:41:14 ank-morpork NetworkManager[24225]: <info>   nameserver '132.227.60.30'
+May 15 15:41:14 alien NetworkManager[24225]: <info>   nameserver '132.227.64.13'
+May 15 15:41:14 vespa NetworkManager[24225]: <info>   gateway 132.227.100.1
+May 15 15:41:14 vespa NetworkManager[24225]: <info>   prefix 24 (255.255.255.0)
+May 15 15:41:14 cats NetworkManager[24225]: <info>   address 132.227.100.85
+May 15 15:41:14 cats NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed bound -> renew
+May 15 15:14:01 ank-morpork NetworkManager[24225]: <info>   wins '132.227.84.2'
+May 15 15:14:01 ank-morpork NetworkManager[24225]: <info>   domain name 'lip6.fr'
+May 15 15:14:01 ank-morpork NetworkManager[24225]: <info>   domain name 'ipv6.lip6.fr'
+May 15 15:14:01 cats NetworkManager[24225]: <info>   domain name 'rsr.lip6.fr'
+May 15 15:14:01 alien NetworkManager[24225]: <info>   nameserver '132.227.74.34'
+May 15 15:14:01 ank-morpork NetworkManager[24225]: <info>   nameserver '132.227.74.2'
+May 15 15:14:01 vespa NetworkManager[24225]: <info>   hostname 'portabletrebuchet2'
+May 15 15:14:01 vespa NetworkManager[24225]: <info>   gateway 132.227.84.1
+May 15 15:14:01 cats NetworkManager[24225]: <info>   prefix 23 (255.255.254.0)
+May 15 15:14:01 alien NetworkManager[24225]: <info>   address 132.227.85.34
+May 15 15:14:01 vespa NetworkManager[24225]: <info> (eth0): DHCPv4 state changed bound -> renew
+May 15 15:03:24 vespa NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:A9:23 (LIP6-guest) to 00:19:A9:FE:09:A3 (LIP6-guest)
+May 15 15:03:21 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 15:03:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 15:03:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 15:01:24 ank-morpork NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:FE:09:A3 (LIP6-guest) to 00:19:A9:57:A9:23 (LIP6-guest)
+May 15 15:01:21 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 15:01:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 15:01:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 14:52:24 cats NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:19:A9:57:A9:23 (LIP6-guest) to 00:19:A9:FE:09:A3 (LIP6-guest)
+May 15 14:52:22 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 14:52:21 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 14:52:21 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> authenticating
+May 15 14:51:24 vespa NetworkManager[24225]: <info> (wlan0): roamed from BSSID 88:43:E1:57:75:F3 (LIP6-guest) to 00:19:A9:57:A9:23 (LIP6-guest)
+May 15 14:51:22 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 14:51:22 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 14:51:22 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 14:51:21 alien NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 14:51:21 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> disconnected
+May 15 14:49:03 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 15 14:49:03 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 15 14:49:03 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 15 14:49:03 cats NetworkManager[24225]: <info> (wlan0): IP6 addrconf timed out or failed.
+May 15 14:48:44 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+May 15 14:48:44 alien NetworkManager[24225]: <info> Activation (wlan0) successful, device activated.
+May 15 14:48:44 vespa NetworkManager[24225]: <info> (wlan0): roamed from BSSID 88:43:E1:57:70:A3 (LIP6-guest) to 88:43:E1:57:75:F3 (LIP6-guest)
+May 15 14:48:44 cats NetworkManager[24225]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 15 14:48:44 vespa NetworkManager[24225]: <info> Policy set 'Connexion filaire 1' (eth0) as default for IPv6 routing and DNS.
+May 15 14:48:44 cats NetworkManager[24225]: <info> Policy set 'Connexion filaire 1' (eth0) as default for IPv4 routing and DNS.
+May 15 14:48:44 vespa NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 14:48:43 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+May 15 14:48:43 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 15 14:48:43 alien NetworkManager[24225]: <info>   domain name 'lip6.fr'
+May 15 14:48:43 alien NetworkManager[24225]: <info>   nameserver '132.227.60.2'
+May 15 14:48:43 vespa NetworkManager[24225]: <info>   nameserver '132.227.60.30'
+May 15 14:48:43 alien NetworkManager[24225]: <info>   nameserver '132.227.64.13'
+May 15 14:48:43 cats NetworkManager[24225]: <info>   gateway 132.227.100.1
+May 15 14:48:43 alien NetworkManager[24225]: <info>   prefix 24 (255.255.255.0)
+May 15 14:48:43 ank-morpork NetworkManager[24225]: <info>   address 132.227.100.85
+May 15 14:48:43 cats NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+May 15 14:48:42 cats NetworkManager[24225]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+May 15 14:48:42 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+May 15 14:48:42 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Beginning IP6 addrconf.
+May 15 14:48:42 vespa NetworkManager[24225]: <info> dhclient started with pid 15072
+May 15 14:48:42 vespa NetworkManager[24225]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 15 14:48:42 cats NetworkManager[24225]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 15 14:48:42 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+May 15 14:48:42 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 15 14:48:42 cats NetworkManager[24225]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'LIP6-guest'.
+May 15 14:48:42 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> completed
+May 15 14:48:42 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 14:48:42 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 14:48:42 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 14:48:42 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: associating -> disconnected
+May 15 14:48:41 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 15 14:48:41 ank-morpork NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 15 14:48:41 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 14:48:40 cats NetworkManager[24225]: <info> Config: set interface ap_scan to 1
+May 15 14:48:40 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> Config: added 'wep_tx_keyidx' value '0'
+May 15 14:48:40 cats NetworkManager[24225]: <info> Config: added 'wep_key0' value '<omitted>'
+May 15 14:48:40 cats NetworkManager[24225]: <info> Config: added 'key_mgmt' value 'NONE'
+May 15 14:48:40 vespa NetworkManager[24225]: <info> Config: added 'scan_ssid' value '1'
+May 15 14:48:40 vespa NetworkManager[24225]: <info> Config: added 'ssid' value 'LIP6-guest'
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0/wireless): connection 'Auto LIP6-guest' has security, and secrets exist.  No new secrets needed.
+May 15 14:48:40 vespa NetworkManager[24225]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 15 14:48:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+May 15 14:48:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 15 14:48:40 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 15 14:48:40 vespa NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 15 14:48:40 vespa NetworkManager[24225]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+May 15 14:48:40 cats NetworkManager[24225]: <info> Activation (wlan0/wireless): access point 'Auto LIP6-guest' has security, but secrets are required.
+May 15 14:48:40 alien NetworkManager[24225]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 15 14:48:40 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 15 14:48:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 15 14:48:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 15 14:48:40 cats NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 15 14:48:40 alien NetworkManager[24225]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 15 14:48:40 ank-morpork NetworkManager[24225]: <info> Activation (wlan0) starting connection 'Auto LIP6-guest'
+May 15 14:48:40 vespa NetworkManager[24225]: <info> Auto-activating connection 'Auto LIP6-guest'.
+May 15 14:47:48 cats NetworkManager[24225]: <info> Activation (eth0) Stage 5 of 5 (IPv6 Commit) complete.
+May 15 14:47:48 vespa NetworkManager[24225]: <info> Policy set 'Connexion filaire 1' (eth0) as default for IPv6 routing and DNS.
+May 15 14:47:48 cats NetworkManager[24225]: <info> Policy set 'Connexion filaire 1' (eth0) as default for IPv4 routing and DNS.
+May 15 14:47:48 alien NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 14:47:47 alien NetworkManager[24225]: <info> Activation (eth0) Stage 5 of 5 (IPv6 Commit) started...
+May 15 14:47:47 vespa NetworkManager[24225]: <info> Activation (eth0) Stage 5 of 5 (IPv6 Commit) scheduled...
+May 15 14:47:47 alien NetworkManager[24225]: <info>   domain search 'ipv6.lip6.fr.'
+May 15 14:47:47 vespa NetworkManager[24225]: <info>   nameserver '2001:660:3302:282a:204:e2ff:fe09:d49f'
+May 15 14:47:47 ank-morpork NetworkManager[24225]: <info>   nameserver '2001:660:3302:282b:a00:20ff:fe87:1a48'
+May 15 14:47:47 cats NetworkManager[24225]: <info> (eth0): DHCPv6 state changed end -> renew6
+May 15 14:47:47 ank-morpork NetworkManager[24225]: <info> (eth0): DHCPv6 client pid 14857 exited with status 0
+May 15 14:47:46 ank-morpork NetworkManager[24225]: <info> dhclient started with pid 14857
+May 15 14:47:46 alien NetworkManager[24225]: <info> Activation (eth0) Beginning DHCPv6 transaction (timeout in 45 seconds)
+May 15 14:47:46 cats NetworkManager[24225]: <info> Activation (eth0) Stage 3 of 5 (IP Configure Start) starting DHCPv6 as requested by IPv6 router...
+May 15 14:47:46 alien NetworkManager[24225]: <info> Activation (eth0) Stage 5 of 5 (IPv4 Commit) complete.
+May 15 14:47:46 ank-morpork NetworkManager[24225]: <info> Activation (eth0) successful, device activated.
+May 15 14:47:46 vespa NetworkManager[24225]: <info> Policy set 'Connexion filaire 1' (eth0) as default for IPv4 routing and DNS.
+May 15 14:47:45 cats NetworkManager[24225]: <info> (eth0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 15 14:47:45 ank-morpork NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 14:47:44 alien NetworkManager[24225]: <info> Activation (eth0) Stage 5 of 5 (IPv4 Commit) started...
+May 15 14:47:44 alien NetworkManager[24225]: <info> Activation (eth0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 15 14:47:44 ank-morpork NetworkManager[24225]: <info>   wins '132.227.84.2'
+May 15 14:47:44 cats NetworkManager[24225]: <info>   domain name 'lip6.fr'
+May 15 14:47:44 ank-morpork NetworkManager[24225]: <info>   domain name 'ipv6.lip6.fr'
+May 15 14:47:44 vespa NetworkManager[24225]: <info>   domain name 'rsr.lip6.fr'
+May 15 14:47:44 vespa NetworkManager[24225]: <info>   nameserver '132.227.74.34'
+May 15 14:47:44 cats NetworkManager[24225]: <info>   nameserver '132.227.74.2'
+May 15 14:47:44 cats NetworkManager[24225]: <info>   hostname 'portabletrebuchet2'
+May 15 14:47:44 vespa NetworkManager[24225]: <info>   gateway 132.227.84.1
+May 15 14:47:44 vespa NetworkManager[24225]: <info>   prefix 23 (255.255.254.0)
+May 15 14:47:44 cats NetworkManager[24225]: <info>   address 132.227.85.34
+May 15 14:47:44 alien NetworkManager[24225]: <info> (eth0): DHCPv4 state changed preinit -> bound
+May 15 14:47:44 vespa NetworkManager[24225]: <info> (eth0): DHCPv4 state changed nbi -> preinit
+May 15 14:47:41 ank-morpork NetworkManager[24225]: <info> Activation (eth0) Stage 3 of 5 (IP Configure Start) complete.
+May 15 14:47:41 alien NetworkManager[24225]: <info> Activation (eth0) Beginning IP6 addrconf.
+May 15 14:47:41 alien NetworkManager[24225]: <info> dhclient started with pid 14766
+May 15 14:47:38 alien NetworkManager[24225]: <info> Activation (eth0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 15 14:47:38 ank-morpork NetworkManager[24225]: <info> (eth0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 15 14:47:38 cats NetworkManager[24225]: <info> Activation (eth0) Stage 3 of 5 (IP Configure Start) started...
+May 15 14:47:38 alien NetworkManager[24225]: <info> Activation (eth0) Stage 2 of 5 (Device Configure) complete.
+May 15 14:47:38 alien NetworkManager[24225]: <info> Activation (eth0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 15 14:47:38 cats NetworkManager[24225]: <info> Activation (eth0) Stage 2 of 5 (Device Configure) successful.
+May 15 14:47:38 ank-morpork NetworkManager[24225]: <info> (eth0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 15 14:47:38 alien NetworkManager[24225]: <info> Activation (eth0) Stage 2 of 5 (Device Configure) starting...
+May 15 14:47:38 cats NetworkManager[24225]: <info> Activation (eth0) Stage 1 of 5 (Device Prepare) complete.
+May 15 14:47:38 vespa NetworkManager[24225]: <info> Activation (eth0) Stage 2 of 5 (Device Configure) scheduled...
+May 15 14:47:38 vespa NetworkManager[24225]: <info> Activation (eth0) Stage 1 of 5 (Device Prepare) started...
+May 15 14:47:38 ank-morpork NetworkManager[24225]: <info> Activation (eth0) Stage 1 of 5 (Device Prepare) scheduled...
+May 15 14:47:38 cats NetworkManager[24225]: <info> (eth0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 15 14:47:38 cats NetworkManager[24225]: <info> Activation (eth0) starting connection 'Connexion filaire 1'
+May 15 14:47:38 ank-morpork NetworkManager[24225]: <info> Auto-activating connection 'Connexion filaire 1'.
+May 15 14:47:38 cats NetworkManager[24225]: <info> (eth0): device state change: unavailable -> disconnected (reason 'carrier-changed') [20 30 40]
+May 15 14:47:37 alien NetworkManager[24225]: <info> (eth0): carrier now ON (device state 20)
+May 15 08:54:59 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: scanning -> disconnected
+May 15 08:54:57 vespa NetworkManager[24225]: <info> Clearing nscd hosts cache.
+May 15 08:54:57 cats NetworkManager[24225]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 23146
+May 15 08:54:57 ank-morpork NetworkManager[24225]: <info> (wlan0): deactivating device (reason 'supplicant-timeout') [11]
+May 15 08:54:56 cats NetworkManager[24225]: <info> (wlan0): device state change: activated -> disconnected (reason 'supplicant-timeout') [100 30 11]
+May 15 08:54:56 vespa NetworkManager[24225]: <warn> (wlan0): link timed out.
+May 15 08:54:41 vespa NetworkManager[24225]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 15 08:54:41 cats NetworkManager[24225]: <info> (wlan0): supplicant interface state: completed -> disconnected
+May 15 08:54:36 ank-morpork NetworkManager[24225]: <info> (wlan0): roamed from BSSID 00:1F:9F:F7:0B:79 (Bbox-E532D6) to (none) ((none))
+May 17 08:48:45 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: completed -> scanning
+May 17 08:48:44 vespa NetworkManager[3929]: <info> (wlan0): roamed from BSSID 00:1F:9F:F7:0B:79 (Bbox-E532D6) to (none) ((none))
+May 16 21:20:34 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 16 21:20:34 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 16 21:20:34 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 16 21:20:34 ank-morpork NetworkManager[3929]: <info> (wlan0): IP6 addrconf timed out or failed.
+May 16 21:20:18 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+May 16 21:20:18 cats NetworkManager[3929]: <info> Activation (wlan0) successful, device activated.
+May 16 21:20:18 ank-morpork NetworkManager[3929]: <info> Policy set 'Auto Bbox-E532D6' (wlan0) as default for IPv4 routing and DNS.
+May 16 21:20:17 cats NetworkManager[3929]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 16 21:20:17 alien NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 16 21:20:16 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+May 16 21:20:16 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 16 21:20:16 cats NetworkManager[3929]: <info>   domain name 'lan'
+May 16 21:20:16 alien NetworkManager[3929]: <info>   nameserver '192.168.1.254'
+May 16 21:20:16 vespa NetworkManager[3929]: <info>   gateway 192.168.1.254
+May 16 21:20:16 alien NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 16 21:20:16 ank-morpork NetworkManager[3929]: <info>   address 192.168.1.9
+May 16 21:20:16 alien NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed preinit -> reboot
+May 16 21:20:16 ank-morpork NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+May 16 21:20:13 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+May 16 21:20:13 cats NetworkManager[3929]: <info> Activation (wlan0) Beginning IP6 addrconf.
+May 16 21:20:13 vespa NetworkManager[3929]: <info> dhclient started with pid 26010
+May 16 21:20:13 alien NetworkManager[3929]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 16 21:20:13 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 16 21:20:13 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+May 16 21:20:13 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 16 21:20:13 alien NetworkManager[3929]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'Bbox-E532D6'.
+May 16 21:20:13 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+May 16 21:20:13 cats NetworkManager[3929]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+May 16 21:20:13 ank-morpork NetworkManager[3929]: <info> (wlan0): supplicant interface state: associating -> associated
+May 16 21:20:13 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: scanning -> associating
+May 16 21:20:12 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: inactive -> scanning
+May 16 21:20:12 vespa NetworkManager[3929]: <info> Config: set interface ap_scan to 1
+May 16 21:20:12 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 16 21:20:12 ank-morpork NetworkManager[3929]: <info> Config: added 'psk' value '<omitted>'
+May 16 21:20:12 vespa NetworkManager[3929]: <info> Config: added 'auth_alg' value 'OPEN'
+May 16 21:20:12 ank-morpork NetworkManager[3929]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+May 16 21:20:12 ank-morpork NetworkManager[3929]: <info> Config: added 'scan_ssid' value '1'
+May 16 21:20:12 vespa NetworkManager[3929]: <info> Config: added 'ssid' value 'Bbox-E532D6'
+May 16 21:20:12 ank-morpork NetworkManager[3929]: <info> Activation (wlan0/wireless): connection 'Auto Bbox-E532D6' has security, and secrets exist.  No new secrets needed.
+May 16 21:20:12 cats NetworkManager[3929]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 16 21:20:12 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 16 21:20:12 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 16 21:20:12 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 16 21:20:12 cats NetworkManager[3929]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+May 16 21:20:12 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 16 21:20:12 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 16 21:20:11 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 16 21:20:11 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+May 16 21:20:11 ank-morpork NetworkManager[3929]: <info> Activation (wlan0/wireless): access point 'Auto Bbox-E532D6' has security, but secrets are required.
+May 16 21:20:10 vespa NetworkManager[3929]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 16 21:20:10 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 16 21:20:10 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 16 21:20:10 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 16 21:20:10 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 16 21:20:10 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 16 21:20:10 alien NetworkManager[3929]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 16 21:20:10 vespa NetworkManager[3929]: <info> Activation (wlan0) starting connection 'Auto Bbox-E532D6'
+May 16 21:20:10 vespa NetworkManager[3929]: <info> Auto-activating connection 'Auto Bbox-E532D6'.
+May 16 13:14:40 alien NetworkManager[3929]: <error> [1368702880.947036] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 16 13:14:40 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 16 13:14:40 vespa NetworkManager[3929]: <warn> (7) failed to find interface name for index
+May 16 13:14:40 vespa NetworkManager[3929]: <info> (usb0): cleaning up...
+May 16 13:14:40 alien NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 16 13:14:40 alien NetworkManager[3929]: <warn> (7) failed to find interface name for index
+May 16 13:14:40 vespa NetworkManager[3929]: nm_system_iface_flush_routes: assertion `iface != NULL' failed
+May 16 13:14:40 vespa NetworkManager[3929]: <warn> (7) failed to find interface name for index
+May 16 13:14:40 alien NetworkManager[3929]: <info> (usb0): canceled DHCP transaction, DHCP client pid 14473
+May 16 13:14:40 cats NetworkManager[3929]: <info> (usb0): deactivating device (reason 'removed') [36]
+May 16 13:14:40 ank-morpork NetworkManager[3929]: <info> (usb0): device state change: activated -> unmanaged (reason 'removed') [100 10 36]
+May 16 13:14:40 cats NetworkManager[3929]: <info> (usb0): now unmanaged
+May 16 13:14:40 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: devices removed (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 16 13:14:40 alien NetworkManager[3929]: <info> (usb0): carrier now OFF (device state 100, deferring action for 4 seconds)
+May 16 13:06:25 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 16 13:06:25 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 16 13:06:25 alien NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 16 13:06:25 alien NetworkManager[3929]: <info> (usb0): IP6 addrconf timed out or failed.
+May 16 13:06:08 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) complete.
+May 16 13:06:08 vespa NetworkManager[3929]: <info> Activation (usb0) successful, device activated.
+May 16 13:06:08 alien NetworkManager[3929]: <info> Policy set 'Wired connection 2' (usb0) as default for IPv4 routing and DNS.
+May 16 13:06:08 cats NetworkManager[3929]: <info> (usb0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 16 13:06:08 cats NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 16 13:06:07 alien NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) started...
+May 16 13:06:07 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 16 13:06:07 ank-morpork NetworkManager[3929]: <info>   nameserver '192.168.42.129'
+May 16 13:06:07 ank-morpork NetworkManager[3929]: <info>   hostname 'alien'
+May 16 13:06:07 ank-morpork NetworkManager[3929]: <info>   gateway 192.168.42.129
+May 16 13:06:07 vespa NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 16 13:06:07 ank-morpork NetworkManager[3929]: <info>   address 192.168.42.101
+May 16 13:06:07 cats NetworkManager[3929]: <info> (usb0): DHCPv4 state changed preinit -> bound
+May 16 13:06:04 alien NetworkManager[3929]: <info> (usb0): DHCPv4 state changed nbi -> preinit
+May 16 13:06:04 alien NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) complete.
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Beginning IP6 addrconf.
+May 16 13:06:04 alien NetworkManager[3929]: <info> dhclient started with pid 14473
+May 16 13:06:04 cats NetworkManager[3929]: <info> Activation (usb0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 16 13:06:04 vespa NetworkManager[3929]: <info> (usb0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 16 13:06:04 cats NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) started...
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) complete.
+May 16 13:06:04 alien NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) successful.
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> (usb0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 16 13:06:04 cats NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) starting...
+May 16 13:06:04 alien NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) complete.
+May 16 13:06:04 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) scheduled...
+May 16 13:06:04 alien NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) started...
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) scheduled...
+May 16 13:06:04 vespa NetworkManager[3929]: <info> (usb0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> Activation (usb0) starting connection 'Wired connection 2'
+May 16 13:06:04 alien NetworkManager[3929]: <info> Auto-activating connection 'Wired connection 2'.
+May 16 13:06:04 alien NetworkManager[3929]: <info> (usb0): device state change: unavailable -> disconnected (reason 'none') [20 30 0]
+May 16 13:06:04 cats NetworkManager[3929]: <info> Added default wired connection 'Wired connection 2' for /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0
+May 16 13:06:04 vespa NetworkManager[3929]: <info> (usb0): deactivating device (reason 'managed') [2]
+May 16 13:06:04 cats NetworkManager[3929]: <info> (usb0): preparing device.
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> (usb0): carrier now ON (device state 20)
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <info> (usb0): bringing up device.
+May 16 13:06:04 cats NetworkManager[3929]: <info> (usb0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 16 13:06:04 alien NetworkManager[3929]: <info> (usb0): now managed
+May 16 13:06:04 cats NetworkManager[3929]: <info> (usb0): exported as /org/freedesktop/NetworkManager/Devices/2
+May 16 13:06:04 vespa NetworkManager[3929]: <info> (usb0): new Ethernet device (driver: 'rndis_host' ifindex: 7)
+May 16 13:06:04 vespa NetworkManager[3929]: <info> (usb0): carrier is OFF
+May 16 13:06:04 ank-morpork NetworkManager[3929]: <warn> failed to allocate link cache: (-10) Operation not supported
+May 16 13:06:04 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0): no ifupdown configuration found.
+May 16 13:06:04 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 16 09:14:49 cats NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.settings.modify.hostname: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 alien NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.settings.modify.own: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 cats NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.settings.modify.system: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 cats NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.wifi.share.open: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 alien NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.wifi.share.protected: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 vespa NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.network-control: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 vespa NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-wimax: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 ank-morpork NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-wwan: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 cats NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-wifi: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 ank-morpork NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.sleep-wake: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:14:49 alien NetworkManager[3929]: <warn> error requesting auth for org.freedesktop.NetworkManager.enable-disable-network: (3) GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get UID of name ':1.67': no such name
+May 16 09:08:45 cats NetworkManager[3929]: <warn> Trying to remove a non-existant call id.
+May 16 09:08:45 cats NetworkManager[3929]: <info> (wlan0): supplicant interface state: ready -> inactive
+May 16 09:08:45 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+May 16 09:08:45 ank-morpork NetworkManager[3929]: <info> (wlan0): supplicant interface state: starting -> ready
+May 16 09:08:45 alien NetworkManager[3929]: <info> (wlan0): deactivating device (reason 'managed') [2]
+May 16 09:08:45 ank-morpork NetworkManager[3929]: <info> (wlan0): preparing device.
+May 16 09:08:45 vespa NetworkManager[3929]: <info> (wlan0): bringing up device.
+May 16 09:08:45 cats NetworkManager[3929]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 16 09:08:45 vespa NetworkManager[3929]: <info> (wlan0): now managed
+May 16 09:08:45 alien NetworkManager[3929]: <info> (eth0): deactivating device (reason 'managed') [2]
+May 16 09:08:45 vespa NetworkManager[3929]: <info> (eth0): preparing device.
+May 16 09:08:45 vespa NetworkManager[3929]: <info> (eth0): bringing up device.
+May 16 09:08:45 cats NetworkManager[3929]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 16 09:08:45 vespa NetworkManager[3929]: <info> (eth0): now managed
+May 16 09:08:45 cats NetworkManager[3929]: <info> WWAN now enabled by management service
+May 16 09:08:45 vespa NetworkManager[3929]: <info> waking up and re-enabling...
+May 16 09:08:45 alien NetworkManager[3929]: <info> wake requested (sleeping: yes  enabled: yes)
+May 16 09:01:30 alien NetworkManager[3929]: <info> (wlan0): taking down device.
+May 16 09:01:30 ank-morpork NetworkManager[3929]: <info> (wlan0): cleaning up...
+May 16 09:01:30 vespa NetworkManager[3929]: <info> (wlan0): device state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+May 16 09:01:30 ank-morpork NetworkManager[3929]: <info> (wlan0): now unmanaged
+May 16 09:01:30 vespa NetworkManager[3929]: <info> (eth0): taking down device.
+May 16 09:01:30 ank-morpork NetworkManager[3929]: <info> (eth0): cleaning up...
+May 16 09:01:30 vespa NetworkManager[3929]: <info> (eth0): device state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+May 16 09:01:30 cats NetworkManager[3929]: <info> (eth0): now unmanaged
+May 16 09:01:30 ank-morpork NetworkManager[3929]: <info> sleeping or disabling...
+May 16 09:01:30 vespa NetworkManager[3929]: <info> sleep requested (sleeping: no  enabled: yes)
+May 16 09:01:28 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: scanning -> disconnected
+May 16 09:01:24 ank-morpork NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 16 09:01:24 vespa NetworkManager[3929]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 4087
+May 16 09:01:24 vespa NetworkManager[3929]: <info> (wlan0): deactivating device (reason 'supplicant-timeout') [11]
+May 16 09:01:24 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: activated -> disconnected (reason 'supplicant-timeout') [100 30 11]
+May 16 09:01:24 alien NetworkManager[3929]: <warn> (wlan0): link timed out.
+May 16 09:01:08 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: disconnected -> scanning
+May 16 09:01:08 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: completed -> disconnected
+May 16 09:01:08 alien NetworkManager[3929]: <info> (wlan0): roamed from BSSID 00:1F:9F:F7:0B:79 (Bbox-E532D6) to (none) ((none))
+May 19 18:42:26 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 19 18:42:26 cats NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 19 18:42:26 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 19 18:42:26 cats NetworkManager[3929]: <info> (usb0): IP6 addrconf timed out or failed.
+May 19 18:42:11 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) complete.
+May 19 18:42:11 alien NetworkManager[3929]: <info> Activation (usb0) successful, device activated.
+May 19 18:42:11 vespa NetworkManager[3929]: <info> Policy set 'Wired connection 2' (usb0) as default for IPv4 routing and DNS.
+May 19 18:42:10 alien NetworkManager[3929]: <info> (usb0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 19 18:42:10 vespa NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 19 18:42:09 alien NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) started...
+May 19 18:42:09 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 19 18:42:09 alien NetworkManager[3929]: <info>   nameserver '192.168.42.129'
+May 19 18:42:09 cats NetworkManager[3929]: <info>   hostname 'alien'
+May 19 18:42:09 alien NetworkManager[3929]: <info>   gateway 192.168.42.129
+May 19 18:42:09 alien NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 19 18:42:09 ank-morpork NetworkManager[3929]: <info>   address 192.168.42.101
+May 19 18:42:09 ank-morpork NetworkManager[3929]: <info> (usb0): DHCPv4 state changed preinit -> bound
+May 19 18:42:06 vespa NetworkManager[3929]: <info> (usb0): DHCPv4 state changed nbi -> preinit
+May 19 18:42:06 alien NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) complete.
+May 19 18:42:06 vespa NetworkManager[3929]: <info> Activation (usb0) Beginning IP6 addrconf.
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> dhclient started with pid 7401
+May 19 18:42:06 cats NetworkManager[3929]: <info> Activation (usb0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 19 18:42:06 cats NetworkManager[3929]: <info> (usb0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) started...
+May 19 18:42:06 alien NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) complete.
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) successful.
+May 19 18:42:06 alien NetworkManager[3929]: <info> (usb0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 19 18:42:06 alien NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) starting...
+May 19 18:42:06 alien NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) complete.
+May 19 18:42:06 alien NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) scheduled...
+May 19 18:42:06 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) started...
+May 19 18:42:06 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) scheduled...
+May 19 18:42:06 vespa NetworkManager[3929]: <info> (usb0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> Activation (usb0) starting connection 'Wired connection 2'
+May 19 18:42:06 vespa NetworkManager[3929]: <info> Auto-activating connection 'Wired connection 2'.
+May 19 18:42:06 alien NetworkManager[3929]: <info> (usb0): device state change: unavailable -> disconnected (reason 'none') [20 30 0]
+May 19 18:42:06 vespa NetworkManager[3929]: <info> Added default wired connection 'Wired connection 2' for /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0
+May 19 18:42:06 vespa NetworkManager[3929]: <info> (usb0): deactivating device (reason 'managed') [2]
+May 19 18:42:06 vespa NetworkManager[3929]: <info> (usb0): preparing device.
+May 19 18:42:06 alien NetworkManager[3929]: <info> (usb0): carrier now ON (device state 20)
+May 19 18:42:06 alien NetworkManager[3929]: <info> (usb0): bringing up device.
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> (usb0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> (usb0): now managed
+May 19 18:42:06 ank-morpork NetworkManager[3929]: <info> (usb0): exported as /org/freedesktop/NetworkManager/Devices/3
+May 19 18:42:06 alien NetworkManager[3929]: <info> (usb0): new Ethernet device (driver: 'rndis_host' ifindex: 8)
+May 19 18:42:06 vespa NetworkManager[3929]: <info> (usb0): carrier is OFF
+May 19 18:42:06 cats NetworkManager[3929]: <warn> failed to allocate link cache: (-10) Operation not supported
+May 19 18:42:06 ank-morpork NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0): no ifupdown configuration found.
+May 19 18:42:06 cats NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 18:41:50 alien NetworkManager[3929]: <warn> Trying to remove a non-existant call id.
+May 19 18:41:50 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: ready -> inactive
+May 19 18:41:50 cats NetworkManager[3929]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+May 19 18:41:50 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: starting -> ready
+May 19 18:41:50 alien NetworkManager[3929]: <info> (wlan0): deactivating device (reason 'managed') [2]
+May 19 18:41:50 vespa NetworkManager[3929]: <info> (wlan0): preparing device.
+May 19 18:41:49 cats NetworkManager[3929]: <info> (wlan0): bringing up device.
+May 19 18:41:49 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 18:41:49 vespa NetworkManager[3929]: <info> (wlan0): now managed
+May 19 18:41:49 ank-morpork NetworkManager[3929]: <info> (eth0): deactivating device (reason 'managed') [2]
+May 19 18:41:49 vespa NetworkManager[3929]: <info> (eth0): preparing device.
+May 19 18:41:49 ank-morpork NetworkManager[3929]: <info> (eth0): bringing up device.
+May 19 18:41:49 vespa NetworkManager[3929]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 18:41:49 ank-morpork NetworkManager[3929]: <info> (eth0): now managed
+May 19 18:41:49 cats NetworkManager[3929]: <info> waking up and re-enabling...
+May 19 18:41:49 cats NetworkManager[3929]: <info> wake requested (sleeping: yes  enabled: yes)
+May 17 23:48:58 cats NetworkManager[3929]: <info> (wlan0): taking down device.
+May 17 23:48:58 cats NetworkManager[3929]: <info> (wlan0): cleaning up...
+May 17 23:48:58 cats NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 17 23:48:58 alien NetworkManager[3929]: <info> (wlan0): canceled DHCP transaction, DHCP client pid 26010
+May 17 23:48:58 cats NetworkManager[3929]: <info> (wlan0): deactivating device (reason 'sleeping') [37]
+May 17 23:48:58 cats NetworkManager[3929]: <info> (wlan0): device state change: activated -> unmanaged (reason 'sleeping') [100 10 37]
+May 17 23:48:58 ank-morpork NetworkManager[3929]: <info> (wlan0): now unmanaged
+May 17 23:48:58 alien NetworkManager[3929]: <info> (eth0): taking down device.
+May 17 23:48:58 vespa NetworkManager[3929]: <info> (eth0): cleaning up...
+May 17 23:48:58 vespa NetworkManager[3929]: <info> (eth0): device state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+May 17 23:48:58 vespa NetworkManager[3929]: <info> (eth0): now unmanaged
+May 17 23:48:58 vespa NetworkManager[3929]: <info> sleeping or disabling...
+May 17 23:48:58 alien NetworkManager[3929]: <info> sleep requested (sleeping: no  enabled: yes)
+May 17 22:21:34 cats NetworkManager[3929]: <info> Policy set 'Auto Bbox-E532D6' (wlan0) as default for IPv4 routing and DNS.
+May 17 22:21:34 cats NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 17 22:21:32 alien NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 17 22:21:32 vespa NetworkManager[3929]: <info>   domain name 'lan'
+May 17 22:21:32 cats NetworkManager[3929]: <info>   nameserver '192.168.1.254'
+May 17 22:21:32 cats NetworkManager[3929]: <info>   gateway 192.168.1.254
+May 17 22:21:32 cats NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 17 22:21:32 vespa NetworkManager[3929]: <info>   address 192.168.1.25
+May 17 22:21:32 ank-morpork NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+May 17 22:21:25 cats NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed expire -> preinit
+May 17 22:21:25 cats NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed reboot -> expire
+May 17 22:21:24 vespa NetworkManager[3929]: <info> (wlan0): roamed from BSSID (none) ((none)) to 00:1F:9F:F7:0B:79 (Bbox-E532D6)
+May 17 22:21:22 ank-morpork NetworkManager[3929]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+May 17 22:21:22 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: associating -> 4-way handshake
+May 17 22:21:22 cats NetworkManager[3929]: <info> (wlan0): supplicant interface state: authenticating -> associating
+May 17 22:21:22 cats NetworkManager[3929]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 20 17:37:04 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 20 17:37:04 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 20 17:37:04 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 20 17:37:04 vespa NetworkManager[3929]: <info> (wlan0): IP6 addrconf timed out or failed.
+May 20 17:36:50 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) complete.
+May 20 17:36:50 alien NetworkManager[3929]: <info> Activation (wlan0) successful, device activated.
+May 20 17:36:50 ank-morpork NetworkManager[3929]: <info> Policy set 'Auto Bbox-E532D6' (wlan0) as default for IPv4 routing and DNS.
+May 20 17:36:49 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 20 17:36:49 ank-morpork NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 20 17:36:48 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Commit) started...
+May 20 17:36:48 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 20 17:36:48 vespa NetworkManager[3929]: <info>   domain name 'lan'
+May 20 17:36:48 vespa NetworkManager[3929]: <info>   nameserver '192.168.1.254'
+May 20 17:36:48 ank-morpork NetworkManager[3929]: <info>   gateway 192.168.1.254
+May 20 17:36:48 cats NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 20 17:36:48 ank-morpork NetworkManager[3929]: <info>   address 192.168.1.25
+May 20 17:36:48 cats NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed preinit -> bound
+May 20 17:36:46 cats NetworkManager[3929]: <info> (wlan0): DHCPv4 state changed nbi -> preinit
+May 20 17:36:44 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) complete.
+May 20 17:36:44 cats NetworkManager[3929]: <info> Activation (wlan0) Beginning IP6 addrconf.
+May 20 17:36:44 vespa NetworkManager[3929]: <info> dhclient started with pid 13022
+May 20 17:36:43 cats NetworkManager[3929]: <info> Activation (wlan0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 20 17:36:43 vespa NetworkManager[3929]: <info> (wlan0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 20 17:36:43 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) started...
+May 20 17:36:43 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 20 17:36:43 cats NetworkManager[3929]: <info> Activation (wlan0/wireless) Stage 2 of 5 (Device Configure) successful.  Connected to wireless network 'Bbox-E532D6'.
+May 20 17:36:43 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: 4-way handshake -> completed
+May 20 17:36:43 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: associated -> 4-way handshake
+May 20 17:36:43 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: authenticating -> associated
+May 20 17:36:43 vespa NetworkManager[3929]: <info> (wlan0): supplicant interface state: scanning -> authenticating
+May 20 17:36:42 alien NetworkManager[3929]: <info> (wlan0): supplicant interface state: inactive -> scanning
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Config: set interface ap_scan to 1
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 20 17:36:42 cats NetworkManager[3929]: <info> Config: added 'psk' value '<omitted>'
+May 20 17:36:42 alien NetworkManager[3929]: <info> Config: added 'auth_alg' value 'OPEN'
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Config: added 'key_mgmt' value 'WPA-PSK'
+May 20 17:36:42 cats NetworkManager[3929]: <info> Config: added 'scan_ssid' value '1'
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> Config: added 'ssid' value 'Bbox-E532D6'
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Activation (wlan0/wireless): connection 'Auto Bbox-E532D6' has security, and secrets exist.  No new secrets needed.
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 20 17:36:42 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 20 17:36:42 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 20 17:36:42 cats NetworkManager[3929]: <info> (wlan0): device state change: need-auth -> prepare (reason 'none') [60 40 0]
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 20 17:36:42 cats NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) complete.
+May 20 17:36:42 alien NetworkManager[3929]: <info> (wlan0): device state change: config -> need-auth (reason 'none') [50 60 0]
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Activation (wlan0/wireless): access point 'Auto Bbox-E532D6' has security, but secrets are required.
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> (wlan0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 20 17:36:42 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) starting...
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) complete.
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 2 of 5 (Device Configure) scheduled...
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) started...
+May 20 17:36:42 alien NetworkManager[3929]: <info> Activation (wlan0) Stage 1 of 5 (Device Prepare) scheduled...
+May 20 17:36:42 vespa NetworkManager[3929]: <info> (wlan0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 20 17:36:42 vespa NetworkManager[3929]: <info> Activation (wlan0) starting connection 'Auto Bbox-E532D6'
+May 20 17:36:42 ank-morpork NetworkManager[3929]: <info> Auto-activating connection 'Auto Bbox-E532D6'.
+May 19 22:04:18 cats NetworkManager[3929]: <error> [1368993858.873014] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 22:04:18 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 22:04:18 vespa NetworkManager[3929]: <warn> (11) failed to find interface name for index
+May 19 22:04:18 cats NetworkManager[3929]: <info> (usb0): cleaning up...
+May 19 22:04:18 cats NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 19 22:04:18 vespa NetworkManager[3929]: <warn> (11) failed to find interface name for index
+May 19 22:04:18 alien NetworkManager[3929]: nm_system_iface_flush_routes: assertion `iface != NULL' failed
+May 19 22:04:18 alien NetworkManager[3929]: <warn> (11) failed to find interface name for index
+May 19 22:04:18 vespa NetworkManager[3929]: <info> (usb0): canceled DHCP transaction, DHCP client pid 11993
+May 19 22:04:18 cats NetworkManager[3929]: <info> (usb0): deactivating device (reason 'removed') [36]
+May 19 22:04:18 cats NetworkManager[3929]: <info> (usb0): device state change: activated -> unmanaged (reason 'removed') [100 10 36]
+May 19 22:04:18 cats NetworkManager[3929]: <info> (usb0): now unmanaged
+May 19 22:04:18 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: devices removed (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 22:04:18 ank-morpork NetworkManager[3929]: <info> (usb0): carrier now OFF (device state 100, deferring action for 4 seconds)
+May 19 21:53:30 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+May 19 21:53:30 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+May 19 21:53:30 cats NetworkManager[3929]: <info> Activation (usb0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+May 19 21:53:30 alien NetworkManager[3929]: <info> (usb0): IP6 addrconf timed out or failed.
+May 19 21:53:14 cats NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) complete.
+May 19 21:53:14 cats NetworkManager[3929]: <info> Activation (usb0) successful, device activated.
+May 19 21:53:14 vespa NetworkManager[3929]: <info> Policy set 'Wired connection 2' (usb0) as default for IPv4 routing and DNS.
+May 19 21:53:14 cats NetworkManager[3929]: <info> (usb0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 19 21:53:14 ank-morpork NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 19 21:53:13 alien NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) started...
+May 19 21:53:13 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 19 21:53:13 cats NetworkManager[3929]: <info>   nameserver '192.168.42.129'
+May 19 21:53:13 ank-morpork NetworkManager[3929]: <info>   hostname 'alien'
+May 19 21:53:13 vespa NetworkManager[3929]: <info>   gateway 192.168.42.129
+May 19 21:53:13 cats NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 19 21:53:13 alien NetworkManager[3929]: <info>   address 192.168.42.101
+May 19 21:53:13 alien NetworkManager[3929]: <info> (usb0): DHCPv4 state changed preinit -> bound
+May 19 21:53:10 alien NetworkManager[3929]: <info> (usb0): DHCPv4 state changed nbi -> preinit
+May 19 21:53:10 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) complete.
+May 19 21:53:10 cats NetworkManager[3929]: <info> Activation (usb0) Beginning IP6 addrconf.
+May 19 21:53:10 alien NetworkManager[3929]: <info> dhclient started with pid 11993
+May 19 21:53:10 alien NetworkManager[3929]: <info> Activation (usb0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 19 21:53:10 vespa NetworkManager[3929]: <info> (usb0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 19 21:53:10 alien NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) started...
+May 19 21:53:10 cats NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) complete.
+May 19 21:53:10 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 19 21:53:10 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) successful.
+May 19 21:53:10 ank-morpork NetworkManager[3929]: <info> (usb0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 19 21:53:10 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) starting...
+May 19 21:53:10 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) complete.
+May 19 21:53:10 alien NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) scheduled...
+May 19 21:53:10 alien NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) started...
+May 19 21:53:10 alien NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) scheduled...
+May 19 21:53:10 vespa NetworkManager[3929]: <info> (usb0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 19 21:53:10 cats NetworkManager[3929]: <info> Activation (usb0) starting connection 'Wired connection 2'
+May 19 21:53:10 cats NetworkManager[3929]: <info> Auto-activating connection 'Wired connection 2'.
+May 19 21:53:10 cats NetworkManager[3929]: <info> (usb0): device state change: unavailable -> disconnected (reason 'none') [20 30 0]
+May 19 21:53:10 cats NetworkManager[3929]: <info> Added default wired connection 'Wired connection 2' for /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0
+May 19 21:53:10 cats NetworkManager[3929]: <info> (usb0): deactivating device (reason 'managed') [2]
+May 19 21:53:10 ank-morpork NetworkManager[3929]: <info> (usb0): preparing device.
+May 19 21:53:10 alien NetworkManager[3929]: <info> (usb0): carrier now ON (device state 20)
+May 19 21:53:10 vespa NetworkManager[3929]: <info> (usb0): bringing up device.
+May 19 21:53:10 cats NetworkManager[3929]: <info> (usb0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 21:53:10 alien NetworkManager[3929]: <info> (usb0): now managed
+May 19 21:53:10 cats NetworkManager[3929]: <info> (usb0): exported as /org/freedesktop/NetworkManager/Devices/6
+May 19 21:53:10 ank-morpork NetworkManager[3929]: <info> (usb0): new Ethernet device (driver: 'rndis_host' ifindex: 11)
+May 19 21:53:10 ank-morpork NetworkManager[3929]: <info> (usb0): carrier is OFF
+May 19 21:53:10 alien NetworkManager[3929]: <warn> failed to allocate link cache: (-10) Operation not supported
+May 19 21:53:10 alien NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0): no ifupdown configuration found.
+May 19 21:53:10 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 20:53:33 cats NetworkManager[3929]: <warn> Trying to remove a non-existant call id.
+May 19 20:53:33 cats NetworkManager[3929]: <info> (wlan0): supplicant interface state: ready -> inactive
+May 19 20:53:33 cats NetworkManager[3929]: <info> (wlan0): device state change: unavailable -> disconnected (reason 'supplicant-available') [20 30 42]
+May 19 20:53:33 ank-morpork NetworkManager[3929]: <info> (wlan0): supplicant interface state: starting -> ready
+May 19 20:53:33 ank-morpork NetworkManager[3929]: <info> (wlan0): deactivating device (reason 'managed') [2]
+May 19 20:53:33 vespa NetworkManager[3929]: <info> (wlan0): preparing device.
+May 19 20:53:32 alien NetworkManager[3929]: <info> (wlan0): bringing up device.
+May 19 20:53:32 alien NetworkManager[3929]: <info> (wlan0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 20:53:32 cats NetworkManager[3929]: <info> (wlan0): now managed
+May 19 20:53:32 ank-morpork NetworkManager[3929]: <info> (eth0): deactivating device (reason 'managed') [2]
+May 19 20:53:32 vespa NetworkManager[3929]: <info> (eth0): preparing device.
+May 19 20:53:32 alien NetworkManager[3929]: <info> (eth0): bringing up device.
+May 19 20:53:32 alien NetworkManager[3929]: <info> (eth0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 20:53:32 vespa NetworkManager[3929]: <info> (eth0): now managed
+May 19 20:53:32 cats NetworkManager[3929]: <info> waking up and re-enabling...
+May 19 20:53:32 vespa NetworkManager[3929]: <info> wake requested (sleeping: yes  enabled: yes)
+May 19 20:48:34 ank-morpork NetworkManager[3929]: <info> (wlan0): taking down device.
+May 19 20:48:34 vespa NetworkManager[3929]: <info> (wlan0): cleaning up...
+May 19 20:48:34 vespa NetworkManager[3929]: <info> (wlan0): device state change: disconnected -> unmanaged (reason 'sleeping') [30 10 37]
+May 19 20:48:34 ank-morpork NetworkManager[3929]: <info> (wlan0): now unmanaged
+May 19 20:48:34 cats NetworkManager[3929]: <info> (eth0): taking down device.
+May 19 20:48:34 cats NetworkManager[3929]: <info> (eth0): cleaning up...
+May 19 20:48:34 vespa NetworkManager[3929]: <info> (eth0): device state change: unavailable -> unmanaged (reason 'sleeping') [20 10 37]
+May 19 20:48:34 vespa NetworkManager[3929]: <info> (eth0): now unmanaged
+May 19 20:48:34 ank-morpork NetworkManager[3929]: <info> sleeping or disabling...
+May 19 20:48:34 alien NetworkManager[3929]: <info> sleep requested (sleeping: no  enabled: yes)
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.657072] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.654153] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 alien NetworkManager[3929]: <error> [1368984178.651119] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.648479] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 alien NetworkManager[3929]: <error> [1368984178.645801] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.642582] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 alien NetworkManager[3929]: <error> [1368984178.639195] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.636426] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.633643] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.630638] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.627249] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.624376] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.621517] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.618657] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.616035] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.613062] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.610017] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.606600] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.603946] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 alien NetworkManager[3929]: <error> [1368984178.600837] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.598009] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.595356] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.592740] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.589529] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.586586] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.583907] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.581118] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.578281] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.575561] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 alien NetworkManager[3929]: <error> [1368984178.572355] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.568836] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.566086] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.563418] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.560342] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 cats NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.557298] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <error> [1368984178.554388] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 alien NetworkManager[3929]: <error> [1368984178.551585] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.548921] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 vespa NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <error> [1368984178.545711] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 alien NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 alien NetworkManager[3929]: <warn> (10) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <info> (usb0): bringing up device.
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <info> (usb0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <info> (usb0): now managed
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <info> (usb0): exported as /org/freedesktop/NetworkManager/Devices/5
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <info> (usb0): new Ethernet device (driver: 'rndis_host' ifindex: 10)
+May 19 19:22:58 alien NetworkManager[3929]: <info> (usb0): carrier is OFF
+May 19 19:22:58 cats NetworkManager[3929]: <warn> failed to allocate link cache: (-10) Operation not supported
+May 19 19:22:58 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0): no ifupdown configuration found.
+May 19 19:22:58 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 19:22:58 ank-morpork NetworkManager[3929]: <error> [1368984178.428704] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:58 cats NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (9) failed to find interface name for index
+May 19 19:22:58 vespa NetworkManager[3929]: <info> (usb0): cleaning up...
+May 19 19:22:58 alien NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (9) failed to find interface name for index
+May 19 19:22:58 ank-morpork NetworkManager[3929]: nm_system_iface_flush_routes: assertion `iface != NULL' failed
+May 19 19:22:58 vespa NetworkManager[3929]: <warn> (9) failed to find interface name for index
+May 19 19:22:58 cats NetworkManager[3929]: <info> (usb0): canceled DHCP transaction, DHCP client pid 8466
+May 19 19:22:58 cats NetworkManager[3929]: <info> (usb0): deactivating device (reason 'removed') [36]
+May 19 19:22:58 alien NetworkManager[3929]: <info> (usb0): device state change: activated -> unmanaged (reason 'removed') [100 10 36]
+May 19 19:22:58 cats NetworkManager[3929]: <info> (usb0): now unmanaged
+May 19 19:22:58 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices removed (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 19:22:58 vespa NetworkManager[3929]: <info> (usb0): carrier now OFF (device state 100, deferring action for 4 seconds)
+May 19 19:22:58 alien NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) complete.
+May 19 19:22:58 alien NetworkManager[3929]: <info> Activation (usb0) successful, device activated.
+May 19 19:22:58 alien NetworkManager[3929]: <info> Policy set 'Wired connection 2' (usb0) as default for IPv4 routing and DNS.
+May 19 19:22:57 vespa NetworkManager[3929]: <info> (usb0): device state change: ip-config -> activated (reason 'none') [70 100 0]
+May 19 19:22:57 alien NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Commit) started...
+May 19 19:22:56 alien NetworkManager[3929]: <info> Activation (usb0) Stage 5 of 5 (IPv4 Configure Commit) scheduled...
+May 19 19:22:56 cats NetworkManager[3929]: <info>   nameserver '192.168.42.129'
+May 19 19:22:56 alien NetworkManager[3929]: <info>   hostname 'alien'
+May 19 19:22:56 vespa NetworkManager[3929]: <info>   gateway 192.168.42.129
+May 19 19:22:56 vespa NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 19 19:22:56 vespa NetworkManager[3929]: <info>   address 192.168.42.101
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): DHCPv4 state changed preinit -> bound
+May 19 19:22:56 ank-morpork NetworkManager[3929]: <info> (usb0): DHCPv4 state changed nbi -> preinit
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) complete.
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Beginning IP6 addrconf.
+May 19 19:22:56 vespa NetworkManager[3929]: <info> dhclient started with pid 8466
+May 19 19:22:56 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Beginning DHCPv4 transaction (timeout in 45 seconds)
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): device state change: config -> ip-config (reason 'none') [50 70 0]
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) started...
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) complete.
+May 19 19:22:56 alien NetworkManager[3929]: <info> Activation (usb0) Stage 3 of 5 (IP Configure Start) scheduled.
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) successful.
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): device state change: prepare -> config (reason 'none') [40 50 0]
+May 19 19:22:56 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) starting...
+May 19 19:22:56 ank-morpork NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) complete.
+May 19 19:22:56 alien NetworkManager[3929]: <info> Activation (usb0) Stage 2 of 5 (Device Configure) scheduled...
+May 19 19:22:56 cats NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) started...
+May 19 19:22:56 vespa NetworkManager[3929]: <info> Activation (usb0) Stage 1 of 5 (Device Prepare) scheduled...
+May 19 19:22:56 alien NetworkManager[3929]: <info> (usb0): device state change: disconnected -> prepare (reason 'none') [30 40 0]
+May 19 19:22:56 alien NetworkManager[3929]: <info> Activation (usb0) starting connection 'Wired connection 2'
+May 19 19:22:56 alien NetworkManager[3929]: <info> Auto-activating connection 'Wired connection 2'.
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): device state change: unavailable -> disconnected (reason 'none') [20 30 0]
+May 19 19:22:56 alien NetworkManager[3929]:    SCPlugin-Ifupdown: device added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0): no ifupdown configuration found.
+May 19 19:22:56 vespa NetworkManager[3929]:    SCPlugin-Ifupdown: devices added (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 19:22:56 ank-morpork NetworkManager[3929]: <info> Added default wired connection 'Wired connection 2' for /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): deactivating device (reason 'managed') [2]
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): preparing device.
+May 19 19:22:56 alien NetworkManager[3929]: <info> (usb0): carrier now ON (device state 20)
+May 19 19:22:56 alien NetworkManager[3929]: <info> (usb0): bringing up device.
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): device state change: unmanaged -> unavailable (reason 'managed') [10 20 2]
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): now managed
+May 19 19:22:56 vespa NetworkManager[3929]: <info> (usb0): exported as /org/freedesktop/NetworkManager/Devices/4
+May 19 19:22:56 ank-morpork NetworkManager[3929]: <info> (usb0): new Ethernet device (driver: 'rndis_host' ifindex: 9)
+May 19 19:22:56 cats NetworkManager[3929]: <info> (usb0): carrier is OFF
+May 19 19:22:56 cats NetworkManager[3929]: <warn> failed to allocate link cache: (-10) Operation not supported
+May 19 19:22:55 cats NetworkManager[3929]: <error> [1368984175.497154] [nm-system.c:687] nm_system_iface_get_flags(): (unknown): failed to get interface link object
+May 19 19:22:55 ank-morpork NetworkManager[3929]: (nm-system.c:685):nm_system_iface_get_flags: runtime check failed: (iface != NULL)
+May 19 19:22:55 alien NetworkManager[3929]: <warn> (8) failed to find interface name for index
+May 19 19:22:55 cats NetworkManager[3929]: <info> (usb0): cleaning up...
+May 19 19:22:55 vespa NetworkManager[3929]: <info> Clearing nscd hosts cache.
+May 19 19:22:55 ank-morpork NetworkManager[3929]: <warn> (8) failed to find interface name for index
+May 19 19:22:55 cats NetworkManager[3929]: nm_system_iface_flush_routes: assertion `iface != NULL' failed
+May 19 19:22:55 vespa NetworkManager[3929]: <warn> (8) failed to find interface name for index
+May 19 19:22:55 alien NetworkManager[3929]: <info> (usb0): canceled DHCP transaction, DHCP client pid 7401
+May 19 19:22:55 alien NetworkManager[3929]: <info> (usb0): deactivating device (reason 'removed') [36]
+May 19 19:22:55 ank-morpork NetworkManager[3929]: <info> (usb0): device state change: activated -> unmanaged (reason 'removed') [100 10 36]
+May 19 19:22:55 vespa NetworkManager[3929]: <info> (usb0): now unmanaged
+May 19 19:22:55 alien NetworkManager[3929]:    SCPlugin-Ifupdown: devices removed (path: /sys/devices/pci0000:00/0000:00:14.0/usb3/3-1/3-1:1.0/net/usb0, iface: usb0)
+May 19 19:22:55 vespa NetworkManager[3929]: <info> (usb0): carrier now OFF (device state 100, deferring action for 4 seconds)
+May 19 19:09:14 ank-morpork NetworkManager[3929]: <info>   nameserver '192.168.42.129'
+May 19 19:09:14 alien NetworkManager[3929]: <info>   hostname 'alien'
+May 19 19:09:14 cats NetworkManager[3929]: <info>   gateway 192.168.42.129
+May 19 19:09:14 cats NetworkManager[3929]: <info>   prefix 24 (255.255.255.0)
+May 19 19:09:14 alien NetworkManager[3929]: <info>   address 192.168.42.101
+May 19 19:09:14 alien NetworkManager[3929]: <info> (usb0): DHCPv4 state changed bound -> renew

@@ -1,0 +1,14 @@
+May 15 21:21:29 cats gdm-simple-greeter[5354]: CRITICAL: get_column_number: assertion `i < gtk_tree_view_get_n_columns (treeview)' failed
+May 15 21:21:29 cats gdm-simple-greeter[5354]: CRITICAL: get_column_number: assertion `i < gtk_tree_view_get_n_columns (treeview)' failed
+May 15 21:21:29 vespa gdm-simple-greeter[5354]: Gtk-WARNING: Overriding tab label for notebook
+May 15 21:21:29 ank-morpork gdm-simple-greeter[5354]: Gtk-WARNING: Overriding tab label for notebook
+May 15 21:21:29 cats gdm-simple-greeter[5354]: Gtk-WARNING: Overriding tab label for notebook
+May 15 21:21:29 alien gdm-simple-greeter[5354]: Gtk-WARNING: Overriding tab label for notebook
+May 15 21:21:29 cats gdm-simple-greeter[5354]: Gtk-WARNING: Overriding tab label for notebook
+May 16 09:14:57 ank-morpork gdm-simple-greeter[9947]: CRITICAL: get_column_number: assertion `i < gtk_tree_view_get_n_columns (treeview)' failed
+May 16 09:14:57 alien gdm-simple-greeter[9947]: CRITICAL: get_column_number: assertion `i < gtk_tree_view_get_n_columns (treeview)' failed
+May 16 09:14:57 ank-morpork gdm-simple-greeter[9947]: Gtk-WARNING: Overriding tab label for notebook
+May 16 09:14:57 ank-morpork gdm-simple-greeter[9947]: Gtk-WARNING: Overriding tab label for notebook
+May 16 09:14:57 vespa gdm-simple-greeter[9947]: Gtk-WARNING: Overriding tab label for notebook
+May 16 09:14:57 cats gdm-simple-greeter[9947]: Gtk-WARNING: Overriding tab label for notebook
+May 16 09:14:57 cats gdm-simple-greeter[9947]: Gtk-WARNING: Overriding tab label for notebook

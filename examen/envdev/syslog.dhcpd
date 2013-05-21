@@ -1,0 +1,11 @@
+May 15 21:21:03 cats dhcpd: Not configured to listen on any interfaces!
+May 15 21:21:03 ank-morpork dhcpd:
+May 15 21:21:02 alien dhcpd: Wrote 0 leases to leases file.
+May 15 21:21:02 alien dhcpd: For info, please visit https://www.isc.org/software/dhcp/
+May 15 21:21:02 ank-morpork dhcpd: All rights reserved.
+May 15 21:21:02 vespa dhcpd: Copyright 2004-2012 Internet Systems Consortium.
+May 15 21:21:02 vespa dhcpd: Internet Systems Consortium DHCP Server 4.2.4
+May 15 21:21:02 ank-morpork dhcpd: For info, please visit https://www.isc.org/software/dhcp/
+May 15 21:21:02 vespa dhcpd: All rights reserved.
+May 15 21:21:02 alien dhcpd: Copyright 2004-2012 Internet Systems Consortium.
+May 15 21:21:02 vespa dhcpd: Internet Systems Consortium DHCP Server 4.2.4

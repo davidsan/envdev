@@ -1,0 +1,662 @@
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmStore: Clearing object store
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmStore: Clearing object store
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App3
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App4
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App5
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App1
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App2
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a849a0
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a848c0
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a84c40
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a84b60
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a84a80
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmStore: Clearing object store
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: disposing manager
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): Unreffing manager
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: ending phase EXIT#012
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: last client disconnected - exiting
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client2
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/Client2
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client2
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a56940
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: in shutdown, not restarting application
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client2
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): App metacity.desktop exited with 0
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmAutostartApp: (pid:5350) done (status:0)
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmXSMPClient: xsmp_finalize (0x1a66ef0 [metacity 10c32c39d8a1de4ad5136864568431583800000051300004])
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client3
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client3
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a66ef0
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: in shutdown, not restarting application
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client3
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: disconnect client
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmXSMPClient: Client '0x1a66ef0 [metacity 10c32c39d8a1de4ad5136864568431583800000051300004]' received CloseConnection
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=(null) interface=(null) method=(null)
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=(null) interface=(null) method=(null)
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client4
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/Client4
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client4
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a569c0
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: in shutdown, not restarting application
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client4
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client1
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/Client1
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client1
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmStore: Unreffing object: 0x1a568c0
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: unable to find application for client - not restarting
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: disconnect for app 'at-spi-registryd.desktop'
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client1
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmAutostartApp: (pid:5354) done (status:0)
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client4
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client3
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmXSMPClient: xsmp_stop ('0x1a66ef0 [metacity 10c32c39d8a1de4ad5136864568431583800000051300004]')
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client2
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client1
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: starting phase EXIT#012
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): Using ConsoleKit for session tracking
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: ending phase END_SESSION#012
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client1 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmXsmpServer: sms_error_handler (0x1a5c810, FALSE, 3, c, 32771, 0)
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmXSMPClient: Client '0x1a66ef0 [metacity 10c32c39d8a1de4ad5136864568431583800000051300004]' received SaveYourselfDone(success = True)
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client4
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client3
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client2
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client1
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: starting phase END_SESSION#012
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: ending phase QUERY_END_SESSION#012
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmShell: Not connected to the shell
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: query end session complete
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client1 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmXsmpServer: sms_error_handler (0x1a5c810, FALSE, 3, 9, 32771, 0)
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmXSMPClient: Client '0x1a66ef0 [metacity 10c32c39d8a1de4ad5136864568431583800000051300004]' received SaveYourselfDone(success = True)
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Done handling signals
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): Caught signal 15, shutting down normally.
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client4
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: sending QueryEndSession signal to :1.14
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client3
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client2
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: sending QueryEndSession signal to :1.2
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client1
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: sending QueryEndSession signal to :1.7
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: sending query-end-session to clients (logout mode: forceful)
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client4
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client3
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client2
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client1
+May 15 21:21:35 alien gnome-session[5130]: DEBUG(+): GsmManager: starting phase QUERY_END_SESSION#012
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: ending phase RUNNING#012
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmManager: requesting logout
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): GsmShell: Not connected to the shell
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GsmManager: Logout called
+May 15 21:21:35 vespa gnome-session[5130]: DEBUG(+): Got callback for signal 15
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: running 15 handler: 0x41cfb0
+May 15 21:21:35 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Found 1 callbacks
+May 15 21:21:35 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: handling signal 15
+May 15 21:21:33 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:33 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmXSMPClient: New client '0x1a66ef0 []'
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmXSMPClient: Setting up new connection
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmXsmpServer: auth_ice_connection()
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmXsmpServer: accept_ice_connection()
+May 15 21:21:28 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.freedesktop.DBus.Properties method=GetAll
+May 15 21:21:28 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.freedesktop.DBus.Properties method=GetAll
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmAutostartApp: started pid:5350
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmAutostartApp: starting metacity.desktop: command=metacity startup-id=10c32c39d8a1de4ad5136864568431583800000051300004
+May 15 21:21:28 cats gnome-session[5130]: DEBUG(+): Starting app: /org/gnome/SessionManager/App5
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: starting app '/org/gnome/SessionManager/App5'
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmManager: starting phase WINDOW_MANAGER#012
+May 15 21:21:28 cats gnome-session[5130]: DEBUG(+): GsmManager: ending phase INITIALIZATION#012
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): App gnome-settings-daemon.desktop registered
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: Client added: /org/gnome/SessionManager/Client2
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/Client2 to store
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): pid = 5134
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): uid = 109
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: Adding new client 10c32c39d8a1de4ad5136864568431511400000051300002 to session
+May 15 21:21:28 cats gnome-session[5130]: DEBUG(+): GsmManager: RegisterClient 10c32c39d8a1de4ad5136864568431511400000051300002
+May 15 21:21:28 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager interface=org.gnome.SessionManager method=RegisterClient
+May 15 21:21:28 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager interface=org.freedesktop.DBus.Properties method=GetAll
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Presence interface=org.freedesktop.DBus.Properties method=GetAll
+May 15 21:21:28 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:28 alien gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:28 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:27 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:27 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:26 vespa gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:26 cats gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 15 21:21:26 ank-morpork gnome-session[5130]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client1 interface=org.freedesktop.DBus.Properties method=GetAll
+May 15 21:21:26 alien gnome-session[5130]: DEBUG(+): GsmManager: Client added: /org/gnome/SessionManager/Client1
+May 15 21:21:26 cats gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/Client1 to store
+May 15 21:21:26 ank-morpork gnome-session[5130]: DEBUG(+): pid = 5344
+May 15 21:21:26 alien gnome-session[5130]: DEBUG(+): uid = 109
+May 15 21:21:26 cats gnome-session[5130]: DEBUG(+): GsmManager: Adding new client 10c32c39d8a1de4ad5136864568670758900000051300005 to session
+May 15 21:21:26 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: RegisterClient
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmAutostartApp: started pid:5134
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmAutostartApp: starting gnome-settings-daemon.desktop: command=/usr/lib/gnome-settings-daemon/gnome-settings-daemon startup-id=10c32c39d8a1de4ad5136864568431511400000051300002
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): Starting app: /org/gnome/SessionManager/App3
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: starting app '/org/gnome/SessionManager/App3'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: starting phase INITIALIZATION#012
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App2#011app-id:gdm-simple-greeter.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App1#011app-id:orca-autostart.desktop#011is-disabled:0#011is-conditionally-disabled:1
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App4#011app-id:polkit-gnome-authentication-agent-1.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: Phase APPLICATION
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmManager: Phase DESKTOP
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: Phase PANEL
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App5#011app-id:metacity.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: Phase WINDOW_MANAGER
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App3#011app-id:gnome-settings-daemon.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmManager: Phase INITIALIZATION
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: App startup summary
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmManager: GSM starting to manage
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): fill: *** Done adding default providers
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: adding required app metacity.desktop
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App5 to store
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmManager: read /usr/share/applications/metacity.desktop
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/applications/metacity.desktop'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'metacity.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): fill: provider 'windowmanager' looking for component: 'metacity'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): fill: *** Adding default providers
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): fill: *** Done adding required components
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmManager: adding required app polkit-gnome-authentication-agent-1.desktop
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App4 to store
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: read /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'polkit-gnome-authentication-agent-1.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: adding required app gnome-settings-daemon.desktop
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App3 to store
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmManager: read /usr/share/gnome/autostart/gnome-settings-daemon.desktop
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gnome/autostart/gnome-settings-daemon.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'gnome-settings-daemon.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: adding required app gdm-simple-greeter.desktop
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App2 to store
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmManager: read /usr/share/gdm/greeter/applications/gdm-simple-greeter.desktop
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gdm/greeter/applications/gdm-simple-greeter.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'gdm-simple-greeter.desktop'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): fill: *** Adding required components
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): fill: *** Done checking required components and providers
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'polkit-gnome-authentication-agent-1.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gnome/autostart/gnome-settings-daemon.desktop'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'gnome-settings-daemon.desktop'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gdm/greeter/applications/gdm-simple-greeter.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'gdm-simple-greeter.desktop'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/applications/metacity.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GsmUtil: Looking for file 'metacity.desktop'
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): fill: provider 'windowmanager' looking for component: 'metacity'
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): fill: *** Checking required components and providers
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): fill: *** Looking if /usr/share/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): Cannot use session '/usr/local/share/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): fill: *** Looking if /usr/local/share/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): Cannot use session '/usr/share/gdm/greeter/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): fill: *** Looking if /usr/share/gdm/greeter/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): Cannot use session '/etc/xdg/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): fill: *** Looking if /etc/xdg/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): Cannot use session '/var/lib/gdm3/.config/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): fill: *** Looking if /var/lib/gdm3/.config/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): fill: *** Getting session 'gdm-fallback'
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App1 to store
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmManager: read /usr/share/gdm/greeter/autostart/orca-autostart.desktop
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GsmManager: *** Adding autostart apps for /usr/share/gdm/greeter/autostart
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 2 signals
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 10: signum=2 0x41cfb0
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 15 signals
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 9: signum=15 0x41cfb0
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 10 signals
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 8: signum=10 0x41cfb0
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 1 signals
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 7: signum=1 0x41cfb0
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 8 signals
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 6: signum=8 0x41cfb0
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 5 signals
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 5: signum=5 (nil)
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 6 signals
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 4: signum=6 (nil)
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 11 signals
+May 15 21:21:24 alien gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 3: signum=11 (nil)
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 7 signals
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 2: signum=7 (nil)
+May 15 21:21:24 cats gnome-session[5130]: DEBUG(+): GdmSignalHandler: Registering for 4 signals
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): GdmSignalHandler: Adding handler 1: signum=4 (nil)
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmManager: setting client store 0x1a0a900
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmShell: Not connected to the shell
+May 15 21:21:24 vespa gnome-session[5130]: DEBUG(+): GsmXsmpServer: SESSION_MANAGER=local/alien:@/tmp/.ICE-unix/5130,unix/alien:/tmp/.ICE-unix/5130#012
+May 15 21:21:24 ank-morpork gnome-session[5130]: DEBUG(+): Enabling debugging
+May 15 21:20:05 ank-morpork gnome-session[5320]: Gdk-WARNING: gnome-session: Fatal IO error 11 (Ressource temporairement non disponible) on X server :0.#012
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmStore: Clearing object store
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: Clearing object store
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App3
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App4
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App5
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App1
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/App2
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1deb9a0
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1deb8c0
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1debc40
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1debb60
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1deba80
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmStore: Clearing object store
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: disposing manager
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): Unreffing manager
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: ending phase EXIT#012
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: last client disconnected - exiting
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client2
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/Client2
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client2
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1dbb140
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: in shutdown, not restarting application
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client2
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): App metacity.desktop exited with 0
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmAutostartApp: (pid:9943) done (status:0)
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=(null) interface=(null) method=(null)
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=(null) interface=(null) method=(null)
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client4
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/Client4
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client4
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1dbb1c0
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: in shutdown, not restarting application
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client4
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmXSMPClient: xsmp_finalize (0x1dd16f0 [metacity 10c1464008a07a7c5e136868849583633000000099130004])
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client3
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client3
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1dd16f0
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: in shutdown, not restarting application
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client3
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: disconnect client
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmXSMPClient: Client '0x1dd16f0 [metacity 10c1464008a07a7c5e136868849583633000000099130004]' received CloseConnection
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: Client removed: /org/gnome/SessionManager/Client1
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmStore: emitting removed for /org/gnome/SessionManager/Client1
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmClient: disposing /org/gnome/SessionManager/Client1
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmStore: Unreffing object: 0x1dbb0c0
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: unable to find application for client - not restarting
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: disconnect for app 'at-spi-registryd.desktop'
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: disconnect client: /org/gnome/SessionManager/Client1
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmAutostartApp: (pid:9947) done (status:0)
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client4
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client3
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmXSMPClient: xsmp_stop ('0x1dd16f0 [metacity 10c1464008a07a7c5e136868849583633000000099130004]')
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client2
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: stopped client: /org/gnome/SessionManager/Client1
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: starting phase EXIT#012
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): Using ConsoleKit for session tracking
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: ending phase END_SESSION#012
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client1 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmXsmpServer: sms_error_handler (0x1ddbe00, FALSE, 3, c, 32771, 0)
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmXSMPClient: Client '0x1dd16f0 [metacity 10c1464008a07a7c5e136868849583633000000099130004]' received SaveYourselfDone(success = True)
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client4
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client3
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client2
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: adding client to end-session clients: /org/gnome/SessionManager/Client1
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: starting phase END_SESSION#012
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: ending phase QUERY_END_SESSION#012
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmShell: Not connected to the shell
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: query end session complete
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client4 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client1 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: got EndSessionResponse is-ok:1 reason=
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.gnome.SessionManager.ClientPrivate method=EndSessionResponse
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmXsmpServer: sms_error_handler (0x1ddbe00, FALSE, 3, 9, 32771, 0)
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Response from end session request: is-ok=1 do-last=0 cancel=0 reason=
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmXSMPClient: Client '0x1dd16f0 [metacity 10c1464008a07a7c5e136868849583633000000099130004]' received SaveYourselfDone(success = True)
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GdmSignalHandler: Done handling signals
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): Caught signal 15, shutting down normally.
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client4
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: sending QueryEndSession signal to :1.14
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client3
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client2
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: sending QueryEndSession signal to :1.2
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: adding client to query clients: /org/gnome/SessionManager/Client1
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: sending QueryEndSession signal to :1.8
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: sending query-end-session to clients (logout mode: forceful)
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client4
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client3
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client2
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: Client /org/gnome/SessionManager/Client1
+May 16 09:15:01 vespa gnome-session[9913]: DEBUG(+): GsmManager: starting phase QUERY_END_SESSION#012
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: ending phase RUNNING#012
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: requesting logout
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GsmShell: Not connected to the shell
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GsmManager: Logout called
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): Got callback for signal 15
+May 16 09:15:01 alien gnome-session[9913]: DEBUG(+): GdmSignalHandler: running 15 handler: 0x41cfb0
+May 16 09:15:01 ank-morpork gnome-session[9913]: DEBUG(+): GdmSignalHandler: Found 1 callbacks
+May 16 09:15:01 cats gnome-session[9913]: DEBUG(+): GdmSignalHandler: handling signal 15
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmManager: Client added: /org/gnome/SessionManager/Client3
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/Client3 to store
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmXSMPClient: New client '0x1dd16f0 []'
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmXSMPClient: Setting up new connection
+May 16 09:14:57 alien gnome-session[9913]: DEBUG(+): GsmXsmpServer: auth_ice_connection()
+May 16 09:14:57 alien gnome-session[9913]: DEBUG(+): GsmXsmpServer: accept_ice_connection()
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:57 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.freedesktop.DBus.Properties method=GetAll
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client2 interface=org.freedesktop.DBus.Properties method=GetAll
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmAutostartApp: started pid:9943
+May 16 09:14:57 alien gnome-session[9913]: DEBUG(+): GsmAutostartApp: starting metacity.desktop: command=metacity startup-id=10c1464008a07a7c5e136868849583633000000099130004
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): Starting app: /org/gnome/SessionManager/App5
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmManager: starting app '/org/gnome/SessionManager/App5'
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmManager: starting phase WINDOW_MANAGER#012
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmManager: ending phase INITIALIZATION#012
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): App gnome-settings-daemon.desktop registered
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmManager: Client added: /org/gnome/SessionManager/Client2
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/Client2 to store
+May 16 09:14:57 alien gnome-session[9913]: DEBUG(+): pid = 9917
+May 16 09:14:57 alien gnome-session[9913]: DEBUG(+): uid = 109
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmManager: Adding new client 10c1464008a07a7c5e136868849583555000000099130002 to session
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmManager: RegisterClient 10c1464008a07a7c5e136868849583555000000099130002
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager interface=org.gnome.SessionManager method=RegisterClient
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager interface=org.freedesktop.DBus.Properties method=GetAll
+May 16 09:14:57 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Presence interface=org.freedesktop.DBus.Properties method=GetAll
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:57 vespa gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:57 ank-morpork gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:56 cats gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/freedesktop/DBus interface=org.freedesktop.DBus method=NameOwnerChanged
+May 16 09:14:56 alien gnome-session[9913]: DEBUG(+): GsmDBusClient: obj_path=/org/gnome/SessionManager/Client1 interface=org.freedesktop.DBus.Properties method=GetAll
+May 16 09:14:56 vespa gnome-session[9913]: DEBUG(+): GsmManager: Client added: /org/gnome/SessionManager/Client1
+May 16 09:14:56 cats gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/Client1 to store
+May 16 09:14:56 vespa gnome-session[9913]: DEBUG(+): pid = 9937
+May 16 09:14:56 vespa gnome-session[9913]: DEBUG(+): uid = 109
+May 16 09:14:56 alien gnome-session[9913]: DEBUG(+): GsmManager: Adding new client 10c1464008a07a7c5e136868849617945500000099130005 to session
+May 16 09:14:56 cats gnome-session[9913]: DEBUG(+): GsmManager: RegisterClient
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmAutostartApp: started pid:9917
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmAutostartApp: starting gnome-settings-daemon.desktop: command=/usr/lib/gnome-settings-daemon/gnome-settings-daemon startup-id=10c1464008a07a7c5e136868849583555000000099130002
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): Starting app: /org/gnome/SessionManager/App3
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager: starting app '/org/gnome/SessionManager/App3'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager: starting phase INITIALIZATION#012
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App2#011app-id:gdm-simple-greeter.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App1#011app-id:orca-autostart.desktop#011is-disabled:0#011is-conditionally-disabled:1
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App4#011app-id:polkit-gnome-authentication-agent-1.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager: Phase APPLICATION
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmManager: Phase DESKTOP
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager: Phase PANEL
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App5#011app-id:metacity.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager: Phase WINDOW_MANAGER
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager:#011ID: /org/gnome/SessionManager/App3#011app-id:gnome-settings-daemon.desktop#011is-disabled:0#011is-conditionally-disabled:0
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmManager: Phase INITIALIZATION
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmManager: App startup summary
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager: GSM starting to manage
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): fill: *** Done adding default providers
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: adding required app metacity.desktop
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App5 to store
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager: read /usr/share/applications/metacity.desktop
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/applications/metacity.desktop'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'metacity.desktop'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): fill: provider 'windowmanager' looking for component: 'metacity'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): fill: *** Adding default providers
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): fill: *** Done adding required components
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: adding required app polkit-gnome-authentication-agent-1.desktop
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App4 to store
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager: read /etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'polkit-gnome-authentication-agent-1.desktop'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager: adding required app gnome-settings-daemon.desktop
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App3 to store
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: read /usr/share/gnome/autostart/gnome-settings-daemon.desktop
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gnome/autostart/gnome-settings-daemon.desktop'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'gnome-settings-daemon.desktop'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmManager: adding required app gdm-simple-greeter.desktop
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App2 to store
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager: read /usr/share/gdm/greeter/applications/gdm-simple-greeter.desktop
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gdm/greeter/applications/gdm-simple-greeter.desktop'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'gdm-simple-greeter.desktop'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): fill: *** Adding required components
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): fill: *** Done checking required components and providers
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/etc/xdg/autostart/polkit-gnome-authentication-agent-1.desktop'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'polkit-gnome-authentication-agent-1.desktop'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gnome/autostart/gnome-settings-daemon.desktop'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'gnome-settings-daemon.desktop'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/gdm/greeter/applications/gdm-simple-greeter.desktop'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'gdm-simple-greeter.desktop'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: found in XDG dirs: '/usr/share/applications/metacity.desktop'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/applications'
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/applications'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/applications'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.local/share/applications'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/etc/xdg/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gnome/autostart'
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/local/share/gnome/autostart'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/usr/share/gdm/greeter/gnome/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking in '/var/lib/gdm3/.config/autostart'
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmUtil: Looking for file 'metacity.desktop'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): fill: provider 'windowmanager' looking for component: 'metacity'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): fill: *** Checking required components and providers
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): fill: *** Looking if /usr/share/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): Cannot use session '/usr/local/share/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): fill: *** Looking if /usr/local/share/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): Cannot use session '/usr/share/gdm/greeter/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): fill: *** Looking if /usr/share/gdm/greeter/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): Cannot use session '/etc/xdg/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): fill: *** Looking if /etc/xdg/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): Cannot use session '/var/lib/gdm3/.config/gnome-session/sessions/gdm-fallback.session': non-existing or invalid file.
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): fill: *** Looking if /var/lib/gdm3/.config/gnome-session/sessions/gdm-fallback.session is a valid session file
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): fill: *** Getting session 'gdm-fallback'
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GsmStore: Adding object id /org/gnome/SessionManager/App1 to store
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmManager: read /usr/share/gdm/greeter/autostart/orca-autostart.desktop
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmManager: *** Adding autostart apps for /usr/share/gdm/greeter/autostart
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 2 signals
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 10: signum=2 0x41cfb0
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 15 signals
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 9: signum=15 0x41cfb0
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 10 signals
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 8: signum=10 0x41cfb0
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 1 signals
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 7: signum=1 0x41cfb0
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 8 signals
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 6: signum=8 0x41cfb0
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 5 signals
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 5: signum=5 (nil)
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 6 signals
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 4: signum=6 (nil)
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 11 signals
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 3: signum=11 (nil)
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 7 signals
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 2: signum=7 (nil)
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GdmSignalHandler: Registering for 4 signals
+May 16 09:14:55 cats gnome-session[9913]: DEBUG(+): GdmSignalHandler: Adding handler 1: signum=4 (nil)
+May 16 09:14:55 ank-morpork gnome-session[9913]: DEBUG(+): GsmManager: setting client store 0x1d6f900
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): GsmShell: Not connected to the shell
+May 16 09:14:55 vespa gnome-session[9913]: DEBUG(+): GsmXsmpServer: SESSION_MANAGER=local/alien:@/tmp/.ICE-unix/9913,unix/alien:/tmp/.ICE-unix/9913#012
+May 16 09:14:55 alien gnome-session[9913]: DEBUG(+): Enabling debugging

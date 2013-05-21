@@ -1,0 +1,31 @@
+#!/usr/bin/perl -wl
+
+my $dir=shift or die "missing arg";
+
+my @files=glob("$dir/*");
+
+my %h=();
+$,="\n";
+#print @files;
+
+foreach $file(@files){
+	my $fh;
+	open $fh, $file;
+	my $content="";
+	while (<$fh>){
+		chomp;
+		$content.=$_;
+	}
+	close $fh;
+	my $b=0;
+	foreach my $k(keys %h){
+		if($h{$k}=~m/$content/){
+			print $file;
+			$b=1;
+			last;
+		}
+	}
+	if($b==0){
+		$h{$file}=$content;
+	}
+}

@@ -1,0 +1,76 @@
+May 15 21:21:04 ank-morpork snmpd[3924]: NET-SNMP version 5.4.3
+May 15 21:21:04 ank-morpork snmpd[3924]: net-snmp: 33 error(s) in config file(s)
+May 15 21:21:04 ank-morpork snmpd[3924]: error finding row index in _ifXTable_container_row_restore
+May 15 21:21:04 ank-morpork snmpd[3924]: error finding row index in _ifXTable_container_row_restore
+May 15 21:21:04 ank-morpork snmpd[3924]: error finding row index in _ifXTable_container_row_restore
+May 15 21:21:04 alien snmpd[3924]: error finding row index in _ifXTable_container_row_restore
+May 15 21:21:04 alien snmpd[3924]: error finding row index in _ifXTable_container_row_restore
+May 15 21:21:04 vespa snmpd[3924]: Turning on AgentX master support.
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 alien snmpd[3924]: trigger OID: snmperrErrorFlag
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 cats snmpd[3924]: Unknown payload OID: snmperrErrMessage
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: payload OID: snmperrErrMessage
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 cats snmpd[3924]: trigger OID: fileErrorFlag
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: Unknown payload OID: fileErrorMsg
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 alien snmpd[3924]: payload OID: fileErrorMsg
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: Unknown payload OID: fileName
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: payload OID: fileName
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 vespa snmpd[3924]: trigger OID: laErrorFlag
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 cats snmpd[3924]: Unknown payload OID: laErrMessage
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: payload OID: laErrMessage
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: Unknown payload OID: laNames
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 alien snmpd[3924]: payload OID: laNames
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 vespa snmpd[3924]: trigger OID: dskErrorFlag
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: Unknown payload OID: dskErrorMsg
+May 15 21:21:04 ank-morpork snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: payload OID: dskErrorMsg
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 cats snmpd[3924]: Unknown payload OID: dskPath
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 alien snmpd[3924]: payload OID: dskPath
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 vespa snmpd[3924]: trigger OID: extResult
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: Unknown payload OID: extOutput
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: payload OID: extOutput
+May 15 21:21:04 ank-morpork snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 cats snmpd[3924]: Unknown payload OID: extNames
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: payload OID: extNames
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 vespa snmpd[3924]: trigger OID: memSwapError
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: Unknown payload OID: memSwapErrorMsg
+May 15 21:21:04 ank-morpork snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: payload OID: memSwapErrorMsg
+May 15 21:21:04 vespa snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: Unknown payload OID: memErrorName
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: payload OID: memErrorName
+May 15 21:21:04 ank-morpork snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown monitor OID
+May 15 21:21:04 cats snmpd[3924]: trigger OID: prErrorFlag
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 ank-morpork snmpd[3924]: Unknown payload OID: prErrMessage
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 cats snmpd[3924]: payload OID: prErrMessage
+May 15 21:21:04 cats snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: Unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: Unknown payload OID: prNames
+May 15 21:21:04 alien snmpd[3924]: /etc/snmp/snmpd.conf: line 143: Error: unknown payload OID
+May 15 21:21:04 vespa snmpd[3924]: payload OID: prNames
+May 15 21:20:01 cats snmpd[3934]: Received TERM or STOP signal...  shutting down...
+May 19 18:42:09 cats snmpd[3924]: IfIndex of an interface changed.

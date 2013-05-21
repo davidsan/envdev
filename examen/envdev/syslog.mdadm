@@ -1,0 +1,2 @@
+May 15 21:21:01 ank-morpork mdadm[3531]: NewArray event detected on md device /dev/md127
+May 15 21:21:01 vespa mdadm[3531]: DeviceDisappeared event detected on md device /dev/md/M18XR2_RAID0, component device Wrong-Level

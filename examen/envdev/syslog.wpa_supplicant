@@ -1,0 +1,272 @@
+May 14 22:47:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 22:37:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 07:27:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 07:17:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 07:07:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 06:57:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 06:47:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 06:37:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 06:27:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 06:17:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 06:07:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 05:57:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 05:47:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 05:37:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 05:27:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 05:17:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 05:07:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 04:57:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 04:47:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 04:37:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 04:27:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 04:17:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 04:07:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 03:57:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 03:47:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 03:37:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 03:27:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 03:17:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 03:07:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 02:57:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 02:47:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 02:37:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 02:27:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 02:17:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 02:07:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 01:57:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 01:47:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 01:37:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 01:27:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 01:17:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 01:07:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 00:57:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 00:47:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 00:37:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 00:27:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 00:17:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 00:07:28 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 23:57:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 23:47:27 vespa wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 23:37:27 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 23:27:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 23:17:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 23:07:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 14 22:57:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 06:17:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 06:07:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 05:57:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 05:47:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 05:37:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 05:27:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 05:17:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 05:07:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 04:57:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 04:47:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 04:37:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 04:27:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 04:17:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 04:07:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 03:57:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 03:47:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 03:37:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 03:27:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 03:17:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 03:07:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 02:57:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 02:47:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 02:37:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 02:27:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 02:17:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 02:07:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 01:57:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 01:47:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 01:37:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 01:27:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 01:17:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 01:07:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 00:57:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 00:47:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 00:37:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 00:27:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 00:17:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 00:07:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 23:57:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 23:47:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 23:37:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 23:27:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 23:17:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 23:07:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 22:57:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 22:47:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 22:37:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 22:27:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 22:17:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 22:07:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 21:57:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 21:47:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 21:37:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 21:27:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 21:21:07 cats wpa_supplicant[4032]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:1f:9f:f7:0b:79 completed (auth) [id=0 id_str=]
+May 15 21:21:07 vespa wpa_supplicant[4032]: wlan0: WPA: Key negotiation completed with 00:1f:9f:f7:0b:79 [PTK=CCMP GTK=TKIP]
+May 15 21:21:06 cats wpa_supplicant[4032]: wlan0: Associated with 00:1f:9f:f7:0b:79
+May 15 21:21:06 cats wpa_supplicant[4032]: wlan0: Trying to associate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 15 21:21:06 alien wpa_supplicant[4032]: wlan0: SME: Trying to authenticate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 15 21:20:16 alien wpa_supplicant[4058]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:00:00:00:00:00 reason=3
+May 15 21:17:30 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 21:14:42 alien wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:1f:9f:f7:0b:79 completed (auth) [id=0 id_str=]
+May 15 21:14:42 alien wpa_supplicant[4058]: wlan0: WPA: Key negotiation completed with 00:1f:9f:f7:0b:79 [PTK=CCMP GTK=TKIP]
+May 15 21:14:42 alien wpa_supplicant[4058]: wlan0: Associated with 00:1f:9f:f7:0b:79
+May 15 21:14:41 alien wpa_supplicant[4058]: wlan0: Trying to associate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 15 21:14:41 cats wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 15 21:14:35 vespa wpa_supplicant[4058]: rfkill: WLAN unblocked
+May 15 17:07:22 vespa wpa_supplicant[4058]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:19:a9:57:67:e3 reason=4
+May 15 17:07:22 cats wpa_supplicant[4058]: rfkill: WLAN unblocked
+May 15 16:23:21 alien wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:67:e3 completed (reauth) [id=1 id_str=]
+May 15 16:23:21 vespa wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:67:e3
+May 15 16:23:21 ank-morpork wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:67:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 16:23:21 vespa wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:67:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 16:21:21 vespa wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:a9:23 completed (reauth) [id=1 id_str=]
+May 15 16:21:21 vespa wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:a9:23
+May 15 16:21:21 vespa wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:a9:23 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 16:21:21 vespa wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:a9:23 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 16:02:54 vespa wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:67:e3 completed (reauth) [id=1 id_str=]
+May 15 16:02:54 cats wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:67:e3
+May 15 16:02:54 alien wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:67:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 16:02:54 ank-morpork wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:67:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 16:02:53 alien wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:7a:b3 (SSID='LIP6-guest' freq=2462 MHz)
+May 15 16:02:53 alien wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:7a:b3 (SSID='LIP6-guest' freq=2462 MHz)
+May 15 16:02:53 cats wpa_supplicant[4058]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:19:a9:fe:09:a3 reason=4
+May 15 15:49:22 ank-morpork wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:fe:09:a3 completed (reauth) [id=1 id_str=]
+May 15 15:49:22 vespa wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:fe:09:a3
+May 15 15:49:21 vespa wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:fe:09:a3 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 15:49:21 ank-morpork wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:fe:09:a3 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 15:47:21 cats wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:67:e3 completed (reauth) [id=1 id_str=]
+May 15 15:47:21 vespa wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:67:e3
+May 15 15:47:21 cats wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:67:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 15:47:21 ank-morpork wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:67:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 15:45:21 vespa wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:7e:e3 completed (reauth) [id=1 id_str=]
+May 15 15:45:21 alien wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:7e:e3
+May 15 15:45:21 cats wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:7e:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 15:45:21 vespa wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:7e:e3 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 15:03:21 alien wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:fe:09:a3 completed (reauth) [id=1 id_str=]
+May 15 15:03:21 vespa wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:fe:09:a3
+May 15 15:03:21 vespa wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:fe:09:a3 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 15:03:21 vespa wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:fe:09:a3 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 15:01:21 vespa wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:a9:23 completed (reauth) [id=1 id_str=]
+May 15 15:01:21 ank-morpork wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:a9:23
+May 15 15:01:21 alien wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:a9:23 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 15:01:21 alien wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:a9:23 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 14:52:21 ank-morpork wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:fe:09:a3 completed (reauth) [id=1 id_str=]
+May 15 14:52:21 cats wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:fe:09:a3
+May 15 14:52:21 alien wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:fe:09:a3 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 14:52:21 vespa wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:fe:09:a3 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 14:51:22 cats wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:19:a9:57:a9:23 completed (reauth) [id=1 id_str=]
+May 15 14:51:22 vespa wpa_supplicant[4058]: wlan0: Associated with 00:19:a9:57:a9:23
+May 15 14:51:22 alien wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:a9:23 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 14:51:21 alien wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:a9:23 (SSID='LIP6-guest' freq=2437 MHz)
+May 15 14:51:21 ank-morpork wpa_supplicant[4058]: wlan0: CTRL-EVENT-DISCONNECTED bssid=88:43:e1:57:75:f3 reason=4
+May 15 14:48:42 ank-morpork wpa_supplicant[4058]: wlan0: CTRL-EVENT-CONNECTED - Connection to 88:43:e1:57:75:f3 completed (reauth) [id=1 id_str=]
+May 15 14:48:42 vespa wpa_supplicant[4058]: wlan0: Associated with 88:43:e1:57:75:f3
+May 15 14:48:42 ank-morpork wpa_supplicant[4058]: wlan0: Trying to associate with 88:43:e1:57:75:f3 (SSID='LIP6-guest' freq=2462 MHz)
+May 15 14:48:42 cats wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 88:43:e1:57:75:f3 (SSID='LIP6-guest' freq=2462 MHz)
+May 15 14:48:41 cats wpa_supplicant[4058]: wlan0: Trying to associate with 00:19:a9:57:24:33 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 14:48:41 cats wpa_supplicant[4058]: wlan0: SME: Trying to authenticate with 00:19:a9:57:24:33 (SSID='LIP6-guest' freq=2412 MHz)
+May 15 14:47:35 cats wpa_supplicant[4058]: rfkill: WLAN unblocked
+May 15 08:54:33 cats wpa_supplicant[4058]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:1f:9f:f7:0b:79 reason=4
+May 15 08:54:33 ank-morpork wpa_supplicant[4058]: rfkill: WLAN unblocked
+May 15 08:17:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 08:07:28 alien wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 07:57:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 07:47:27 cats wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 15 07:37:27 ank-morpork wpa_supplicant[4058]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 08:48:42 ank-morpork wpa_supplicant[4032]: rfkill: WLAN unblocked
+May 17 08:48:42 vespa wpa_supplicant[4032]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:1f:9f:f7:0b:79 reason=4
+May 17 06:47:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 06:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 06:27:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 06:17:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 06:07:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 05:57:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 05:47:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 05:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 05:27:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 05:17:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 05:07:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 04:57:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 04:47:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 04:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 04:27:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 04:17:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 04:07:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 03:57:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 03:47:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 03:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 03:27:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 03:17:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 03:07:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 02:57:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 02:47:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 02:37:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 02:27:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 02:17:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 02:07:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 01:57:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 01:47:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 01:37:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 01:27:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 01:17:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 01:07:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 00:57:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 00:47:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 00:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 00:27:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 00:17:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 00:07:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 23:57:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 23:47:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 23:37:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 23:27:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 23:17:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 23:07:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 22:57:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 22:47:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 22:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 22:27:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 22:17:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 22:07:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 21:57:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 21:47:29 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 21:37:29 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 21:27:29 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 16 21:20:13 cats wpa_supplicant[4032]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:1f:9f:f7:0b:79 completed (auth) [id=0 id_str=]
+May 16 21:20:13 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Key negotiation completed with 00:1f:9f:f7:0b:79 [PTK=CCMP GTK=TKIP]
+May 16 21:20:13 ank-morpork wpa_supplicant[4032]: wlan0: Associated with 00:1f:9f:f7:0b:79
+May 16 21:20:13 vespa wpa_supplicant[4032]: wlan0: Trying to associate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 16 21:20:13 vespa wpa_supplicant[4032]: wlan0: SME: Trying to authenticate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 16 21:20:09 alien wpa_supplicant[4032]: rfkill: WLAN unblocked
+May 16 09:01:07 vespa wpa_supplicant[4032]: rfkill: WLAN unblocked
+May 16 09:01:07 alien wpa_supplicant[4032]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:1f:9f:f7:0b:79 reason=4
+May 16 06:27:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 23:48:58 alien wpa_supplicant[4032]: wlan0: CTRL-EVENT-DISCONNECTED bssid=00:00:00:00:00:00 reason=3
+May 17 23:47:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 23:37:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 23:27:30 alien wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 23:17:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 23:07:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 22:57:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 22:47:30 cats wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 22:37:30 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 22:27:30 vespa wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 17 22:21:20 vespa wpa_supplicant[4032]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:1f:9f:f7:0b:79 completed (reauth) [id=0 id_str=]
+May 17 22:21:20 vespa wpa_supplicant[4032]: wlan0: WPA: Key negotiation completed with 00:1f:9f:f7:0b:79 [PTK=CCMP GTK=TKIP]
+May 17 22:21:19 alien wpa_supplicant[4032]: wlan0: Associated with 00:1f:9f:f7:0b:79
+May 17 22:21:19 alien wpa_supplicant[4032]: wlan0: Trying to associate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 17 22:21:19 vespa wpa_supplicant[4032]: wlan0: SME: Trying to authenticate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 17 22:21:18 vespa wpa_supplicant[4032]: rfkill: WLAN unblocked
+May 20 17:37:29 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Group rekeying completed with 00:1f:9f:f7:0b:79 [GTK=TKIP]
+May 20 17:36:43 cats wpa_supplicant[4032]: wlan0: CTRL-EVENT-CONNECTED - Connection to 00:1f:9f:f7:0b:79 completed (auth) [id=0 id_str=]
+May 20 17:36:43 ank-morpork wpa_supplicant[4032]: wlan0: WPA: Key negotiation completed with 00:1f:9f:f7:0b:79 [PTK=CCMP GTK=TKIP]
+May 20 17:36:43 ank-morpork wpa_supplicant[4032]: wlan0: Associated with 00:1f:9f:f7:0b:79
+May 20 17:36:43 cats wpa_supplicant[4032]: wlan0: Trying to associate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 20 17:36:43 alien wpa_supplicant[4032]: wlan0: SME: Trying to authenticate with 00:1f:9f:f7:0b:79 (SSID='Bbox-E532D6' freq=2412 MHz)
+May 20 17:36:39 alien wpa_supplicant[4032]: rfkill: WLAN unblocked

@@ -1,0 +1,5 @@
+May 15 21:21:00 vespa slapd[3396]: slapd starting
+May 15 21:20:59 alien slapd[3300]: @(#) $OpenLDAP: slapd  (Apr 23 2013 12:16:04) $#012#011root@lupin:/tmp/buildd/openldap-2.4.31/debian/build/servers/slapd
+May 15 21:20:19 alien slapd[3387]: slapd stopped.
+May 15 21:20:18 cats slapd[3387]: slapd shutdown: waiting for 0 operations/tasks to finish
+May 15 21:20:18 ank-morpork slapd[3387]: daemon: shutdown requested and initiated.

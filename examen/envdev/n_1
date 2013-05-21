@@ -1,0 +1,8 @@
+#!/usr/bin/perl -wl
+
+my $n=$ARGV[0];
+my $res="";
+for (my $i = 0; $i < $n; $i++) {
+	$res.="1";
+}
+print $res;

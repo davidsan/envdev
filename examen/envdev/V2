@@ -1,0 +1,117 @@
+#!/usr/bin/perl -l
+use strict;
+use warnings;
+use IO::Socket;
+use auxlib;
+my $port = shift or die "missing arg";
+
+my $server = IO::Socket::INET -> new (Proto => "tcp",
+	LocalPort => $port,
+	Listen => 16000,
+	Reuse => 1);
+
+die "Ne peux pas creer de socket sur le port $port: $!" unless $server;
+
+$SIG{"CHLD"}="IGNORE";
+
+our %h=();
+
+my @liste_client_sockets=();
+
+sub welcome {
+    my $client = shift;
+    print $client "USER";
+    my $name=<$client>;
+    if(defined $h{$name}){
+	print $client "BAD_USER";
+    }else{
+	$h{$name}=1;
+	print $client "OK";
+    }
+}
+
+while (my $client = $server -> accept() ) {
+	my $pid = fork();
+	if (!defined $pid) {
+		#erreur
+	}
+	elsif ($pid) {
+		push @liste_client_sockets, $pid;
+	}
+	else {
+		welcome($client, %h);
+		while (1) {
+			my $requete = "";
+			$requete .= <$client>;
+			chomp $requete;
+			gestion_requetes($client, $requete);
+
+		}
+	}
+}
+
+
+
+sub gestion_requetes {
+    my $client  = shift;
+    my $requete = shift;
+
+    if    ( $requete =~ /^q|(quit)$/i ) {
+	&quit_command( $client );
+    }
+    elsif ( $requete =~ m|^create (.+) (.+)$|i ) {
+	&create_command( $client, $1, $2 );
+    }
+    elsif ( $requete =~ m|^join (.+)$|i ) {
+	&join_command( $client, $1);
+    }
+    elsif ( $requete =~ m/^list$/i ) {
+	&list_command( $client );
+    }
+    else {
+	print $client "UNKNOWN COMMAND";
+    }
+}
+
+sub quit_command{
+    my $client=shift;
+    print $client "bye";
+    shutdown($client);
+}
+sub create_command{
+    my $client=shift;
+    my $lig=shift;
+    my $col=shift;
+
+    my $partie; # todo : initialisation de la partie via auxlib
+    # boucle du jeu
+    while (1){
+	foreach my $client(@liste_client_sockets){
+	    print $client "play "
+	}
+    }
+}
+
+sub join_command{
+    my $client=shift;
+    my $new_player=shift;
+    my $pid=fork;
+    if (!defined $pid) {
+	#erreur
+    }
+    elsif ($pid) {
+	push @liste_client_sockets, $pid;
+    }
+    else {
+	# le fils fait rien et termine
+    }
+    print "Nouveau joueur ajouté";
+}
+
+sub list_command{
+    my $client=shift;
+    local $"="\n";
+    print "@liste_client_sockets";
+}
+
+1;

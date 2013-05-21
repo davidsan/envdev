@@ -1,0 +1,7 @@
+May 15 22:59:53 cats nrpe[6883]: Daemon shutdown
+May 15 22:59:53 cats nrpe[6883]: Error: Network server getpeername() failure (107: Transport endpoint is not connected)
+May 15 21:21:02 ank-morpork nrpe[3667]: Allowing connections from: 127.0.0.1
+May 15 21:21:02 cats nrpe[3667]: Listening for connections on port 5666
+May 15 21:21:02 cats nrpe[3667]: Starting up daemon
+May 15 21:20:01 alien nrpe[3864]: Daemon shutdown
+May 15 21:20:01 alien nrpe[3864]: Caught SIGTERM - shutting down...

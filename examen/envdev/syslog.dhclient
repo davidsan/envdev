@@ -1,0 +1,734 @@
+May 15 21:21:08 cats dhclient: bound to 192.168.1.9 -- renewal in 33444 seconds.
+May 15 21:21:08 cats dhclient: DHCPACK from 192.168.1.254
+May 15 21:21:08 vespa dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 15 21:21:08 alien dhclient: Sending on   Socket/fallback
+May 15 21:21:08 ank-morpork dhclient: Sending on   LPF/wlan0/68:5d:43:5f:46:91
+May 15 21:21:08 ank-morpork dhclient: Listening on LPF/wlan0/68:5d:43:5f:46:91
+May 15 21:21:07 alien dhclient:
+May 15 21:21:07 cats dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 15 21:21:07 alien dhclient: All rights reserved.
+May 15 21:21:07 cats dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 15 21:21:07 alien dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 15 21:14:45 cats dhclient: bound to 192.168.1.9 -- renewal in 41286 seconds.
+May 15 21:14:45 ank-morpork dhclient: DHCPACK from 192.168.1.254
+May 15 21:14:45 ank-morpork dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 15 21:14:45 ank-morpork dhclient: Sending on   Socket/fallback
+May 15 21:14:45 cats dhclient: Sending on   LPF/wlan0/68:5d:43:5f:46:91
+May 15 21:14:45 alien dhclient: Listening on LPF/wlan0/68:5d:43:5f:46:91
+May 15 21:14:44 cats dhclient:
+May 15 21:14:44 ank-morpork dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 15 21:14:44 ank-morpork dhclient: All rights reserved.
+May 15 21:14:44 cats dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 15 21:14:44 vespa dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 15 17:07:34 ank-morpork dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 17
+May 15 17:07:27 vespa dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 7
+May 15 16:23:57 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:23:49 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:23:38 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:23:22 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:23:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:22:51 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:22:39 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:22:19 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:22:04 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:21:43 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:21:30 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:21:13 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:20:58 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:20:50 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:20:41 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:20:29 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:20:14 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:20:05 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:19:53 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:19:45 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:19:37 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:19:27 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:19:13 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:19:06 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:18:58 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:18:38 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:18:24 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:18:15 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:18:06 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:17:53 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:17:44 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:17:24 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:17:07 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:16:53 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:16:45 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:16:36 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:16:19 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:16:12 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:16:04 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:15:57 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:15:50 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:15:37 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:15:28 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:15:17 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:15:03 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:14:43 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:14:27 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:14:08 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:13:55 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:13:35 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:13:20 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:13:09 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:12:59 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:12:38 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:12:25 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:12:14 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:12:00 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:11:49 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:11:40 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:11:26 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:11:07 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:10:56 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:10:49 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 16:05:38 vespa dhclient: bound to 132.227.85.34 -- renewal in 1430 seconds.
+May 15 16:05:36 cats dhclient: DHCPACK from 132.227.84.7
+May 15 16:05:36 alien dhclient: DHCPREQUEST on eth0 to 132.227.84.7 port 67
+May 15 15:41:14 cats dhclient: bound to 132.227.100.85 -- renewal in 1775 seconds.
+May 15 15:41:14 ank-morpork dhclient: DHCPACK from 1.1.1.1
+May 15 15:41:14 cats dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 15 15:41:06 ank-morpork dhclient: bound to 132.227.85.34 -- renewal in 1470 seconds.
+May 15 15:41:06 vespa dhclient: DHCPACK from 132.227.84.7
+May 15 15:41:06 alien dhclient: DHCPREQUEST on eth0 to 132.227.84.7 port 67
+May 15 15:41:03 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:40:47 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:40:31 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:40:20 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:40:04 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:39:46 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:39:31 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:39:13 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:39:03 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:38:53 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:38:34 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:38:22 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:38:09 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:37:59 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:37:38 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:37:20 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:37:08 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:37:00 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:36:53 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:36:46 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:36:31 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:36:13 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:35:59 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:35:47 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:35:40 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:35:30 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:35:18 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:35:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:34:57 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:34:43 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:34:30 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:34:18 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:34:11 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:33:54 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:33:37 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:33:22 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:33:09 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:32:55 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:32:35 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:32:28 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:32:21 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:32:03 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:31:44 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:31:33 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:31:24 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:31:15 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:31:04 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:30:43 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:30:28 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:30:18 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:30:03 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:29:50 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:29:43 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:29:30 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:29:21 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:29:12 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:28:51 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:28:39 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:28:28 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:28:19 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:28:01 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:27:45 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:27:36 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:27:29 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:27:16 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:27:08 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:26:59 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:26:43 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:26:22 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:26:14 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:26:00 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:25:52 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:25:37 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:25:23 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:25:14 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:25:07 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:24:51 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:24:30 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:24:22 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:24:15 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:24:01 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:23:52 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:23:36 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:23:23 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:23:06 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:22:51 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:22:43 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:22:22 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:22:12 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:22:02 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:21:49 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:21:40 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:21:32 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:21:14 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:21:01 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:20:47 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:20:30 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:20:18 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:20:10 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:19:56 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:19:44 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:19:33 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:19:21 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:19:09 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:18:58 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:18:50 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:18:32 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:18:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:17:51 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:17:40 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:17:31 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:17:17 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:17:06 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:16:46 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:16:32 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:16:17 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:16:09 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:16:00 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:15:52 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:15:42 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:15:35 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:15:20 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:15:11 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:15:00 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:14:51 cats dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:14:44 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:14:23 ank-morpork dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:14:06 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:14:01 vespa dhclient: bound to 132.227.85.34 -- renewal in 1625 seconds.
+May 15 15:14:01 alien dhclient: DHCPACK from 132.227.84.7
+May 15 15:14:01 ank-morpork dhclient: DHCPREQUEST on eth0 to 132.227.84.7 port 67
+May 15 15:13:50 vespa dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:13:41 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 15:13:36 alien dhclient: DHCPREQUEST on wlan0 to 1.1.1.1 port 67
+May 15 14:48:43 ank-morpork dhclient: bound to 132.227.100.85 -- renewal in 1493 seconds.
+May 15 14:48:43 alien dhclient: DHCPACK from 1.1.1.1
+May 15 14:48:43 vespa dhclient: DHCPOFFER from 1.1.1.1
+May 15 14:48:43 ank-morpork dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 15 14:48:42 vespa dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 5
+May 15 14:48:42 vespa dhclient: Sending on   Socket/fallback
+May 15 14:48:42 vespa dhclient: Sending on   LPF/wlan0/68:5d:43:5f:46:91
+May 15 14:48:42 ank-morpork dhclient: Listening on LPF/wlan0/68:5d:43:5f:46:91
+May 15 14:48:42 cats dhclient:
+May 15 14:48:42 vespa dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 15 14:48:42 vespa dhclient: All rights reserved.
+May 15 14:48:42 cats dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 15 14:48:42 vespa dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 15 14:47:47 cats dhclient: RCV: Reply message on eth0 from fe80::a801:ff:fe00:217.
+May 15 14:47:47 vespa dhclient: XMT: Info-Request on eth0, interval 1070ms.
+May 15 14:47:46 vespa dhclient: Sending on   Socket/eth0
+May 15 14:47:46 vespa dhclient: Listening on Socket/eth0
+May 15 14:47:46 cats dhclient: Bound to *:546
+May 15 14:47:46 cats dhclient:
+May 15 14:47:46 cats dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 15 14:47:46 alien dhclient: All rights reserved.
+May 15 14:47:46 alien dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 15 14:47:46 vespa dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 15 14:47:44 alien dhclient: bound to 132.227.85.34 -- renewal in 1577 seconds.
+May 15 14:47:44 alien dhclient: DHCPACK from 132.227.84.7
+May 15 14:47:44 cats dhclient: DHCPOFFER from 132.227.84.8
+May 15 14:47:44 cats dhclient: DHCPREQUEST on eth0 to 255.255.255.255 port 67
+May 15 14:47:44 ank-morpork dhclient: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 5
+May 15 14:47:44 ank-morpork dhclient: Sending on   Socket/fallback
+May 15 14:47:44 ank-morpork dhclient: Sending on   LPF/eth0/d4:be:d9:2f:14:33
+May 15 14:47:44 ank-morpork dhclient: Listening on LPF/eth0/d4:be:d9:2f:14:33
+May 15 14:47:42 alien dhclient:
+May 15 14:47:42 cats dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 15 14:47:42 alien dhclient: All rights reserved.
+May 15 14:47:42 ank-morpork dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 15 14:47:42 cats dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 16 21:20:16 ank-morpork dhclient: bound to 192.168.1.9 -- renewal in 40323 seconds.
+May 16 21:20:16 ank-morpork dhclient: DHCPACK from 192.168.1.254
+May 16 21:20:16 cats dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 16 21:20:16 ank-morpork dhclient: Sending on   Socket/fallback
+May 16 21:20:16 alien dhclient: Sending on   LPF/wlan0/68:5d:43:5f:46:91
+May 16 21:20:16 cats dhclient: Listening on LPF/wlan0/68:5d:43:5f:46:91
+May 16 21:20:15 vespa dhclient:
+May 16 21:20:15 ank-morpork dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 16 21:20:15 ank-morpork dhclient: All rights reserved.
+May 16 21:20:15 alien dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 16 21:20:15 alien dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 16 13:14:40 vespa dhclient: receive_packet failed on usb0: Network is down
+May 16 13:06:07 vespa dhclient: bound to 192.168.42.101 -- renewal in 1603 seconds.
+May 16 13:06:07 alien dhclient: DHCPACK from 192.168.42.129
+May 16 13:06:07 alien dhclient: DHCPOFFER from 192.168.42.129
+May 16 13:06:07 ank-morpork dhclient: DHCPREQUEST on usb0 to 255.255.255.255 port 67
+May 16 13:06:04 alien dhclient: DHCPDISCOVER on usb0 to 255.255.255.255 port 67 interval 7
+May 16 13:06:04 ank-morpork dhclient: Sending on   Socket/fallback
+May 16 13:06:04 vespa dhclient: Sending on   LPF/usb0/02:66:31:38:6d:01
+May 16 13:06:04 cats dhclient: Listening on LPF/usb0/02:66:31:38:6d:01
+May 16 13:06:04 cats dhclient:
+May 16 13:06:04 alien dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 16 13:06:04 ank-morpork dhclient: All rights reserved.
+May 16 13:06:04 vespa dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 16 13:06:04 alien dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 19 18:42:09 alien dhclient: bound to 192.168.42.101 -- renewal in 1625 seconds.
+May 19 18:42:09 ank-morpork dhclient: DHCPACK from 192.168.42.129
+May 19 18:42:09 vespa dhclient: DHCPOFFER from 192.168.42.129
+May 19 18:42:09 vespa dhclient: DHCPREQUEST on usb0 to 255.255.255.255 port 67
+May 19 18:42:07 vespa dhclient: DHCPDISCOVER on usb0 to 255.255.255.255 port 67 interval 8
+May 19 18:42:07 ank-morpork dhclient: Sending on   Socket/fallback
+May 19 18:42:07 ank-morpork dhclient: Sending on   LPF/usb0/02:66:31:38:6d:01
+May 19 18:42:07 alien dhclient: Listening on LPF/usb0/02:66:31:38:6d:01
+May 19 18:42:06 ank-morpork dhclient:
+May 19 18:42:06 cats dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 19 18:42:06 cats dhclient: All rights reserved.
+May 19 18:42:06 vespa dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 19 18:42:06 alien dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 17 22:21:32 cats dhclient: bound to 192.168.1.25 -- renewal in 33263 seconds.
+May 17 22:21:32 alien dhclient: DHCPACK from 192.168.1.254
+May 17 22:21:32 cats dhclient: DHCPOFFER from 192.168.1.254
+May 17 22:21:32 vespa dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 17 22:21:30 ank-morpork dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 11
+May 17 22:21:25 ank-morpork dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 5
+May 17 11:58:46 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:58:25 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:58:11 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:57:56 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:57:46 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:57:37 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:57:27 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:57:07 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:56:57 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:56:36 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:56:24 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:56:10 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:55:56 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:55:35 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:55:24 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:55:15 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:55:02 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:54:54 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:54:47 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:54:35 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:54:25 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:54:09 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:54:01 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:53:51 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:53:44 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:53:31 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:53:18 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:53:04 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:52:49 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:52:30 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:52:22 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:52:05 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:51:48 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:51:39 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:51:27 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:51:20 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:51:00 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:50:44 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:50:37 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:50:27 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:50:11 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:50:01 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:49:41 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:49:25 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:49:12 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:49:05 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:48:56 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:48:42 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:48:28 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:48:19 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:48:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:47:58 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:47:46 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:47:30 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:47:11 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:46:53 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:46:46 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:46:36 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:46:24 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:46:17 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:46:08 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:45:53 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:45:44 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:45:24 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:45:06 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:44:58 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:44:45 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:44:35 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:44:22 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:44:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:44:03 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:43:51 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:43:35 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:43:22 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:43:14 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:42:59 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:42:49 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:42:31 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:42:10 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:41:52 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:41:32 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:41:25 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:41:05 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:40:51 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:40:37 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:40:24 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:40:10 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:39:59 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:39:38 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:39:19 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:39:03 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:38:49 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:38:38 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:38:23 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:38:07 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:37:49 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:37:39 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:37:22 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:37:10 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:37:03 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:36:54 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:36:40 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:36:28 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:36:11 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:35:50 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:35:37 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:35:26 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:35:09 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:34:57 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:34:41 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:34:20 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:34:07 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:33:51 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:33:38 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:33:25 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:33:17 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:33:05 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:32:57 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:32:44 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:32:36 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:32:21 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:32:02 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:31:44 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:31:23 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:31:11 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:31:02 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:30:48 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:30:40 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:30:20 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:30:12 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:30:02 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:29:40 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:29:26 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:29:19 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:29:08 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:28:52 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:28:31 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:28:12 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:28:02 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:27:47 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:27:31 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:27:15 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:26:59 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:26:46 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:26:38 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:26:21 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:26:06 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:25:58 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:25:41 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:25:22 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:25:05 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:24:44 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:24:23 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:24:04 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:23:55 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:23:47 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:23:35 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:23:27 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:23:19 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:23:11 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:22:52 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:22:38 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:22:28 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:22:09 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:21:51 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:21:30 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:21:17 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:21:06 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:20:46 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:20:32 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:20:11 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:19:59 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:19:39 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:19:19 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:19:04 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:18:55 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:18:46 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:18:26 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:18:12 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:18:02 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:17:43 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:17:33 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:17:26 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:17:19 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:17:08 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:16:47 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:16:34 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:16:21 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:16:09 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:15:58 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:15:43 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:15:27 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:15:16 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:15:00 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:14:46 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:14:34 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:14:14 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:13:59 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:13:51 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:13:41 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:13:22 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:13:01 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:12:49 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:12:31 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:12:18 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:12:03 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:11:49 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:11:29 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:11:08 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:10:54 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:10:40 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:10:20 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:10:03 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:09:45 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:09:31 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:09:12 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:08:51 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:08:39 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:08:23 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:08:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:08:00 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:07:47 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:07:26 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:07:15 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:07:02 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:06:47 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:06:39 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:06:30 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:06:17 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:06:02 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:05:53 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:05:33 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:05:19 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:05:05 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:04:55 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:04:38 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:04:21 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:04:01 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:03:43 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:03:29 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:03:21 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:03:08 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:02:55 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:02:34 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:02:15 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:01:54 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:01:37 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:01:18 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:01:01 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:00:45 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:00:35 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:00:20 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 11:00:01 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:59:41 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:59:24 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:59:11 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:58:58 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:58:42 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:58:22 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:58:08 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:57:59 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:57:47 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:57:35 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:57:19 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:57:06 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:56:56 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:56:42 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:56:35 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:56:16 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:55:57 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:55:42 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:55:32 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:55:24 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:55:13 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:55:02 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:54:51 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:54:43 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:54:32 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:54:21 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:54:11 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:53:57 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:53:48 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:53:28 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:53:07 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:52:56 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:52:42 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:52:25 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:52:09 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:51:54 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:51:47 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:51:35 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:51:24 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:51:15 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:51:08 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:50:50 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:50:31 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:50:12 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:49:59 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:49:48 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:49:38 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:49:20 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:49:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:48:51 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:48:40 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:48:27 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:48:12 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:48:05 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:47:52 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:47:42 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:47:26 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:47:09 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:46:53 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:46:32 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:46:18 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:46:11 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:45:56 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:45:36 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:45:22 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:45:07 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:44:51 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:44:35 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:44:22 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:44:13 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:44:02 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:43:48 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:43:27 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:43:16 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:43:02 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:42:44 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:42:28 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:42:07 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:41:52 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:41:36 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:41:27 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:41:06 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:40:48 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:40:33 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:40:20 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:40:06 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:39:45 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:39:25 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:39:11 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:38:51 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:38:31 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:38:20 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:38:03 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:37:42 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:37:31 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:37:19 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:36:58 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:36:51 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:36:36 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:36:22 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:36:06 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:35:47 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:35:27 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:35:13 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:35:04 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:34:49 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:34:33 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:34:17 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:33:57 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:33:41 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:33:27 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:33:16 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:33:07 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:32:59 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:32:48 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:32:32 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:32:23 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:32:14 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:31:55 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:31:45 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:31:31 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:31:21 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:31:06 ank-morpork dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:30:52 alien dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:30:37 cats dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 17 10:30:29 vespa dhclient: DHCPREQUEST on wlan0 to 192.168.1.254 port 67
+May 20 17:36:48 cats dhclient: bound to 192.168.1.25 -- renewal in 32472 seconds.
+May 20 17:36:48 vespa dhclient: DHCPACK from 192.168.1.254
+May 20 17:36:48 alien dhclient: DHCPOFFER from 192.168.1.254
+May 20 17:36:48 vespa dhclient: DHCPREQUEST on wlan0 to 255.255.255.255 port 67
+May 20 17:36:46 cats dhclient: DHCPDISCOVER on wlan0 to 255.255.255.255 port 67 interval 7
+May 20 17:36:46 ank-morpork dhclient: Sending on   Socket/fallback
+May 20 17:36:46 alien dhclient: Sending on   LPF/wlan0/68:5d:43:5f:46:91
+May 20 17:36:46 ank-morpork dhclient: Listening on LPF/wlan0/68:5d:43:5f:46:91
+May 20 17:36:45 ank-morpork dhclient:
+May 20 17:36:45 ank-morpork dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 20 17:36:45 vespa dhclient: All rights reserved.
+May 20 17:36:45 vespa dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 20 17:36:45 cats dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 19 22:04:18 vespa dhclient: receive_packet failed on usb0: Network is down
+May 19 21:53:13 ank-morpork dhclient: bound to 192.168.42.101 -- renewal in 1784 seconds.
+May 19 21:53:13 alien dhclient: DHCPACK from 192.168.42.129
+May 19 21:53:12 vespa dhclient: DHCPOFFER from 192.168.42.129
+May 19 21:53:12 ank-morpork dhclient: DHCPREQUEST on usb0 to 255.255.255.255 port 67
+May 19 21:53:10 cats dhclient: DHCPDISCOVER on usb0 to 255.255.255.255 port 67 interval 7
+May 19 21:53:10 ank-morpork dhclient: Sending on   Socket/fallback
+May 19 21:53:10 cats dhclient: Sending on   LPF/usb0/02:66:31:38:6d:01
+May 19 21:53:10 vespa dhclient: Listening on LPF/usb0/02:66:31:38:6d:01
+May 19 21:53:10 vespa dhclient:
+May 19 21:53:10 ank-morpork dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 19 21:53:10 cats dhclient: All rights reserved.
+May 19 21:53:10 cats dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 19 21:53:10 ank-morpork dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 19 19:22:58 vespa dhclient: receive_packet failed on usb0: Network is down
+May 19 19:22:56 alien dhclient: bound to 192.168.42.101 -- renewal in 1483 seconds.
+May 19 19:22:56 alien dhclient: DHCPACK from 192.168.42.129
+May 19 19:22:56 vespa dhclient: DHCPOFFER from 192.168.42.129
+May 19 19:22:56 ank-morpork dhclient: DHCPREQUEST on usb0 to 255.255.255.255 port 67
+May 19 19:22:56 ank-morpork dhclient: DHCPDISCOVER on usb0 to 255.255.255.255 port 67 interval 4
+May 19 19:22:56 ank-morpork dhclient: Sending on   Socket/fallback
+May 19 19:22:56 cats dhclient: Sending on   LPF/usb0/02:66:31:38:6d:01
+May 19 19:22:56 cats dhclient: Listening on LPF/usb0/02:66:31:38:6d:01
+May 19 19:22:56 alien dhclient:
+May 19 19:22:56 alien dhclient: For info, please visit https://www.isc.org/software/dhcp/
+May 19 19:22:56 vespa dhclient: All rights reserved.
+May 19 19:22:56 alien dhclient: Copyright 2004-2012 Internet Systems Consortium.
+May 19 19:22:56 vespa dhclient: Internet Systems Consortium DHCP Client 4.2.4
+May 19 19:22:55 alien dhclient: receive_packet failed on usb0: Network is down
+May 19 19:09:14 vespa dhclient: bound to 192.168.42.101 -- renewal in 1626 seconds.
+May 19 19:09:14 ank-morpork dhclient: DHCPACK from 192.168.42.129
+May 19 19:09:14 cats dhclient: DHCPREQUEST on usb0 to 192.168.42.129 port 67

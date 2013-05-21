@@ -1,0 +1,43 @@
+#!/usr/bin/perl -l
+use strict;
+use warnings;
+use IO::Socket;
+
+my $host = shift || "localhost";
+my $port = shift || "8888";
+
+my $mysock = IO::Socket::INET -> new (Proto => "tcp",
+	PeerAddr => "$host:$port")
+or die "Ne peut pas me connecter a $host:$port: $!";
+
+my $command = undef;
+my $reponse = undef;
+$reponse = <$mysock>;
+print $reponse;
+
+# traitement username
+$command = <stdin>;
+chomp $command;
+print $mysock $command;
+# réponse serveur
+$reponse = <$mysock>;
+print $reponse;
+
+
+while (1) {
+	printf "? ";
+	$command = <stdin>;
+	chomp $command;
+	if($command=~m/^(join)|(create)|(quit)|(list)|(\d+,\d+)/i){
+		print $mysock $command;
+
+		while (1) {
+			$reponse = <$mysock>;
+			chomp $reponse;
+			print $reponse;
+			last if $reponse =~ /^(OK)|(BAD_USER)$/i;
+		}
+	}else{
+		print "UNKNOWN COMMAND";
+	}
+}

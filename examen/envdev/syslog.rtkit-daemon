@@ -1,0 +1,145 @@
+May 15 21:21:41 vespa rtkit-daemon[5333]: Supervising 11 threads of 3 processes of 2 users.
+May 15 21:21:41 vespa rtkit-daemon[5333]: Successfully made thread 5525 of process 5525 (/usr/bin/pulseaudio) owned by 'croute' high priority at nice level -11.
+May 15 21:21:38 vespa rtkit-daemon[5333]: Supervising 10 threads of 2 processes of 2 users.
+May 15 21:21:38 ank-morpork rtkit-daemon[5333]: Successfully made thread 5478 of process 5471 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 15 21:21:38 cats rtkit-daemon[5333]: Supervising 9 threads of 2 processes of 2 users.
+May 15 21:21:38 ank-morpork rtkit-daemon[5333]: Successfully made thread 5477 of process 5471 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 15 21:21:38 vespa rtkit-daemon[5333]: Supervising 8 threads of 2 processes of 2 users.
+May 15 21:21:38 alien rtkit-daemon[5333]: Successfully made thread 5476 of process 5471 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 15 21:21:38 vespa rtkit-daemon[5333]: Supervising 7 threads of 2 processes of 2 users.
+May 15 21:21:38 alien rtkit-daemon[5333]: Successfully made thread 5475 of process 5471 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 15 21:21:37 cats rtkit-daemon[5333]: Supervising 6 threads of 2 processes of 2 users.
+May 15 21:21:37 alien rtkit-daemon[5333]: Successfully made thread 5471 of process 5471 (/usr/bin/pulseaudio) owned by 'croute' high priority at nice level -11.
+May 15 21:21:28 ank-morpork rtkit-daemon[5333]: Supervising 5 threads of 1 processes of 1 users.
+May 15 21:21:28 vespa rtkit-daemon[5333]: Successfully made thread 5349 of process 5331 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 15 21:21:28 cats rtkit-daemon[5333]: Supervising 4 threads of 1 processes of 1 users.
+May 15 21:21:28 vespa rtkit-daemon[5333]: Successfully made thread 5348 of process 5331 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 15 21:21:27 vespa rtkit-daemon[5333]: Supervising 3 threads of 1 processes of 1 users.
+May 15 21:21:27 cats rtkit-daemon[5333]: Successfully made thread 5347 of process 5331 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 15 21:21:27 cats rtkit-daemon[5333]: Supervising 2 threads of 1 processes of 1 users.
+May 15 21:21:27 vespa rtkit-daemon[5333]: Successfully made thread 5346 of process 5331 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 15 21:21:26 ank-morpork rtkit-daemon[5333]: Supervising 1 threads of 1 processes of 1 users.
+May 15 21:21:26 cats rtkit-daemon[5333]: Successfully made thread 5331 of process 5331 (/usr/bin/pulseaudio) owned by 'Debian-gdm' high priority at nice level -11.
+May 15 21:21:26 cats rtkit-daemon[5333]: Watchdog thread running.
+May 15 21:21:26 alien rtkit-daemon[5333]: Canary thread running.
+May 15 21:21:26 alien rtkit-daemon[5333]: Running.
+May 15 21:21:26 cats rtkit-daemon[5333]: Successfully limited resources.
+May 15 21:21:26 alien rtkit-daemon[5333]: Successfully dropped privileges.
+May 15 21:21:26 alien rtkit-daemon[5333]: Successfully called chroot.
+May 15 17:07:19 cats rtkit-daemon[5260]: Demoted 5 threads.
+May 15 17:07:19 cats rtkit-daemon[5260]: Successfully demoted thread 5396 of process 5396 (/usr/bin/pulseaudio).
+May 15 17:07:19 alien rtkit-daemon[5260]: Successfully demoted thread 5397 of process 5396 (/usr/bin/pulseaudio).
+May 15 17:07:19 cats rtkit-daemon[5260]: Successfully demoted thread 5398 of process 5396 (/usr/bin/pulseaudio).
+May 15 17:07:19 cats rtkit-daemon[5260]: Successfully demoted thread 5399 of process 5396 (/usr/bin/pulseaudio).
+May 15 17:07:19 cats rtkit-daemon[5260]: Successfully demoted thread 5400 of process 5396 (/usr/bin/pulseaudio).
+May 15 17:07:19 cats rtkit-daemon[5260]: Demoting known real-time threads.
+May 15 17:07:19 alien rtkit-daemon[5260]: The canary thread is apparently starving. Taking action.
+May 15 14:47:34 alien rtkit-daemon[5260]: Demoted 5 threads.
+May 15 14:47:34 vespa rtkit-daemon[5260]: Successfully demoted thread 5396 of process 5396 (/usr/bin/pulseaudio).
+May 15 14:47:34 vespa rtkit-daemon[5260]: Successfully demoted thread 5397 of process 5396 (/usr/bin/pulseaudio).
+May 15 14:47:34 ank-morpork rtkit-daemon[5260]: Successfully demoted thread 5398 of process 5396 (/usr/bin/pulseaudio).
+May 15 14:47:34 vespa rtkit-daemon[5260]: Successfully demoted thread 5399 of process 5396 (/usr/bin/pulseaudio).
+May 15 14:47:34 cats rtkit-daemon[5260]: Successfully demoted thread 5400 of process 5396 (/usr/bin/pulseaudio).
+May 15 14:47:34 vespa rtkit-daemon[5260]: Demoting known real-time threads.
+May 15 14:47:34 alien rtkit-daemon[5260]: The canary thread is apparently starving. Taking action.
+May 15 08:54:31 ank-morpork rtkit-daemon[5260]: Demoted 5 threads.
+May 15 08:54:31 ank-morpork rtkit-daemon[5260]: Successfully demoted thread 5396 of process 5396 (/usr/bin/pulseaudio).
+May 15 08:54:31 cats rtkit-daemon[5260]: Successfully demoted thread 5397 of process 5396 (/usr/bin/pulseaudio).
+May 15 08:54:31 alien rtkit-daemon[5260]: Successfully demoted thread 5398 of process 5396 (/usr/bin/pulseaudio).
+May 15 08:54:31 ank-morpork rtkit-daemon[5260]: Successfully demoted thread 5399 of process 5396 (/usr/bin/pulseaudio).
+May 15 08:54:31 cats rtkit-daemon[5260]: Successfully demoted thread 5400 of process 5396 (/usr/bin/pulseaudio).
+May 15 08:54:31 cats rtkit-daemon[5260]: Demoting known real-time threads.
+May 15 08:54:30 cats rtkit-daemon[5260]: The canary thread is apparently starving. Taking action.
+May 17 08:48:42 vespa rtkit-daemon[5333]: Demoted 5 threads.
+May 17 08:48:42 vespa rtkit-daemon[5333]: Successfully demoted thread 9797 of process 9797 (/usr/bin/pulseaudio).
+May 17 08:48:42 cats rtkit-daemon[5333]: Successfully demoted thread 9813 of process 9797 (/usr/bin/pulseaudio).
+May 17 08:48:42 cats rtkit-daemon[5333]: Successfully demoted thread 9814 of process 9797 (/usr/bin/pulseaudio).
+May 17 08:48:42 cats rtkit-daemon[5333]: Successfully demoted thread 9816 of process 9797 (/usr/bin/pulseaudio).
+May 17 08:48:42 alien rtkit-daemon[5333]: Successfully demoted thread 9817 of process 9797 (/usr/bin/pulseaudio).
+May 17 08:48:42 cats rtkit-daemon[5333]: Demoting known real-time threads.
+May 17 08:48:41 cats rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.
+May 16 21:20:09 alien rtkit-daemon[5333]: Demoted 5 threads.
+May 16 21:20:09 alien rtkit-daemon[5333]: Successfully demoted thread 9797 of process 9797 (/usr/bin/pulseaudio).
+May 16 21:20:09 cats rtkit-daemon[5333]: Successfully demoted thread 9813 of process 9797 (/usr/bin/pulseaudio).
+May 16 21:20:09 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 9814 of process 9797 (/usr/bin/pulseaudio).
+May 16 21:20:09 cats rtkit-daemon[5333]: Successfully demoted thread 9816 of process 9797 (/usr/bin/pulseaudio).
+May 16 21:20:09 alien rtkit-daemon[5333]: Successfully demoted thread 9817 of process 9797 (/usr/bin/pulseaudio).
+May 16 21:20:09 ank-morpork rtkit-daemon[5333]: Demoting known real-time threads.
+May 16 21:20:09 alien rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.
+May 16 09:15:05 cats rtkit-daemon[5333]: Supervising 11 threads of 3 processes of 2 users.
+May 16 09:15:05 cats rtkit-daemon[5333]: Successfully made thread 10108 of process 10108 (/usr/bin/pulseaudio) owned by 'croute' high priority at nice level -11.
+May 16 09:14:57 alien rtkit-daemon[5333]: Supervising 10 threads of 2 processes of 2 users.
+May 16 09:14:57 cats rtkit-daemon[5333]: Successfully made thread 9942 of process 9928 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 16 09:14:57 vespa rtkit-daemon[5333]: Supervising 9 threads of 2 processes of 2 users.
+May 16 09:14:57 ank-morpork rtkit-daemon[5333]: Successfully made thread 9941 of process 9928 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 16 09:14:57 cats rtkit-daemon[5333]: Supervising 8 threads of 2 processes of 2 users.
+May 16 09:14:57 ank-morpork rtkit-daemon[5333]: Successfully made thread 9940 of process 9928 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 16 09:14:56 alien rtkit-daemon[5333]: Supervising 7 threads of 2 processes of 2 users.
+May 16 09:14:56 vespa rtkit-daemon[5333]: Successfully made thread 9939 of process 9928 (/usr/bin/pulseaudio) owned by 'Debian-gdm' RT at priority 5.
+May 16 09:14:56 vespa rtkit-daemon[5333]: Supervising 6 threads of 2 processes of 2 users.
+May 16 09:14:56 ank-morpork rtkit-daemon[5333]: Successfully made thread 9928 of process 9928 (/usr/bin/pulseaudio) owned by 'Debian-gdm' high priority at nice level -11.
+May 16 09:14:11 alien rtkit-daemon[5333]: Supervising 5 threads of 1 processes of 1 users.
+May 16 09:14:11 vespa rtkit-daemon[5333]: Successfully made thread 9817 of process 9797 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 16 09:14:11 ank-morpork rtkit-daemon[5333]: Supervising 4 threads of 1 processes of 1 users.
+May 16 09:14:11 ank-morpork rtkit-daemon[5333]: Successfully made thread 9816 of process 9797 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 16 09:14:11 ank-morpork rtkit-daemon[5333]: Supervising 3 threads of 1 processes of 1 users.
+May 16 09:14:11 alien rtkit-daemon[5333]: Successfully made thread 9814 of process 9797 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 16 09:14:10 cats rtkit-daemon[5333]: Supervising 2 threads of 1 processes of 1 users.
+May 16 09:14:10 ank-morpork rtkit-daemon[5333]: Successfully made thread 9813 of process 9797 (/usr/bin/pulseaudio) owned by 'croute' RT at priority 5.
+May 16 09:14:08 ank-morpork rtkit-daemon[5333]: Supervising 2 threads of 2 processes of 1 users.
+May 16 09:14:08 cats rtkit-daemon[5333]: Successfully made thread 9804 of process 9804 (/usr/bin/pulseaudio) owned by 'croute' high priority at nice level -11.
+May 16 09:14:08 alien rtkit-daemon[5333]: Supervising 2 threads of 2 processes of 1 users.
+May 16 09:14:08 cats rtkit-daemon[5333]: Successfully made thread 9802 of process 9802 (/usr/bin/pulseaudio) owned by 'croute' high priority at nice level -11.
+May 16 09:14:08 cats rtkit-daemon[5333]: Supervising 1 threads of 1 processes of 1 users.
+May 16 09:14:08 cats rtkit-daemon[5333]: Successfully made thread 9797 of process 9797 (/usr/bin/pulseaudio) owned by 'croute' high priority at nice level -11.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 vespa rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 ank-morpork rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 vespa rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 vespa rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:11:54 alien rtkit-daemon[5333]: Recovering from system lockup, not allowing further RT threads.
+May 16 09:08:44 vespa rtkit-daemon[5333]: Demoted 5 threads.
+May 16 09:08:44 cats rtkit-daemon[5333]: Successfully demoted thread 5471 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:08:44 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 5475 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:08:44 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 5476 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:08:44 cats rtkit-daemon[5333]: Successfully demoted thread 5477 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:08:44 alien rtkit-daemon[5333]: Successfully demoted thread 5478 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:08:44 alien rtkit-daemon[5333]: Demoting known real-time threads.
+May 16 09:08:44 ank-morpork rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.
+May 16 09:01:07 cats rtkit-daemon[5333]: Demoted 5 threads.
+May 16 09:01:07 cats rtkit-daemon[5333]: Successfully demoted thread 5471 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:01:07 alien rtkit-daemon[5333]: Successfully demoted thread 5475 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:01:07 cats rtkit-daemon[5333]: Successfully demoted thread 5476 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:01:07 cats rtkit-daemon[5333]: Successfully demoted thread 5477 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:01:07 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 5478 of process 5471 (/usr/bin/pulseaudio).
+May 16 09:01:07 ank-morpork rtkit-daemon[5333]: Demoting known real-time threads.
+May 16 09:01:07 cats rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.
+May 19 18:41:37 vespa rtkit-daemon[5333]: Demoted 5 threads.
+May 19 18:41:37 alien rtkit-daemon[5333]: Successfully demoted thread 9797 of process 9797 (/usr/bin/pulseaudio).
+May 19 18:41:37 alien rtkit-daemon[5333]: Successfully demoted thread 9813 of process 9797 (/usr/bin/pulseaudio).
+May 19 18:41:37 cats rtkit-daemon[5333]: Successfully demoted thread 9814 of process 9797 (/usr/bin/pulseaudio).
+May 19 18:41:37 cats rtkit-daemon[5333]: Successfully demoted thread 9816 of process 9797 (/usr/bin/pulseaudio).
+May 19 18:41:37 vespa rtkit-daemon[5333]: Successfully demoted thread 9817 of process 9797 (/usr/bin/pulseaudio).
+May 19 18:41:37 ank-morpork rtkit-daemon[5333]: Demoting known real-time threads.
+May 19 18:41:37 cats rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.
+May 17 22:21:18 alien rtkit-daemon[5333]: Demoted 5 threads.
+May 17 22:21:18 vespa rtkit-daemon[5333]: Successfully demoted thread 9797 of process 9797 (/usr/bin/pulseaudio).
+May 17 22:21:18 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 9813 of process 9797 (/usr/bin/pulseaudio).
+May 17 22:21:18 alien rtkit-daemon[5333]: Successfully demoted thread 9814 of process 9797 (/usr/bin/pulseaudio).
+May 17 22:21:18 vespa rtkit-daemon[5333]: Successfully demoted thread 9816 of process 9797 (/usr/bin/pulseaudio).
+May 17 22:21:18 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 9817 of process 9797 (/usr/bin/pulseaudio).
+May 17 22:21:18 alien rtkit-daemon[5333]: Demoting known real-time threads.
+May 17 22:21:18 cats rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.
+May 20 17:36:40 vespa rtkit-daemon[5333]: Demoted 5 threads.
+May 20 17:36:40 vespa rtkit-daemon[5333]: Successfully demoted thread 9797 of process 9797 (/usr/bin/pulseaudio).
+May 20 17:36:40 alien rtkit-daemon[5333]: Successfully demoted thread 9813 of process 9797 (/usr/bin/pulseaudio).
+May 20 17:36:40 alien rtkit-daemon[5333]: Successfully demoted thread 9814 of process 9797 (/usr/bin/pulseaudio).
+May 20 17:36:40 vespa rtkit-daemon[5333]: Successfully demoted thread 9816 of process 9797 (/usr/bin/pulseaudio).
+May 20 17:36:40 ank-morpork rtkit-daemon[5333]: Successfully demoted thread 9817 of process 9797 (/usr/bin/pulseaudio).
+May 20 17:36:40 alien rtkit-daemon[5333]: Demoting known real-time threads.
+May 20 17:36:40 ank-morpork rtkit-daemon[5333]: The canary thread is apparently starving. Taking action.

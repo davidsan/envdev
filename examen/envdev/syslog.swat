@@ -1,0 +1,2 @@
+May 15 22:59:53 vespa swat[6881]: connect from unknown (unknown)
+May 15 22:59:53 ank-morpork swat[6881]: warning: can't get client address: Connection reset by peer

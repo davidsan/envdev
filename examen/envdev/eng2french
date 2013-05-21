@@ -1,0 +1,8 @@
+#!/usr/bin/perl -wnl
+
+$_=~m/^(\S+\s+\S+\s+\S+)(\s+.+)/;
+
+$date=`date --date="$1"`;
+chomp($date);
+
+print $date, $2;

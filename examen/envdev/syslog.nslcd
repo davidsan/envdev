@@ -1,0 +1,4 @@
+May 15 21:21:03 alien nslcd[3830]: accepting connections
+May 15 21:21:03 ank-morpork nslcd[3830]: version 0.8.13 starting
+May 15 21:20:15 ank-morpork nslcd[3807]: version 0.8.13 bailing out
+May 15 21:20:15 alien nslcd[3807]: caught signal SIGTERM (15), shutting down
