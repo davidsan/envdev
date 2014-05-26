@@ -1,8 +1,9 @@
 #! /usr/bin/perl -nl
-
+use strict;
+use warnings;
 BEGIN{
-	$t=0; # torchons
-	$s=0; # serviettes
+	my $t=0; # torchons
+	my $s=0; # serviettes
 }
 
 if ($_ =~ /^torchon$/){

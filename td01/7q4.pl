@@ -1,22 +1,31 @@
-#! /usr/bin/perl -s
+#! /usr/bin/perl -snl
 
-#use strict;
-#use warnings;    
-my $res=0;
-if ($c){
-    while(<>){
+#use warnings;
 
-	$res+=length;
-    }
+BEGIN{
+	$words=0;
+	$chars=0;
+	$lines=0;
 }
-if ($w){
-    while(<>){
-	$res+=split;
-    }
+$words+=scalar (split /\s/);
+$chars+=scalar (split //);
+$lines++;
+
+END{
+	if($w == 1)
+	{
+		print $words;
+	}
+	elsif($c == 1)
+	{
+		print $chars;
+	}
+	elsif($l == 1)
+	{
+		print $lines;
+	}
+	else
+	{
+		print "$lines\t$words\t$chars";
+	}
 }
-if ($l){
-    while(<>){	
-	$res+=1;
-    }
-}
-print $res;

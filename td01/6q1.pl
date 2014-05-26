@@ -1,24 +1,17 @@
-#! /usr/bin/perl
+#! /usr/bin/perl -nl
 
-use strict;
-use warnings;
-
-my $s=0;
-my $t=0;
-my @userinput=<STDIN>;
-
-foreach (@userinput){
-    chomp;
-    if ($_ eq 'serviette'){
-	$s+=1;
-    }elsif($_ eq 'torchon'){
-	$t+=1;
-    }else{
-	print "error"
-    }
+BEGIN{
+	$t=0; # torchons
+	$s=0; # serviettes
 }
-print "\n";
-print "$s serviette(s)\n";
-print "$t torchon(s)\n"
 
+if ($_ =~ /^torchon$/){
+	$t++;
+}elsif ($_ =~/^serviette$/){
+	$s++;
+}
 
+END{
+	print "torchons : ", $t;
+	print "serviettes : ", $s;
+}

@@ -3,7 +3,7 @@ use warnings;
 BEGIN{
 	my $count=0;
 }
-$count++ if length > 80;
+$count++;
 END{
 	print $count;
 }

@@ -1,21 +1,20 @@
-#! /usr/bin/perl -l
+#! /usr/bin/perl
 
+use strict;
+use warnings;
+my ($fn, $fh, $l, $acc, @fortunes);
 
-#use strict;
-use diagnostics;
-diagnostics::enable;
-
-my $f;
-my @fortune;
-$/="%";
-foreach $f (@ARGV){
-    open F, $f;
-    while (<F>){
-	$_=~ s/%//;
-	$fortune[$.]=$_;
-
-    }
-    close F;
+foreach $fn (@ARGV){
+	open $fh, $fn or die "error";
+	while($l=<$fh>){
+		if($l=~/^%$/){
+			push @fortunes, $acc;
+			$acc="";
+		}else{
+			$acc.=$l;
+		}
+	}
 }
 
-print $fortune[rand(@fortune-1)+1];
+print $fortunes[int(rand(@fortunes))];
+

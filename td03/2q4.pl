@@ -1,13 +1,16 @@
 #! /usr/bin/perl -nl
 
-@matches = $_ =~/<a href="([^"]+)">/g;
+use warnings;
 
-foreach (@matches){
-    $hash{$_}++;
+BEGIN{
+	my %hash=();
+}
+while ($_ =~ m/href="([^"]*)"/g){
+	$hash{$1}++;
 }
 
-
 END{
-    print "$_ $hash{$_}" foreach keys %hash;
-
+	foreach (keys %hash){
+		print $_, " : ", $hash{$_};
+	}
 }

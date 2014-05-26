@@ -1,0 +1,390 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- saved from url=(0095)https://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2011/ue/LI362-2012fev/private/sujet.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+<title>Environnement de développement 
+LI362 
+ Examen 
+Durée: 3 heures
+
+</title>
+
+
+<meta name="GENERATOR" content="hevea 1.10">
+<style type="text/css">
+.li-itemize{margin:1ex 0ex;}
+.title{margin:2ex auto;text-align:center}
+DIV TABLE{margin-left:inherit;margin-right:inherit;}
+PRE{text-align:left;margin-left:0ex;margin-right:auto;}
+BLOCKQUOTE{margin-left:4ex;margin-right:4ex;text-align:left;}
+TD P{margin:0px;}
+.lstlisting{font-family:monospace;white-space:pre;margin-right:auto;margin-left:0pt;text-align:left}
+.lstlisting{color: black;
+background-color: #B7FFCB;
+border: solid 1px #3b3b3b;
+padding: 5px;
+}
+CODE{color: blue;
+}
+TT{color: blue;
+}
+</style>
+<link rel="STYLESHEET" type="text/css" href="./sujet_files/licence2008.css">
+</head>
+<body>
+<!--HEVEA command line is: hevea -I /usr/local/lib/hevea -fix -v -O sujet.tex -->
+<!--CUT DEF section 1 --><div class="PageBody">
+<table class="title"><tbody><tr><td><h1 class="titlemain">Environnement de développement<br>
+LI362<br>
+ Examen<br>
+Durée: 3 heures
+</h1><h3 class="titlerest">Philippe Trébuchet</h3><h3 class="titlerest">19 juin 2012</h3></td></tr>
+</tbody></table><p>
+
+<img src="./sujet_files/UPMC.jpg" width="125">
+
+
+</p><!--TOC section Conditions générales-->
+<h2 class="section"><!--SEC ANCHOR -->Conditions générales</h2><!--SEC END --><!--TOC paragraph Documents autorisés-->
+<h5 class="paragraph"><!--SEC ANCHOR -->Documents autorisés</h5><!--SEC END --><p>Tous les documents sont autorisés. L&#8217;usage des clefs USB en lecture
+seule est autorisé.</p><!--TOC paragraph Traitement général du sujet-->
+<h5 class="paragraph"><!--SEC ANCHOR -->Traitement général du sujet</h5><!--SEC END --><p>Cet examen est constitué 
+de trois exercices indépendants 
+comportant plusieurs questions auxquelles vous pouvez répondre dans
+l&#8217;ordre qui vous plaît. Cet examen mesure à la fois vos capacités 
+programmatiques et vos capacités de compréhension des spécifications.</p><p>Vous pouvez utiliser tout langage de script (ne nécessitant donc
+aucune phase indépendante de compilation) à votre convenance à
+condition que les spécifications et les résultats soient corrects.</p><p>Parmi les utilitaires Unix qui peuvent être employés à bon escient
+dans cet examen, citons <tt>bash</tt>, <tt>test</tt>, 
+<tt>sort</tt>, 
+<tt>grep</tt>, <tt>sed</tt>, <tt>wc</tt>, 
+<tt>tar</tt>,
+<tt>gzip</tt>, <tt>mktemp</tt>.</p><p>Comme l&#8217;indique le barème, certaines questions sont difficiles.
+Pensez d&#8217;abord à traiter les questions faciles puis correctement les
+cas simples des questions difficiles plutôt que de vous acharner à
+traiter tous les cas particuliers.</p><!--TOC paragraph Fichiers à rendre-->
+<h5 class="paragraph"><!--SEC ANCHOR -->Fichiers à rendre</h5><!--SEC END --><p>Tous les fichiers ou programmes que vous aurez à construire doivent
+être placés dans un répertoire nommé <tt>envdev</tt> placé à la racine
+de votre répertoire personnel (le nom est <tt>envdev</tt>, pas
+<tt>EnvDev</tt> ni <tt>envde</tt>!). Le répertoire personnel est indiqué
+par la valeur de la variable d&#8217;environnement <em>HOME</em>.</p><p>Le contenu du répertoire <tt>envdev</tt> (et seulement celui-là) sera
+récupéré par l&#8217;équipe système de l&#8217;ARI-CCE dans vos <em>HOME</em> à
+l&#8217;issue de l&#8217;épreuve.</p><p>Les scripts que vous aurez à écrire ne doivent pas dépendre du
+répertoire où ils sont placés; ils ne doivent pas contenir de
+référence à des chemins absolus et doivent pouvoir être exécutés sans
+problème depuis tout répertoire nommé <tt>envdev</tt>. On supposera
+que le répertoire <tt>envdev</tt> figure dans <code>PATH</code> et
+c&#8217;est d&#8217;ailleurs ce que vous ferez pour simplifier vos tests. Les
+fichiers de données ne sont pas nécessairement placés dans le
+répertoire <tt>envdev</tt>.</p><p>Aucun de vos scripts ne doit prendre plus de 10 secondes de CPU pour
+s&#8217;exécuter, ni produire, sur l&#8217;un quelconque de ses flux de sortie,
+plus de 50&nbsp;000 octets de plus que la taille du flux d&#8217;entrée ou du
+fichier à traiter.
+</p><p>Lorsque cela est demandé, les scripts signaleront les erreurs avec un
+code de retour différent de zéro, les messages d&#8217;erreur seront
+produits sur le flux d&#8217;erreur standard. Inversement, les scripts
+signaleront leur bon achèvement par un code de retour égal à zéro.</p><p>Un shell script s&#8217;édite, sous Emacs, en mode <em>shell-script</em>, ce que
+l&#8217;on peut obtenir en forçant le mode avec
+<tt>M-x shell-script-mode</tt>.</p><p>Un perl script s&#8217;édite, sous Emacs, en mode <em>perl</em>, ce que
+l&#8217;on peut obtenir en forçant le mode avec
+<tt>M-x perl-mode</tt>.</p><!--TOC paragraph Mode de correction-->
+<h5 class="paragraph"><!--SEC ANCHOR -->Mode de correction</h5><!--SEC END --><p>Cette épreuve ne sera pas corrigée 
+automatiquement.
+</p><p>Faites très <b>attention aux noms des fichiers</b> et exécutables
+demandés ainsi qu&#8217;au nom des répertoires où vous devez les laisser.
+Vous attacherez un soin particulier au <b>test</b> de vos programmes
+et il est beaucoup, <font size="4">beaucoup</font>, <font size="5">beaucoup</font>, <font size="5">beaucoup</font>, <font size="6">beaucoup</font> plus important d&#8217;avoir quelques
+programmes qui fonctionnent qu&#8217;avoir touché à tout sans que rien ne
+fonctionne.</p><p>Le barème est indicatif et correspond à un total de 23.</p><!--TOC section Remise des copies-->
+<h2 class="section"><!--SEC ANCHOR --><a name="htoc1">1</a>&nbsp;&nbsp;Remise des copies</h2><!--SEC END --><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 1
+<br>
+</b></font></p><p>Écrire un script <code>num2nom</code> prenant sur sa ligne de commande
+numéro d&#8217;étudiant et un
+nom de fichier <code>csv</code> au format suivant :
+</p><div class="lstlisting">  num_ufr     num_etu NOM (PRENOM )+    EMAIL</div><p>Nous attirons votre attention sur le fait qu&#8217;il y a au moins un prénom
+mais qu&#8217;il peut y en avoir plus!</p><p><code>num2nom</code> rendra le nom et le(s) prénom(s) associés au nom.
+</p><div class="lstlisting">      <b>% num2nom 2900332 li362inscrit.xls</b>
+  CHAILLOUX       MATHIEU</div><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier exécutable <code>num2nom</code>
+</li></ul><p><b>Notation sur 1 point</b></p><ul class="itemize"><li class="li-itemize">
+1 point si votre script a le comportement défini précédemment sur un
+jeu significatif d&#8217;exemples.
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 2
+<br>
+</b></font>
+Écrire un script <code>mymime</code> prenant sur sa ligne de commande un
+nom de fichier ou, si rien n&#8217;est donné sur la ligne de commande,
+lisant sur son entrÉe standard un contenu et rendant sur sa sortie
+standard ce fichier <code>mmencodé</code>. Pour ce faire on procèdera
+ainsi et dans cet ordre :
+</p><ul class="itemize"><li class="li-itemize">
+on lira en une fois tout le fichier.
+</li><li class="li-itemize">en utilisant le format <code>u</code> de <code>pack</code> on uuencodera
+le contenu du fichier.
+</li><li class="li-itemize">On supprimera le premier caractère de chaque ligne.
+</li><li class="li-itemize">On remplacera les <code>`</code> (backquote) par des <code>A</code>
+</li><li class="li-itemize">On remplacera tous les caractères entre <code> </code>
+et <code>_</code> (entre espace et underscore) par les caractères
+<code>A-Za-z0-9+/</code> (il y en a le bon nombre!).
+</li></ul><div class="lstlisting">  <b>% mymime &lt;&lt;&lt;toto</b>
+  dG90bwoA
+  <b>% mymime &lt;&lt;&lt;tototototot</b>
+  dG90b3RvdG90b3QK
+  <b>% mymime &lt;&lt;EOF</b>
+  heredoc&gt; kfqbmfksjfs
+  heredoc&gt; mlfjklskdflds
+  heredoc&gt; lksfjzoeihgbmlaqv mefùbl
+  heredoc&gt; EOF
+  a2ZxYm1ma3NqZnMgCm1sZmprbHNrZGZsZHMKbGtzZmp6b2VpaGdibWxhcXYg
+  bWVmw7libAoA</div><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier exécutable <code>mymime</code>
+</li></ul><p><b>Notation sur 3 points</b></p><ul class="itemize"><li class="li-itemize">
+3 points si votre script a le comportement défini précédemment sur un
+jeu significatif d&#8217;exemples.
+</li></ul><p>
+
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 3
+<br>
+</b></font>
+Écrire un script <code>randstring</code> prenant sur sa ligne de commande
+un nombre et rendant sur sa sortie standard un chaîne aléatoire de
+la taille spécifiée. La chaine pourra contenir des lettres non
+accentuées minuscules ou majuscules et des chiffres.</p><div class="lstlisting">  <b>% correction/randstring 10</b>
+  xBEwHW8hsk
+  <b>% correction/randstring 100</b>
+  EqOBUBVmJhlC6PuVh3jKxuHbT8zvFAXT5thb9TsGm0NmOa2vByeV7Kk1zSON1dfJ07o9KAN32BE8iMReqQCndyFZ3EKryIP41JSK</div><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier exécutable <code>randstring</code>
+</li></ul><p><b>Notation sur 1 point</b></p><ul class="itemize"><li class="li-itemize">
+1 point si votre script a le comportement défini précédemment sur un
+jeu significatif d&#8217;exemples.
+</li></ul><p>
+
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 4
+<br>
+</b></font></p><p>Écrire un script nommé <code>formatmultipart</code> prenant sur sa ligne
+de commande un nom de fichier texte 7 bits, un nom de fichier
+contenant du texte déjà <i>mmencodé</i> et affichant sur sa sortie standard
+le contenu d&#8217;un mail au format MIME Multipart :</p><div class="lstlisting">  <b>% formatmultipart fictext ficencode</b>
+  MIME-Version: 1.0
+  Content-Type: multipart/mixed; boundary=ChaineALEATOIRE
+  
+  This is a message with multiple parts in MIME format.
+  --ChaineALEATOIRE
+  Content-Type: text/plain
+  
+  Ceci est le contenu du fichier texte
+  --ChaineALEATOIRE
+  Content-Type: application/octet-stream
+  Content-Transfer-Encoding: base64
+  
+  PGh0bWw+CiAgPGhlYWQ+CiAgPC9oZWFkPgogIDxib2R5PgogICAgPHA+VGhpcyBpcyB0aGUg
+  Ym9keSBvZiB0aGUgbWVzc2FnZS48L3A+CiAgPC9ib2R5Pgo8L2h0bWw+Cg=
+  --ChaineALEATOIRE--</div><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier exécutable <code>formatmultipart</code>
+</li></ul><p><b>Notation sur 2 points</b></p><ul class="itemize"><li class="li-itemize">
+2 points si votre script a le comportement défini précédemment sur un
+jeu significatif d&#8217;exemples.
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 5
+<br>
+</b></font></p><p>Écrire un module nommé <code>module.pm</code> regroupant des fonctions 
+effectuant les taches précédentes et n&#8217;exportant que la fonction
+correspondant au script <code>formatmultipart</code></p><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le module <code>module.pm</code>
+</li></ul><p><b>Notation sur 1 point</b></p><ul class="itemize"><li class="li-itemize">
+1 point si le module est correctement construit.
+</li></ul><!--TOC section Questions diverses-->
+<h2 class="section"><!--SEC ANCHOR --><a name="htoc2">2</a>&nbsp;&nbsp;Questions diverses</h2><!--SEC END --><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 6
+<br>
+</b></font>Écrire un script nommé <code>rainbow</code> affichant sur sa sortie
+standard les chaînes de caractères présentes sur son entrée
+standard dans laquelle chaque caractère est coloré de maniere aléatoire. </p><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier <tt>rainbow</tt>
+</li></ul><p><b>Notation sur 1 point</b></p><ul class="itemize"><li class="li-itemize">
+1 point si l&#8217;affichage est correct.
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 7
+<br>
+</b></font>Écrire un script nommé <code>recompose</code> prends sur sa ligne de commande
+un nom de fichier texte et affichant sur sa sortie standard des
+lignes de taille 80 caractères de texte formée des 3-ième mots de
+chaque lignes du fichier lu.</p><div class="lstlisting">  <b>% correction/recompose doc</b>
+  User    AM IO  YN use  ES IO sockets methods  IO to particular  IO Socket  ON ne
+  w Creates symbol arguments looks will method  NOTE  As by  NOTE  ET See supporte
+  d corresponding  socket socketpair bind listen accept send recv peername socknam
+  e shutdown  Some perlfunc  accept perform object listen to  In failure containin
+  g empty  The poll will is timeout  socketpair Call empty  Additional  atmark Tru
+  e false  use  my sock  Note functions unsupported the  The function  use  This p
+  rocedural _  connected If If returned  protocol Returns socket socket  sockdomai
+  n Returns example returned  sockopt Unified If setsockopt  getsockopt Get may  s
+  etsockopt Set may  socktype Returns a  timeout Set socket is changed  EE Socket
+   UT Graham Perl  OP Copyright reserved and  The lstein Perl you    14</div><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le script <tt>recompose</tt>
+</li></ul><p><b>Notation sur 1 point</b></p><ul class="itemize"><li class="li-itemize">
+1 point si Le script produit un résultat correct sur plusieurs entrees
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 8
+<br>
+</b></font>Écrire un script nommé <code>symbolparmodule</code> prenant sur son entrée
+standard des lignes telles que celles qui composent le fichier <tt>/proc/kallsyms</tt> et comptant module par module les symboles mis à
+disposition. Si on fait <code>cat /proc/kallsyms</code> on voit apparaître
+les symbols du kernel, et d&#8217;où ils viennent :
+</p><div class="lstlisting">% <b>cat</b> /proc/kallsyms | <b>head</b>                                      ~
+0000000000000000 D irq_stack_union
+0000000000000000 D __per_cpu_start
+ffffffff81000190 T _stext
+ffffffff81001000 T hypercall_page
+ffffffff81002000 t arch_local_save_flags
+ffffffff81002008 t arch_local_irq_enable
+ffffffff81002010 T do_one_initcall
+....
+ffffffffa003918c t __usb_get_extra_descriptor   [usbcore]
+ffffffffa003e2cb t usb_hcd_unmap_urb_setup_for_dma      [usbcore]
+ffffffffa003dc10 t usb_create_shared_hcd        [usbcore]
+ffffffffa003b5a0 t usb_remove_device    [usbcore]
+ffffffffa003945b t usb_alloc_dev        [usbcore]
+ffffffffa0039769 t usb_root_hub_lost_power      [usbcore]
+ffffffffa0000000 t usb_speed_string     [usb_common]</div><p>Les symboles sont les chaînes <code>usb_speed_string</code> ... 
+Les crochets correspondent au module d&#8217;où viennent les symboles. Si
+aucun crochet n&#8217;est présent c&#8217;est que c&#8217;est le kernel de base qui
+produit le module.
+<b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le script <tt>symbolparmodule</tt> 
+</li></ul><p><b>Notation sur 2 points</b></p><ul class="itemize"><li class="li-itemize">
+2 points si le script produit un resulat correct sur plusieurs entrées.=
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 9
+<br>
+</b></font></p><p>Écrire un script nommé <code>listlist</code> prennant sur son entree
+standard une liste de mots, (éventuellemnt plusieurs par ligne) et,
+une fois lus tous les mots, affichant lettre par lettre, et dans
+l&#8217;ordre alphabetique, les mots lus. On souhaite aussi éviter les
+doublons:</p><div class="lstlisting">% listlist &lt;&lt;EOF
+toto tutu tata
+toto azerty
+EOF
+a
+        azerty
+t
+        tata
+        toto
+        tutu</div><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le script <tt>listlist</tt> 
+</li></ul><p><b>Notation sur 2 points</b></p><ul class="itemize"><li class="li-itemize">
+2 points si le script produit un resulat correct sur plusieurs entrées.=
+</li></ul><!--TOC section Client Serveur de chat-->
+<h2 class="section"><!--SEC ANCHOR --><a name="htoc3">3</a>&nbsp;&nbsp;Client Serveur de chat</h2><!--SEC END --><p>Le but de cette section est de créer un serveur de messages
+instantanés.</p><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 10
+<br>
+</b></font>
+Écrire un script <code>salledediscution</code> prenant sur sa ligne de commande
+une adresse ip et un numero de port et lancant un serveur TCP en
+ecoute sur le port donné de l&#8217;adresse (locale) donnée.</p><p>Ce serveur attendra que des clients arrivent lorsque ceux ci se seront
+présentés il stockera leur socket de service dans une liste. Si un
+message est présent sur une des sockets de la liste des client alors
+ce message devra être retransmis aux autres clients.</p><p>Pour mettre en place ce comportement sans vraiment se poser de
+questions il peut être <b>tres</b> profitable d&#8217;utiliser le module
+<code>IO::Select</code>.</p><p>On souhaite que <code>salledediscution</code> gère <em>au moins</em> 10 clients
+en simultané!
+<b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier exécutable <code>salledediscution</code>
+</li></ul><p><b>Notation sur 3 points</b></p><ul class="itemize"><li class="li-itemize">
+1 point si <code>salledediscution</code> ouvre bien une socket sur le bon
+port et si plus de 10 clients peuvent y ete connectés a la fois.
+</li><li class="li-itemize">1 point si un client peut arriver en cours de route.
+</li><li class="li-itemize">1 point si la retransmission des messages est correcte.
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 11
+<br>
+</b></font>
+Écrire un script <code>client</code> prenant sur sa ligne de commande un
+nom/IP d&#8217;hôte et un numéro de port et se connectant sur la machine
+donnée. Tous les messages tapés au clavier doivent être envoyés au
+serveur et tous les messages en provenance du serveur doivent être
+affichés en rouge.</p><p>On prendra soin que les messages envoyés par le serveur apparaissent
+en temps réel sur l&#8217;ecran! 
+<b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+Le fichier exécutable <code>client</code>
+</li></ul><p><b>Notation sur 3 points</b></p><ul class="itemize"><li class="li-itemize">
+1 point si <code>client</code> se connect correctement
+</li><li class="li-itemize">1 point si les messages sont bien transmis en temps réel (pas d&#8217;io
+bloquantes)
+</li><li class="li-itemize">1 point si les messages en provenance du serveur sont bien en rouge.
+</li></ul><p>
+<br>
+<br>
+<br>
+<br>
+<font size="4"><b>Question 12
+<br>
+</b></font>
+Écrire un script nommé <code>forum</code> prenant sur son entrée standard
+une adresse IP, un numéro de port et créant une socket TCP sur le port
+donné de l&#8217;interface correspondant à l&#8217;adresse IP donnée. </p><p>Ce serveur attendra un client et lorsque celui ci arrivera : le
+serveur lui enverra une chaîne de bienvenue et lui demandera ses
+commandes. Les commandes possibles seront :
+</p><ul class="itemize"><li class="li-itemize">
+<code>create &lt;nom&gt;</code> qui crera un nouveau processus
+<code>salledediscution</code> sur un port aléatoire compris entre 10000
+et 20000 non occupé. Et associera le nom a cette salle.
+</li><li class="li-itemize"><code>list</code> qui listera les salles crées en montrant leur nom.
+</li><li class="li-itemize"><code>connect &lt;nom&gt;</code> qui retournera le numéro de port associé
+au nom et fermera la connexion.
+</li></ul><p><b>Livraison</b></p><ul class="itemize"><li class="li-itemize">
+le script <tt>forum</tt>
+</li></ul><p><b>Notation sur 3 points</b></p><ul class="itemize"><li class="li-itemize">
+3 points 1 point par commande implantée par <code>forum</code> </li></ul></div><!--CUT END -->
+<!--HTMLFOOT-->
+<!--ENDHTML-->
+<!--FOOTER-->
+<hr size="2"><blockquote class="quote"><em>This document was translated from L<sup>A</sup>T<sub>E</sub>X by
+<a href="http://hevea.inria.fr/index.html">H<font size="2"><sup>E</sup></font>V<font size="2"><sup>E</sup></font>A</a>.</em></blockquote>
+
+</body></html>

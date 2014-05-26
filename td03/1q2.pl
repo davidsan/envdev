@@ -1,31 +1,25 @@
-#! /usr/bin/perl -l -s
+#! /usr/bin/perl -s
 
 use strict;
-use diagnostics;
-diagnostics::enable;
-
-my $f;
-my @fortune;
-my $i;
+use warnings;
+my ($fn, $fh, $l, $acc, @fortunes);
 our $number;
 
-$/="%";
-foreach $f (@ARGV){
-    open F, $f;
-    while (<F>){
-	$_=~ s/%//;
-	$fortune[$.]=$_;
-
-    }
-    close F;
+foreach $fn (@ARGV){
+	open $fh, $fn or die "error";
+	while($l=<$fh>){
+		if($l=~/^%$/){
+			push @fortunes, $acc;
+			$acc="";
+		}else{
+			$acc.=$l;
+		}
+	}
 }
 
-#for ($i=0; $i<$number; $i++){
-for ($i=0; $i< $number; $i++){
-    print $fortune[rand(@fortune-1)+1];
+if(!$number){
+	$number=1;
 }
-
-$cit=rand (@fortune-1)+1);
-print $fortune[$cit];
-delete $fortune[$cit];
-@fortune=grep{defined} @fortune;
+for (my $i = 0; $i < $number; $i++) {
+	print $fortunes[int(rand(@fortunes))]."\n";
+}
